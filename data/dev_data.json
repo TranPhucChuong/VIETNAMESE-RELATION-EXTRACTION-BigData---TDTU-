@@ -1,0 +1,1372 @@
+[
+   {
+      "doc_id":"23351996",
+      "sent_id":1,
+      "sentence":"U16 Việt Nam dội 'mưa gôn' vào lưới Mông Cổ Không nằm ngoài dự đoán, U16 Việt Nam đã có chiến thắng dễ dàng trước U16 Mông Cổ .",
+      "spos":[
+         0,
+         127
+      ],
+      "entity_1":{
+         "text":"U16 Việt Nam",
+         "pos":[
+            0,
+            12
+         ]
+      },
+      "entity_2":{
+         "text":"Mông Cổ",
+         "pos":[
+            36,
+            43
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351996",
+      "sent_id":2,
+      "sentence":"U16 Việt Nam dội 'mưa gôn' vào lưới Mông Cổ Không nằm ngoài dự đoán, U16 Việt Nam đã có chiến thắng dễ dàng trước U16 Mông Cổ .",
+      "spos":[
+         0,
+         127
+      ],
+      "entity_1":{
+         "text":"U16 Việt Nam",
+         "pos":[
+            0,
+            12
+         ]
+      },
+      "entity_2":{
+         "text":"U16 Việt Nam",
+         "pos":[
+            69,
+            81
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351996",
+      "sent_id":3,
+      "sentence":"U16 Việt Nam dội 'mưa gôn' vào lưới Mông Cổ Không nằm ngoài dự đoán, U16 Việt Nam đã có chiến thắng dễ dàng trước U16 Mông Cổ .",
+      "spos":[
+         0,
+         127
+      ],
+      "entity_1":{
+         "text":"U16 Việt Nam",
+         "pos":[
+            0,
+            12
+         ]
+      },
+      "entity_2":{
+         "text":"U16 Mông Cổ",
+         "pos":[
+            114,
+            125
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351996",
+      "sent_id":4,
+      "sentence":"U16 Việt Nam dội 'mưa gôn' vào lưới Mông Cổ Không nằm ngoài dự đoán, U16 Việt Nam đã có chiến thắng dễ dàng trước U16 Mông Cổ .",
+      "spos":[
+         0,
+         127
+      ],
+      "entity_1":{
+         "text":"Mông Cổ",
+         "pos":[
+            36,
+            43
+         ]
+      },
+      "entity_2":{
+         "text":"U16 Việt Nam",
+         "pos":[
+            69,
+            81
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351996",
+      "sent_id":5,
+      "sentence":"U16 Việt Nam dội 'mưa gôn' vào lưới Mông Cổ Không nằm ngoài dự đoán, U16 Việt Nam đã có chiến thắng dễ dàng trước U16 Mông Cổ .",
+      "spos":[
+         0,
+         127
+      ],
+      "entity_1":{
+         "text":"Mông Cổ",
+         "pos":[
+            36,
+            43
+         ]
+      },
+      "entity_2":{
+         "text":"U16 Mông Cổ",
+         "pos":[
+            114,
+            125
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351996",
+      "sent_id":6,
+      "sentence":"U16 Việt Nam dội 'mưa gôn' vào lưới Mông Cổ Không nằm ngoài dự đoán, U16 Việt Nam đã có chiến thắng dễ dàng trước U16 Mông Cổ .",
+      "spos":[
+         0,
+         127
+      ],
+      "entity_1":{
+         "text":"U16 Việt Nam",
+         "pos":[
+            69,
+            81
+         ]
+      },
+      "entity_2":{
+         "text":"U16 Mông Cổ",
+         "pos":[
+            114,
+            125
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351996",
+      "sent_id":7,
+      "sentence":"Như vậy tại bảng I vòng loại U16 châu Á 2018 , U16 Việt Nam và U16 Australia tạm bằng điểm nhau.",
+      "spos":[
+         153,
+         249
+      ],
+      "entity_1":{
+         "text":"U16 Việt Nam",
+         "pos":[
+            47,
+            59
+         ]
+      },
+      "entity_2":{
+         "text":"U16 Australia",
+         "pos":[
+            63,
+            76
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351996",
+      "sent_id":8,
+      "sentence":"U16 Việt Nam thắng dễ U16 Mông Cổ .",
+      "spos":[
+         316,
+         351
+      ],
+      "entity_1":{
+         "text":"U16 Việt Nam",
+         "pos":[
+            0,
+            12
+         ]
+      },
+      "entity_2":{
+         "text":"U16 Mông Cổ",
+         "pos":[
+            22,
+            33
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351996",
+      "sent_id":9,
+      "sentence":"Trong trận ra quân tại bảng I vòng loại U16 châu Á 2018 gặp U16 Campuchia , dù bị gỡ hòa 1-1 và bị mất người ở phút 20, nhưng U16 Việt Nam vẫn chơi xuất sắc để có chiến thắng chung cuộc 5-2.",
+      "spos":[
+         352,
+         542
+      ],
+      "entity_1":{
+         "text":"U16 Campuchia",
+         "pos":[
+            60,
+            73
+         ]
+      },
+      "entity_2":{
+         "text":"U16 Việt Nam",
+         "pos":[
+            126,
+            138
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351996",
+      "sent_id":10,
+      "sentence":"Bước vào trận thứ 2 gặp chủ nhà U16 Mông Cổ , U16 Việt Nam tràn đầy tự tin hướng tới một chiến thắng đậm nhằm tạo đà tâm lý trước cuộc quyết đấu với U16 Australia vào chiều ngày 24/9 tới.",
+      "spos":[
+         543,
+         730
+      ],
+      "entity_1":{
+         "text":"U16 Mông Cổ",
+         "pos":[
+            32,
+            43
+         ]
+      },
+      "entity_2":{
+         "text":"U16 Việt Nam",
+         "pos":[
+            46,
+            58
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351996",
+      "sent_id":11,
+      "sentence":"Bước vào trận thứ 2 gặp chủ nhà U16 Mông Cổ , U16 Việt Nam tràn đầy tự tin hướng tới một chiến thắng đậm nhằm tạo đà tâm lý trước cuộc quyết đấu với U16 Australia vào chiều ngày 24/9 tới.",
+      "spos":[
+         543,
+         730
+      ],
+      "entity_1":{
+         "text":"U16 Mông Cổ",
+         "pos":[
+            32,
+            43
+         ]
+      },
+      "entity_2":{
+         "text":"U16 Australia",
+         "pos":[
+            149,
+            162
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351996",
+      "sent_id":12,
+      "sentence":"Bước vào trận thứ 2 gặp chủ nhà U16 Mông Cổ , U16 Việt Nam tràn đầy tự tin hướng tới một chiến thắng đậm nhằm tạo đà tâm lý trước cuộc quyết đấu với U16 Australia vào chiều ngày 24/9 tới.",
+      "spos":[
+         543,
+         730
+      ],
+      "entity_1":{
+         "text":"U16 Việt Nam",
+         "pos":[
+            46,
+            58
+         ]
+      },
+      "entity_2":{
+         "text":"U16 Australia",
+         "pos":[
+            149,
+            162
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351996",
+      "sent_id":13,
+      "sentence":"Trước một đối thủ bị đánh giá thấp hơn về mọi mặt, U16 Việt Nam không gặp nhiều khó khăn để làm chủ cuộc chơi và nhanh chóng có bàn vượt lên dẫn trước do công của Nguyên Hoàng ngay phút thứ 13.",
+      "spos":[
+         731,
+         924
+      ],
+      "entity_1":{
+         "text":"U16 Việt Nam",
+         "pos":[
+            51,
+            63
+         ]
+      },
+      "entity_2":{
+         "text":"Nguyên Hoàng",
+         "pos":[
+            163,
+            175
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23351996",
+      "sent_id":14,
+      "sentence":"10 phút sau, Thanh Trung (số 7) nâng tỷ số lên 2-0 từ chấm phạt đền sau khi thủ môn đối phương phạm lỗi với Nguyên Hoàng trong vòng cấm.",
+      "spos":[
+         925,
+         1061
+      ],
+      "entity_1":{
+         "text":"Thanh Trung",
+         "pos":[
+            13,
+            24
+         ]
+      },
+      "entity_2":{
+         "text":"Nguyên Hoàng",
+         "pos":[
+            108,
+            120
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351996",
+      "sent_id":15,
+      "sentence":"Những phút còn lại của hiệp 1, U16 Việt Nam tiếp tục tạo ra một sức ép cực lớn lên phần sân của U16 Mông Cổ .",
+      "spos":[
+         1062,
+         1171
+      ],
+      "entity_1":{
+         "text":"U16 Việt Nam",
+         "pos":[
+            31,
+            43
+         ]
+      },
+      "entity_2":{
+         "text":"U16 Mông Cổ",
+         "pos":[
+            96,
+            107
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351997",
+      "sent_id":16,
+      "sentence":"Real Madrid trải qua 3 trận đấu không biết mùi chiến thắng trên sân nhà tại La Liga mùa này. Đặc biệt là trận thua ‘sốc’ trước đội bóng nhược tiểu Real Betis đã khiến khoảng cách giữa Los Blancos và Barcelona bị nới rộng lên thành 7 điểm.",
+      "spos":[
+         131,
+         369
+      ],
+      "entity_1":{
+         "text":"Real Madrid",
+         "pos":[
+            0,
+            11
+         ]
+      },
+      "entity_2":{
+         "text":"Real Betis",
+         "pos":[
+            147,
+            157
+         ]
+      },
+      "label":"OTHERS"
+   }
+   ,
+   {
+      "doc_id":"23351997",
+      "sent_id":17,
+      "sentence":"Real Madrid trải qua 3 trận đấu không biết mùi chiến thắng trên sân nhà tại La Liga mùa này. Đặc biệt là trận thua ‘sốc’ trước đội bóng nhược tiểu Real Betis đã khiến khoảng cách giữa Los Blancos và Barcelona bị nới rộng lên thành 7 điểm.",
+      "spos":[
+         131,
+         369
+      ],
+      "entity_1":{
+         "text":"Real Madrid",
+         "pos":[
+            0,
+            11
+         ]
+      },
+      "entity_2":{
+         "text":"La Liga",
+         "pos":[
+            76,
+            83
+         ]
+      },
+      "label":"PART_WHOLE"
+   } ,
+   {
+      "doc_id":"23351997",
+      "sent_id":18,
+      "sentence":"Real Madrid trải qua 3 trận đấu không biết mùi chiến thắng trên sân nhà tại La Liga mùa này. Đặc biệt là trận thua ‘sốc’ trước đội bóng nhược tiểu Real Betis đã khiến khoảng cách giữa Los Blancos và Barcelona bị nới rộng lên thành 7 điểm.",
+      "spos":[
+         131,
+         369
+      ],
+      "entity_1":{
+         "text":"Real Madrid",
+         "pos":[
+            0,
+            11
+         ]
+      },
+      "entity_2":{
+         "text":"Los Blancos",
+         "pos":[
+            184,
+            195
+         ]
+      },
+      "label":"OTHERS"
+   } ,
+   
+   {
+      "doc_id":"23351997",
+      "sent_id":19,
+      "sentence":"Real Madrid trải qua 3 trận đấu không biết mùi chiến thắng trên sân nhà tại La Liga mùa này. Đặc biệt là trận thua ‘sốc’ trước đội bóng nhược tiểu Real Betis đã khiến khoảng cách giữa Los Blancos và Barcelona bị nới rộng lên thành 7 điểm.",
+      "spos":[
+         131,
+         369
+      ],
+      "entity_1":{
+         "text":"Real Madrid",
+         "pos":[
+            0,
+            11
+         ]
+      },
+      "entity_2":{
+         "text":"Barcelona",
+         "pos":[
+            199,
+            208
+         ]
+      },
+      "label":"OTHERS"
+   } ,
+   {
+      "doc_id":"23351997",
+      "sent_id":20,
+      "sentence":"Real Madrid trải qua 3 trận đấu không biết mùi chiến thắng trên sân nhà tại La Liga mùa này. Đặc biệt là trận thua ‘sốc’ trước đội bóng nhược tiểu Real Betis đã khiến khoảng cách giữa Los Blancos và Barcelona bị nới rộng lên thành 7 điểm.",
+      "spos":[
+         131,
+         369
+      ],
+      "entity_1":{
+        "text":"Real Betis",
+         "pos":[
+            147,
+            157
+         ]
+      },
+      "entity_2":{
+        "text":"Los Blancos",
+        "pos":[
+           184,
+           195
+        ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351997",
+      "sent_id":21,
+      "sentence":"Real Madrid trải qua 3 trận đấu không biết mùi chiến thắng trên sân nhà tại La Liga mùa này. Đặc biệt là trận thua ‘sốc’ trước đội bóng nhược tiểu Real Betis đã khiến khoảng cách giữa Los Blancos và Barcelona bị nới rộng lên thành 7 điểm.",
+      "spos":[
+         131,
+         369
+      ],
+      "entity_1":{
+        "text":"Real Betis",
+         "pos":[
+            147,
+            157
+         ]
+      },
+      "entity_2":{
+        "text":"Los Blancos",
+        "pos":[
+           184,
+           195
+        ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351997",
+      "sent_id":22,
+      "sentence":"Real Madrid trải qua 3 trận đấu không biết mùi chiến thắng trên sân nhà tại La Liga mùa này. Đặc biệt là trận thua ‘sốc’ trước đội bóng nhược tiểu Real Betis đã khiến khoảng cách giữa Los Blancos và Barcelona bị nới rộng lên thành 7 điểm.",
+      "spos":[
+         131,
+         369
+      ],
+      "entity_1":{
+        "text":"Real Betis",
+         "pos":[
+            147,
+            157
+         ]
+      },
+      "entity_2":{
+        "text":"Barcelona",
+         "pos":[
+            199,
+            208
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351997",
+      "sent_id":23,
+      "sentence":"Real Madrid trải qua 3 trận đấu không biết mùi chiến thắng trên sân nhà tại La Liga mùa này. Đặc biệt là trận thua ‘sốc’ trước đội bóng nhược tiểu Real Betis đã khiến khoảng cách giữa Los Blancos và Barcelona bị nới rộng lên thành 7 điểm.",
+      "spos":[
+         131,
+         369
+      ],
+      "entity_1":{
+        "text":"Los Blancos",
+        "pos":[
+           184,
+           195
+        ]
+      },
+      "entity_2":{
+        "text":"Barcelona",
+         "pos":[
+            199,
+            208
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351519",
+      "sent_id":24,
+      "sentence":"Cao Ngọc Hùng - Nguyễn Thị Hải là cặp vợ chồng hiếm hoi cùng thi đấu và cùng nhau giành tới 4 HCV, 1 HCB cho đoàn Việt Nam tại Đại hội Thể thao người khuyết tật Đông Nam Á (Para Games) 2017 đang diễn ra tại Malaysia.",
+      "spos":[
+         51,
+         268
+      ],
+      "entity_1":{
+        "text":"Cao Ngọc Hùng",
+        "pos":[
+           0,
+           13
+        ]
+      },
+      "entity_2":{
+        "text":"Nguyễn Thị Hải",
+         "pos":[
+            16,
+            30
+         ]
+      },
+      "label":"PERSONAL_SOCIAL"
+   },
+   {
+      "doc_id":"23351519",
+      "sent_id":25,
+      "sentence":"Cao Ngọc Hùng - Nguyễn Thị Hải là cặp vợ chồng hiếm hoi cùng thi đấu và cùng nhau giành tới 4 HCV, 1 HCB cho đoàn Việt Nam tại Đại hội Thể thao người khuyết tật Đông Nam Á (Para Games) 2017 đang diễn ra tại Malaysia.",
+      "spos":[
+         51,
+         268
+      ],
+      "entity_1":{
+        "text":"Cao Ngọc Hùng",
+        "pos":[
+           0,
+           13
+        ]
+      },
+      "entity_2":{
+        "text":"Việt Nam",
+         "pos":[
+            114,
+            122
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23351519",
+      "sent_id":26,
+      "sentence":"Cao Ngọc Hùng - Nguyễn Thị Hải là cặp vợ chồng hiếm hoi cùng thi đấu và cùng nhau giành tới 4 HCV, 1 HCB cho đoàn Việt Nam tại Đại hội Thể thao người khuyết tật Đông Nam Á (Para Games) 2017 đang diễn ra tại Malaysia.",
+      "spos":[
+         51,
+         268
+      ],
+      "entity_1":{
+        "text":"Cao Ngọc Hùng",
+        "pos":[
+           0,
+           13
+        ]
+      },
+      "entity_2":{
+        "text":"Đông Nam Á",
+         "pos":[
+            161,
+            171
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351519",
+      "sent_id":27,
+      "sentence":"Cao Ngọc Hùng - Nguyễn Thị Hải là cặp vợ chồng hiếm hoi cùng thi đấu và cùng nhau giành tới 4 HCV, 1 HCB cho đoàn Việt Nam tại Đại hội Thể thao người khuyết tật Đông Nam Á (Para Games) 2017 đang diễn ra tại Malaysia.",
+      "spos":[
+         51,
+         268
+      ],
+      "entity_1":{
+        "text":"Cao Ngọc Hùng",
+        "pos":[
+           0,
+           13
+        ]
+      },
+      "entity_2":{
+        "text":"Malaysia",
+         "pos":[
+            207,
+            215
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351519",
+      "sent_id":28,
+      "sentence":"Cao Ngọc Hùng - Nguyễn Thị Hải là cặp vợ chồng hiếm hoi cùng thi đấu và cùng nhau giành tới 4 HCV, 1 HCB cho đoàn Việt Nam tại Đại hội Thể thao người khuyết tật Đông Nam Á (Para Games) 2017 đang diễn ra tại Malaysia.",
+      "spos":[
+         51,
+         268
+      ],
+      "entity_1":{
+        "text":"Việt Nam",
+        "pos":[
+           114,
+           122
+        ]
+      },
+      "entity_2":{
+        "text":"Đông Nam Á",
+         "pos":[
+            161,
+            171
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23351519",
+      "sent_id":29,
+      "sentence":"Cao Ngọc Hùng - Nguyễn Thị Hải là cặp vợ chồng hiếm hoi cùng thi đấu và cùng nhau giành tới 4 HCV, 1 HCB cho đoàn Việt Nam tại Đại hội Thể thao người khuyết tật Đông Nam Á (Para Games) 2017 đang diễn ra tại Malaysia.",
+      "spos":[
+         51,
+         268
+      ],
+      "entity_1":{
+        "text":"Việt Nam",
+        "pos":[
+           114,
+           122
+        ]
+      },
+      "entity_2":{
+        "text":"Malaysia",
+         "pos":[
+            207,
+            215
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351519",
+      "sent_id":30,
+      "sentence":"Cao Ngọc Hùng - Nguyễn Thị Hải là cặp vợ chồng hiếm hoi cùng thi đấu và cùng nhau giành tới 4 HCV, 1 HCB cho đoàn Việt Nam tại Đại hội Thể thao người khuyết tật Đông Nam Á (Para Games) 2017 đang diễn ra tại Malaysia.",
+      "spos":[
+         51,
+         268
+      ],
+      "entity_1":{
+        "text":"Đông Nam Á",
+         "pos":[
+            161,
+            171
+         ]
+      },
+      "entity_2":{
+        "text":"Malaysia",
+         "pos":[
+            207,
+            215
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351522",
+      "sent_id":31,
+      "sentence":"Biếm họa 24h: Messi chế nhạo Real, sao MU 'lấn sân' thể hình",
+      "spos":[
+         0,
+         60
+      ],
+      "entity_1":{
+        "text":"Messi",
+         "pos":[
+            14,
+            19
+         ]
+      },
+      "entity_2":{
+        "text":"Real",
+         "pos":[
+            29,
+            33
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23351522",
+      "sent_id":32,
+      "sentence":"Biếm họa 24h: Messi chế nhạo Real, sao MU 'lấn sân' thể hình",
+      "spos":[
+         0,
+         60
+      ],
+      "entity_1":{
+        "text":"Messi",
+         "pos":[
+            14,
+            19
+         ]
+      },
+      "entity_2":{
+        "text":"MU",
+         "pos":[
+            39,
+            41
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23351522",
+      "sent_id":33,
+      "sentence":"Biếm họa 24h: Messi chế nhạo Real, sao MU 'lấn sân' thể hình",
+      "spos":[
+         0,
+         60
+      ],
+      "entity_1":{
+        "text":"Real",
+         "pos":[
+            29,
+            33
+         ]
+      },
+      "entity_2":{
+        "text":"MU",
+         "pos":[
+            39,
+            41
+         ]
+      },
+      "label":"PART_WHOLE"
+   },
+   {
+      "doc_id":"23353111",
+      "sent_id":34,
+      "sentence":"NDĐT – Với mục tiêu bảo đảm khai thác hiệu quả, nâng cao chất lượng cơ sở vật chất phục vụ giáo dục thể chất, trường THPT chuyên Hà Nội -Amsterdam đã báo cáo với Sở Giáo dục và Đào tạo (GD-ĐT) Hà Nội để được thí điểm hợp tác các hoạt động thể thao với đối tác theo hướng cùng đầu tư, khai thác hiệu quả tài sản công.",
+      "spos":[
+         57,
+         372
+      ],
+      "entity_1":{
+        "text":"NDĐT",
+         "pos":[
+            0,
+            4
+         ]
+      },
+      "entity_2":{
+        "text":"trường THPT chuyên",
+         "pos":[
+            110,
+            128
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23353111",
+      "sent_id":35,
+      "sentence":"NDĐT – Với mục tiêu bảo đảm khai thác hiệu quả, nâng cao chất lượng cơ sở vật chất phục vụ giáo dục thể chất, trường THPT chuyên Hà Nội -Amsterdam đã báo cáo với Sở Giáo dục và Đào tạo (GD-ĐT) Hà Nội để được thí điểm hợp tác các hoạt động thể thao với đối tác theo hướng cùng đầu tư, khai thác hiệu quả tài sản công.",
+      "spos":[
+         57,
+         372
+      ],
+      "entity_1":{
+        "text":"NDĐT",
+         "pos":[
+            0,
+            4
+         ]
+      },
+      "entity_2":{
+        "text":"Hà Nội",
+         "pos":[
+            129,
+            135
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353111",
+      "sent_id":36,
+      "sentence":"NDĐT – Với mục tiêu bảo đảm khai thác hiệu quả, nâng cao chất lượng cơ sở vật chất phục vụ giáo dục thể chất, trường THPT chuyên Hà Nội -Amsterdam đã báo cáo với Sở Giáo dục và Đào tạo (GD-ĐT) Hà Nội để được thí điểm hợp tác các hoạt động thể thao với đối tác theo hướng cùng đầu tư, khai thác hiệu quả tài sản công.",
+      "spos":[
+         57,
+         372
+      ],
+      "entity_1":{
+        "text":"NDĐT",
+         "pos":[
+            0,
+            4
+         ]
+      },
+      "entity_2":{
+        "text":"Sở Giáo dục và Đào tạo",
+         "pos":[
+            162,
+            184
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23353111",
+      "sent_id":37,
+      "sentence":"NDĐT – Với mục tiêu bảo đảm khai thác hiệu quả, nâng cao chất lượng cơ sở vật chất phục vụ giáo dục thể chất, trường THPT chuyên Hà Nội -Amsterdam đã báo cáo với Sở Giáo dục và Đào tạo (GD-ĐT) Hà Nội để được thí điểm hợp tác các hoạt động thể thao với đối tác theo hướng cùng đầu tư, khai thác hiệu quả tài sản công.",
+      "spos":[
+         57,
+         372
+      ],
+      "entity_1":{
+        "text":"trường THPT chuyên",
+         "pos":[
+            110,
+            128
+         ]
+      },
+      "entity_2":{
+        "text":"Hà Nội",
+         "pos":[
+            129,
+            135
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353111",
+      "sent_id":37,
+      "sentence":"NDĐT – Với mục tiêu bảo đảm khai thác hiệu quả, nâng cao chất lượng cơ sở vật chất phục vụ giáo dục thể chất, trường THPT chuyên Hà Nội -Amsterdam đã báo cáo với Sở Giáo dục và Đào tạo (GD-ĐT) Hà Nội để được thí điểm hợp tác các hoạt động thể thao với đối tác theo hướng cùng đầu tư, khai thác hiệu quả tài sản công.",
+      "spos":[
+         57,
+         372
+      ],
+      "entity_1":{
+        "text":"trường THPT chuyên",
+         "pos":[
+            110,
+            128
+         ]
+      },
+      "entity_2":{
+        "text":"Sở Giáo dục và Đào tạo",
+         "pos":[
+            162,
+            184
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23353111",
+      "sent_id":38,
+      "sentence":"NDĐT – Với mục tiêu bảo đảm khai thác hiệu quả, nâng cao chất lượng cơ sở vật chất phục vụ giáo dục thể chất, trường THPT chuyên Hà Nội -Amsterdam đã báo cáo với Sở Giáo dục và Đào tạo (GD-ĐT) Hà Nội để được thí điểm hợp tác các hoạt động thể thao với đối tác theo hướng cùng đầu tư, khai thác hiệu quả tài sản công.",
+      "spos":[
+         57,
+         372
+      ],
+      "entity_1":{
+        "text":"Sở Giáo dục và Đào tạo",
+         "pos":[
+            162,
+            184
+         ]
+      },
+      "entity_2":{
+        "text":"Hà Nội",
+         "pos":[
+            193,
+            199
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353111",
+      "sent_id":39,
+      "sentence":"Trường THPT chuyên Hà Nội Amsterdam được thành phố Hà Nội đầu tư cơ sở vật chất trường học vào loại hiện đại nhất không chỉ ở Thủ đô mà trên cả nước. Trong đó, riêng khu thể thao phục vụ đến gần 10 bộ môn thể dục thể thao khác nhau. Khu vực ngoài trời có một sân bóng đá cỏ nhân tạo, hai sân bóng rổ, một sân tennis và một đường chạy điền kinh. Khu thể chất có sàn tập thể dục trong nhà, bể bơi.",
+      "spos":[
+         373,
+         767
+      ],
+      "entity_1":{
+        "text":"Trường THPT chuyên",
+         "pos":[
+            0,
+            18
+         ]
+      },
+      "entity_2":{
+        "text":"Hà Nội",
+         "pos":[
+            19,
+            25
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353111",
+      "sent_id":40,
+      "sentence":"Trường THPT chuyên Hà Nội Amsterdam được thành phố Hà Nội đầu tư cơ sở vật chất trường học vào loại hiện đại nhất không chỉ ở Thủ đô mà trên cả nước. Trong đó, riêng khu thể thao phục vụ đến gần 10 bộ môn thể dục thể thao khác nhau. Khu vực ngoài trời có một sân bóng đá cỏ nhân tạo, hai sân bóng rổ, một sân tennis và một đường chạy điền kinh. Khu thể chất có sàn tập thể dục trong nhà, bể bơi.",
+      "spos":[
+         373,
+         767
+      ],
+      "entity_1":{
+        "text":"Trường THPT chuyên",
+         "pos":[
+            0,
+            18
+         ]
+      },
+      "entity_2":{
+        "text":"thành phố Hà Nội",
+         "pos":[
+            41,
+            57
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":41,
+      "sentence":"Vào đầu năm học mới, phụ huynh Trường Tiểu học Hải Bối (huyện Đông Anh, Hà Nội) đã phản ánh trường có gần 20 khoản lạm thu. Giải trình về điều này, hiệu trưởng cho biết có khoản đã trả lại phụ huynh, còn lại phần nhiều là khoản thu tự nguyện do Ban đại diện phụ huynh tổ chức.",
+      "spos":[
+         68,
+         343
+      ],
+      "entity_1":{
+        "text":"Trường Tiểu học",
+         "pos":[
+            31,
+            46
+         ]
+      },
+      "entity_2":{
+        "text":"Hải Bối",
+         "pos":[
+            47,
+            54
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":42,
+      "sentence":"Vào đầu năm học mới, phụ huynh Trường Tiểu học Hải Bối (huyện Đông Anh, Hà Nội) đã phản ánh trường có gần 20 khoản lạm thu. Giải trình về điều này, hiệu trưởng cho biết có khoản đã trả lại phụ huynh, còn lại phần nhiều là khoản thu tự nguyện do Ban đại diện phụ huynh tổ chức.",
+      "spos":[
+         68,
+         343
+      ],
+      "entity_1":{
+        "text":"Trường Tiểu học",
+         "pos":[
+            31,
+            46
+         ]
+      },
+      "entity_2":{
+        "text":"huyện Đông Anh",
+         "pos":[
+            56,
+            70
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":43,
+      "sentence":"Vào đầu năm học mới, phụ huynh Trường Tiểu học Hải Bối (huyện Đông Anh, Hà Nội) đã phản ánh trường có gần 20 khoản lạm thu. Giải trình về điều này, hiệu trưởng cho biết có khoản đã trả lại phụ huynh, còn lại phần nhiều là khoản thu tự nguyện do Ban đại diện phụ huynh tổ chức.",
+      "spos":[
+         68,
+         343
+      ],
+      "entity_1":{
+        "text":"Trường Tiểu học",
+         "pos":[
+            31,
+            46
+         ]
+      },
+      "entity_2":{
+        "text":"Hà Nội",
+         "pos":[
+            72,
+            78
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":44,
+      "sentence":"Vào đầu năm học mới, phụ huynh Trường Tiểu học Hải Bối (huyện Đông Anh, Hà Nội) đã phản ánh trường có gần 20 khoản lạm thu. Giải trình về điều này, hiệu trưởng cho biết có khoản đã trả lại phụ huynh, còn lại phần nhiều là khoản thu tự nguyện do Ban đại diện phụ huynh tổ chức.",
+      "spos":[
+         68,
+         343
+      ],
+      "entity_1":{
+        "text":"Hải Bối",
+        "pos":[
+           47,
+           54
+        ]
+      },
+      "entity_2":{
+        "text":"huyện Đông Anh",
+         "pos":[
+            56,
+            70
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":45,
+      "sentence":"Vào đầu năm học mới, phụ huynh Trường Tiểu học Hải Bối (huyện Đông Anh, Hà Nội) đã phản ánh trường có gần 20 khoản lạm thu. Giải trình về điều này, hiệu trưởng cho biết có khoản đã trả lại phụ huynh, còn lại phần nhiều là khoản thu tự nguyện do Ban đại diện phụ huynh tổ chức.",
+      "spos":[
+         68,
+         343
+      ],
+      "entity_1":{
+        "text":"Hải Bối",
+        "pos":[
+           47,
+           54
+        ]
+      },
+      "entity_2":{
+        "text":"Hà Nội",
+         "pos":[
+            72,
+            78
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":45,
+      "sentence":"Vào đầu năm học mới, phụ huynh Trường Tiểu học Hải Bối (huyện Đông Anh, Hà Nội) đã phản ánh trường có gần 20 khoản lạm thu. Giải trình về điều này, hiệu trưởng cho biết có khoản đã trả lại phụ huynh, còn lại phần nhiều là khoản thu tự nguyện do Ban đại diện phụ huynh tổ chức.",
+      "spos":[
+         68,
+         343
+      ],
+      "entity_1":{
+        "text":"huyện Đông Anh",
+         "pos":[
+            56,
+            70
+         ]
+      },
+      "entity_2":{
+        "text":"Hà Nội",
+         "pos":[
+            72,
+            78
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":46,
+      "sentence":"Bà Bùi Thị Sinh, Hiệu trưởng Trường Tiểu học Hải Bối, huyện Đông Anh, Hà Nội.",
+      "spos":[
+         344,
+         421
+      ],
+      "entity_1":{
+        "text":"Bùi Thị Sinh",
+         "pos":[
+            3,
+            15
+         ]
+      },
+      "entity_2":{
+        "text":"Trường Tiểu học",
+         "pos":[
+            29,
+            44
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":47,
+      "sentence":"Bà Bùi Thị Sinh, Hiệu trưởng Trường Tiểu học Hải Bối, huyện Đông Anh, Hà Nội.",
+      "spos":[
+         344,
+         421
+      ],
+      "entity_1":{
+        "text":"Bùi Thị Sinh",
+         "pos":[
+            3,
+            15
+         ]
+      },
+      "entity_2":{
+        "text":"Hải Bối",
+         "pos":[
+            45,
+            52
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":48,
+      "sentence":"Bà Bùi Thị Sinh, Hiệu trưởng Trường Tiểu học Hải Bối, huyện Đông Anh, Hà Nội.",
+      "spos":[
+         344,
+         421
+      ],
+      "entity_1":{
+        "text":"Bùi Thị Sinh",
+         "pos":[
+            3,
+            15
+         ]
+      },
+      "entity_2":{
+        "text":"huyện Đông Anh",
+         "pos":[
+            54,
+            68
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":49,
+      "sentence":"Bà Bùi Thị Sinh, Hiệu trưởng Trường Tiểu học Hải Bối, huyện Đông Anh, Hà Nội.",
+      "spos":[
+         344,
+         421
+      ],
+      "entity_1":{
+        "text":"Bùi Thị Sinh",
+         "pos":[
+            3,
+            15
+         ]
+      },
+      "entity_2":{
+        "text":"Hà Nội",
+         "pos":[
+            70,
+            76
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":50,
+      "sentence":"Bà Bùi Thị Sinh, Hiệu trưởng Trường Tiểu học Hải Bối, huyện Đông Anh, Hà Nội.",
+      "spos":[
+         344,
+         421
+      ],
+      "entity_1":{
+        "text":"Trường Tiểu học",
+         "pos":[
+            29,
+            44
+         ]
+      },
+      "entity_2":{
+        "text":"Hải Bối",
+         "pos":[
+            45,
+            52
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352600",
+      "sent_id":51,
+      "sentence":"Từ năm 1946, Vũ Ngọc Nhạ đã tham gia kháng chiến chống Pháp tại Hà Nội. Sau khi chính phủ Việt Minh rút khỏi Hà Nội ông quay trở về quê nhà ở Ninh Bình, tham gia công tác dân vận, phụ trách khối Công giáo vận. Tới năm 1953, ông chính thức trở thành lính của Trần Quốc Hương sau khi được đồng chí Đỗ Mười giới thiệu, kể từ giờ phút này Vũ Ngọc Nhạ chính thức tham gia vào hoạt động tình báo chiến lược.",
+      "spos":[
+         622,
+         1022
+      ],
+      "entity_1":{
+        "text":"Trần Quốc Hương",
+         "pos":[
+            258,
+            273
+         ]
+      },
+      "entity_2":{
+        "text":"Đỗ Mười",
+         "pos":[
+            296,
+            303
+         ]
+      },
+      "label":"PERSONAL_SOCIAL"
+   },
+   {
+      "doc_id":"23352600",
+      "sent_id":52,
+      "sentence":"Họ đã thành công mỹ mãn, không một thành viên nào trong Cụm A.22 bị kết án tử sau khi bị xét sử, phần lớn đều bị kết án tù từ 5 tới 20 năm, một vài nhân vật cộm cán như Vũ Ngọc Nhạ, Lê Hữu Thúy,… bị kết án chung thân khổ sai.",
+      "spos":[
+         5364,
+         5588
+      ],
+      "entity_1":{
+        "text":"Vũ Ngọc Nhạ",
+         "pos":[
+            169,
+            180
+         ]
+      },
+      "entity_2":{
+        "text":"Lê Hữu Thúy",
+         "pos":[
+            182,
+            193
+         ]
+      },
+      "label":"PERSONAL_SOCIAL"
+   },
+   {
+      "doc_id":"23352600",
+      "sent_id":53,
+      "sentence":"Ngày 7/8/2002 tại TP Hồ Chính Minh, Vũ Ngọc Nhạ qua đời ở tuổi 75. Phần mộ của ông được đặt tại nghĩa trang Lạc Cảnh, TP Hồ Chí Minh, trong khu vực dành riêng cho các tướng lĩnh quân đội. Gần mộ phần của ông có 2 phần mộ của 2 điệp viên chiến lược khác trong chiến tranh Việt Nam bao gồm Phạm Xuân Ẩn và Đặng Trần Đức.",
+      "spos":[
+         6444,
+         6761
+      ],
+      "entity_1":{
+        "text":"Phạm Xuân Ẩn",
+         "pos":[
+            288,
+            300
+         ]
+      },
+      "entity_2":{
+        "text":"Đặng Trần Đức",
+         "pos":[
+            304,
+            317
+         ]
+      },
+      "label":"PERSONAL_SOCIAL"
+   },
+   {
+      "doc_id":"23352605",
+      "sent_id":54,
+      "sentence":"Điều này được phản ánh rõ nét qua quá trình vận động tranh cử của các đảng, và đặc biệt qua cuộc tranh luận trực tiếp trên truyền hình giữa hai ứng cử viên thủ tướng là bà Merkel và ông Schulz.",
+      "spos":[
+         3728,
+         3192
+      ],
+      "entity_1":{
+        "text":"Merkel",
+         "pos":[
+            172,
+            178
+         ]
+      },
+      "entity_2":{
+        "text":"Schulz",
+         "pos":[
+            186,
+            192
+         ]
+      },
+      "label":"PERSONAL_SOCIAL"
+   },
+   {
+      "doc_id":"23352743",
+      "sent_id":55,
+      "sentence":"Dù là đồng minh của Mỹ, song chính quyền của Tổng thống Hàn Quốc Moon Jae-in cũng có nhiều bất đồng với chính quyền của Tổng thống Donald Trump.",
+      "spos":[
+         2252,
+         2378
+      ],
+      "entity_1":{
+        "text":"Moon Jae-in",
+         "pos":[
+            65,
+            76
+         ]
+      },
+      "entity_2":{
+        "text":"Donald Trump",
+         "pos":[
+            131,
+            143
+         ]
+      },
+      "label":"PERSONAL_SOCIAL"
+   }
+]

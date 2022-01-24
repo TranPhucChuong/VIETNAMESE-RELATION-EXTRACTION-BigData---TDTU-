@@ -1,0 +1,6202 @@
+[
+   {
+      "doc_id":"23351113",
+      "sent_id":1,
+      "sentence":"Ảnh minh họa Thứ trưởng Bộ GD&ĐT Nguyễn Thị Nghĩa đã có ý kiến về vấn đề này.",
+      "spos":[
+         311,
+         388
+      ],
+      "entity_1":{
+         "text":"Bộ GD&ĐT",
+         "pos":[
+            24,
+            32
+         ]
+      },
+      "entity_2":{
+         "text":"Nguyễn Thị Nghĩa",
+         "pos":[
+            33,
+            49
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23351113",
+      "sent_id":2,
+      "sentence":"Ông Nguyễn Tùng Lâm Sắp tới, Bộ GD&ĐT sẽ tăng cường thanh, kiểm tra để có biện pháp chấn chỉnh việc thực hiện quy định Điều lệ của Ban đại diện cha mẹ học sinh.",
+      "spos":[
+         894,
+         1054
+      ],
+      "entity_1":{
+         "text":"Nguyễn Tùng Lâm",
+         "pos":[
+            4,
+            19
+         ]
+      },
+      "entity_2":{
+         "text":"Bộ GD&ĐT",
+         "pos":[
+            29,
+            37
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351113",
+      "sent_id":3,
+      "sentence":"Cũng theo Thứ trưởng Nguyễn Thị Nghĩa , trước những biến tướng như hiện tại, Bộ GD&ĐT nghiên cứu có thể bỏ quy định này để tránh hiện tượng lách luật.",
+      "spos":[
+         1220,
+         1370
+      ],
+      "entity_1":{
+         "text":"Nguyễn Thị Nghĩa",
+         "pos":[
+            21,
+            37
+         ]
+      },
+      "entity_2":{
+         "text":"Bộ GD&ĐT",
+         "pos":[
+            77,
+            85
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351113",
+      "sent_id":4,
+      "sentence":"Liên quan đến vấn đề lãnh đạo ngành Giáo dục trao đổi, thầy Nguyễn Văn Định – Hiệu trưởng Trường THPT Phú Điền , Đồng Tháp – chia sẻ:",
+      "spos":[
+         1371,
+         1504
+      ],
+      "entity_1":{
+         "text":"Nguyễn Văn Định",
+         "pos":[
+            60,
+            75
+         ]
+      },
+      "entity_2":{
+         "text":"Trường THPT Phú Điền",
+         "pos":[
+            90,
+            110
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23351113",
+      "sent_id":5,
+      "sentence":"Liên quan đến vấn đề lãnh đạo ngành Giáo dục trao đổi, thầy Nguyễn Văn Định – Hiệu trưởng Trường THPT Phú Điền , Đồng Tháp – chia sẻ:",
+      "spos":[
+         1371,
+         1504
+      ],
+      "entity_1":{
+         "text":"Nguyễn Văn Định",
+         "pos":[
+            60,
+            75
+         ]
+      },
+      "entity_2":{
+         "text":"Đồng Tháp",
+         "pos":[
+            113,
+            122
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351113",
+      "sent_id":6,
+      "sentence":"Liên quan đến vấn đề lãnh đạo ngành Giáo dục trao đổi, thầy Nguyễn Văn Định – Hiệu trưởng Trường THPT Phú Điền , Đồng Tháp – chia sẻ:",
+      "spos":[
+         1371,
+         1504
+      ],
+      "entity_1":{
+         "text":"Trường THPT Phú Điền",
+         "pos":[
+            90,
+            110
+         ]
+      },
+      "entity_2":{
+         "text":"Đồng Tháp",
+         "pos":[
+            113,
+            122
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23351113",
+      "sent_id":7,
+      "sentence":"Nhận định ý tưởng của Bộ GD&ĐT bỏ quyền được thu tiền của Ban đại diện cha mẹ học sinh vào thời điểm hiện nay là khá phù hợp, thầy Nguyễn Văn Định đưa lý do:",
+      "spos":[
+         1914,
+         2071
+      ],
+      "entity_1":{
+         "text":"Bộ GD&ĐT",
+         "pos":[
+            22,
+            30
+         ]
+      },
+      "entity_2":{
+         "text":"Nguyễn Văn Định",
+         "pos":[
+            131,
+            146
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351113",
+      "sent_id":8,
+      "sentence":"Cũng về câu chuyện lạm thu liên quan đến Ban đại diện cha mẹ học sinh, TS Nguyễn Tùng Lâm – Chủ tịch Hội Tâm lý giáo dục Hà Nội , nguyên Hiệu trưởng Trường THPT Đinh Tiên Hoàng (Hà Nội ) – cho rằng:",
+      "spos":[
+         2627,
+         2825
+      ],
+      "entity_1":{
+         "text":"Nguyễn Tùng Lâm",
+         "pos":[
+            74,
+            89
+         ]
+      },
+      "entity_2":{
+         "text":"Hội Tâm lý giáo dục Hà Nội",
+         "pos":[
+            101,
+            127
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23351113",
+      "sent_id":9,
+      "sentence":"Cũng về câu chuyện lạm thu liên quan đến Ban đại diện cha mẹ học sinh, TS Nguyễn Tùng Lâm – Chủ tịch Hội Tâm lý giáo dục Hà Nội , nguyên Hiệu trưởng Trường THPT Đinh Tiên Hoàng (Hà Nội ) – cho rằng:",
+      "spos":[
+         2627,
+         2825
+      ],
+      "entity_1":{
+         "text":"Nguyễn Tùng Lâm",
+         "pos":[
+            74,
+            89
+         ]
+      },
+      "entity_2":{
+         "text":"Trường THPT Đinh Tiên Hoàng",
+         "pos":[
+            149,
+            176
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351113",
+      "sent_id":10,
+      "sentence":"Cũng về câu chuyện lạm thu liên quan đến Ban đại diện cha mẹ học sinh, TS Nguyễn Tùng Lâm – Chủ tịch Hội Tâm lý giáo dục Hà Nội , nguyên Hiệu trưởng Trường THPT Đinh Tiên Hoàng (Hà Nội ) – cho rằng:",
+      "spos":[
+         2627,
+         2825
+      ],
+      "entity_1":{
+         "text":"Nguyễn Tùng Lâm",
+         "pos":[
+            74,
+            89
+         ]
+      },
+      "entity_2":{
+         "text":"(Hà Nội",
+         "pos":[
+            177,
+            184
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351113",
+      "sent_id":11,
+      "sentence":"Cũng về câu chuyện lạm thu liên quan đến Ban đại diện cha mẹ học sinh, TS Nguyễn Tùng Lâm – Chủ tịch Hội Tâm lý giáo dục Hà Nội , nguyên Hiệu trưởng Trường THPT Đinh Tiên Hoàng (Hà Nội ) – cho rằng:",
+      "spos":[
+         2627,
+         2825
+      ],
+      "entity_1":{
+         "text":"Hội Tâm lý giáo dục Hà Nội",
+         "pos":[
+            101,
+            127
+         ]
+      },
+      "entity_2":{
+         "text":"Trường THPT Đinh Tiên Hoàng",
+         "pos":[
+            149,
+            176
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351113",
+      "sent_id":12,
+      "sentence":"Cũng về câu chuyện lạm thu liên quan đến Ban đại diện cha mẹ học sinh, TS Nguyễn Tùng Lâm – Chủ tịch Hội Tâm lý giáo dục Hà Nội , nguyên Hiệu trưởng Trường THPT Đinh Tiên Hoàng (Hà Nội ) – cho rằng:",
+      "spos":[
+         2627,
+         2825
+      ],
+      "entity_1":{
+         "text":"Hội Tâm lý giáo dục Hà Nội",
+         "pos":[
+            101,
+            127
+         ]
+      },
+      "entity_2":{
+         "text":"(Hà Nội",
+         "pos":[
+            177,
+            184
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351113",
+      "sent_id":13,
+      "sentence":"Cũng về câu chuyện lạm thu liên quan đến Ban đại diện cha mẹ học sinh, TS Nguyễn Tùng Lâm – Chủ tịch Hội Tâm lý giáo dục Hà Nội , nguyên Hiệu trưởng Trường THPT Đinh Tiên Hoàng (Hà Nội ) – cho rằng:",
+      "spos":[
+         2627,
+         2825
+      ],
+      "entity_1":{
+         "text":"Trường THPT Đinh Tiên Hoàng",
+         "pos":[
+            149,
+            176
+         ]
+      },
+      "entity_2":{
+         "text":"(Hà Nội",
+         "pos":[
+            177,
+            184
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23351113",
+      "sent_id":14,
+      "sentence":"Nhấn mạnh Bộ GD&ĐT đã đưa ra hướng dẫn những khoản nhà trường được và không được thu, TS Nguyễn Tùng Lâm cho rằng, hiện chúng ta đang lẫn lộn rất nhiều thứ và tất cả đều đổ lên Ban phụ huynh.",
+      "spos":[
+         3981,
+         4172
+      ],
+      "entity_1":{
+         "text":"Bộ GD&ĐT",
+         "pos":[
+            10,
+            18
+         ]
+      },
+      "entity_2":{
+         "text":"Nguyễn Tùng Lâm",
+         "pos":[
+            89,
+            104
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351164",
+      "sent_id":15,
+      "sentence":"Quảng Bình : Cát tặc lộng hành, hiểm họa rình rập cầu Long Đại và dòng sông?",
+      "spos":[
+         0,
+         76
+      ],
+      "entity_1":{
+         "text":"Quảng Bình",
+         "pos":[
+            0,
+            10
+         ]
+      },
+      "entity_2":{
+         "text":"cầu Long Đại",
+         "pos":[
+            50,
+            62
+         ]
+      },
+      "label":"PART_WHOLE"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":16,
+      "sentence":"Theo TS Vũ Thu Hương (giảng viên ĐH Sư phạm Hà Nội), ban đại diện cha mẹ học sinh đang bị biến tướng, trở thành “bia đỡ đạn” của lãnh đạo nhà trường khi lạm thu.",
+      "spos":[
+         2404,
+         2565
+      ],
+      "entity_1":{
+         "text":"Vũ Thu Hương",
+         "pos":[
+            8,
+            20
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"ĐH Sư phạm",
+         "pos":[
+            33,
+            43
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":17,
+      "sentence":"Theo TS Vũ Thu Hương (giảng viên ĐH Sư phạm Hà Nội), ban đại diện cha mẹ học sinh đang bị biến tướng, trở thành “bia đỡ đạn” của lãnh đạo nhà trường khi lạm thu.",
+      "spos":[
+         2404,
+         2565
+      ],
+      "entity_1":{
+         "text":"Vũ Thu Hương",
+         "pos":[
+            8,
+            20
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Hà Nội",
+         "pos":[
+            44,
+            50
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":18,
+      "sentence":"Theo TS Vũ Thu Hương (giảng viên ĐH Sư phạm Hà Nội), ban đại diện cha mẹ học sinh đang bị biến tướng, trở thành “bia đỡ đạn” của lãnh đạo nhà trường khi lạm thu.",
+      "spos":[
+         2404,
+         2565
+      ],
+      "entity_1":{
+         "text":"ĐH Sư phạm",
+         "pos":[
+            33,
+            43
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Hà Nội",
+         "pos":[
+            44,
+            50
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":20,
+      "sentence":"Với sự vào cuộc của Thanh tra Bộ GD&ĐT, hàng loạt cơ sở thu chi sai quy định tại Hà Nội, Hải Phòng, Hà Tĩnh và Nghệ An đã được phát hiện.",
+      "spos":[
+         664,
+         771
+      ],
+      "entity_1":{
+         "text":"Bộ GD&ĐT",
+         "pos":[
+            30,
+            38
+         ]
+      },
+      "entity_2":{
+         "text":"Hà Nội",
+         "pos":[
+            81,
+            87
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":21,
+      "sentence":"Với sự vào cuộc của Thanh tra Bộ GD&ĐT, hàng loạt cơ sở thu chi sai quy định tại Hà Nội, Hải Phòng, Hà Tĩnh và Nghệ An đã được phát hiện.",
+      "spos":[
+         664,
+         771
+      ],
+      "entity_1":{
+         "text":"Bộ GD&ĐT",
+         "pos":[
+            30,
+            38
+         ]
+      },
+      "entity_2":{
+         "text":"Hải Phòng",
+         "pos":[
+            89,
+            98
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":21,
+      "sentence":"Với sự vào cuộc của Thanh tra Bộ GD&ĐT, hàng loạt cơ sở thu chi sai quy định tại Hà Nội, Hải Phòng, Hà Tĩnh và Nghệ An đã được phát hiện.",
+      "spos":[
+         664,
+         771
+      ],
+      "entity_1":{
+         "text":"Bộ GD&ĐT",
+         "pos":[
+            30,
+            38
+         ]
+      },
+      "entity_2":{
+         "text":"Hà Tĩnh",
+         "pos":[
+            100,
+            107
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":23,
+      "sentence":"Với sự vào cuộc của Thanh tra Bộ GD&ĐT, hàng loạt cơ sở thu chi sai quy định tại Hà Nội, Hải Phòng, Hà Tĩnh và Nghệ An đã được phát hiện.",
+      "spos":[
+         664,
+         771
+      ],
+      "entity_1":{
+         "text":"Bộ GD&ĐT",
+         "pos":[
+            30,
+            38
+         ]
+      },
+      "entity_2":{
+         "text":"Nghệ An",
+         "pos":[
+            111,
+            118
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":23,
+      "sentence":"Với sự vào cuộc của Thanh tra Bộ GD&ĐT, hàng loạt cơ sở thu chi sai quy định tại Hà Nội, Hải Phòng, Hà Tĩnh và Nghệ An đã được phát hiện.",
+      "spos":[
+         664,
+         771
+      ],
+      "entity_1":{
+         "text":"Hà Nội",
+         "pos":[
+            81,
+            87
+         ]
+      },
+      "entity_2":{
+         "text":"Hải Phòng",
+         "pos":[
+            89,
+            98
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":24,
+      "sentence":"Với sự vào cuộc của Thanh tra Bộ GD&ĐT, hàng loạt cơ sở thu chi sai quy định tại Hà Nội, Hải Phòng, Hà Tĩnh và Nghệ An đã được phát hiện.",
+      "spos":[
+         664,
+         771
+      ],
+      "entity_1":{
+         "text":"Hà Nội",
+         "pos":[
+            81,
+            87
+         ]
+      },
+      "entity_2":{
+         "text":"Hà Tĩnh",
+         "pos":[
+            100,
+            107
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":25,
+      "sentence":"Với sự vào cuộc của Thanh tra Bộ GD&ĐT, hàng loạt cơ sở thu chi sai quy định tại Hà Nội, Hải Phòng, Hà Tĩnh và Nghệ An đã được phát hiện.",
+      "spos":[
+         664,
+         771
+      ],
+      "entity_1":{
+         "text":"Hà Nội",
+         "pos":[
+            81,
+            87
+         ]
+      },
+      "entity_2":{
+         "text":"Nghệ An",
+         "pos":[
+            111,
+            118
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":26,
+      "sentence":"Với sự vào cuộc của Thanh tra Bộ GD&ĐT, hàng loạt cơ sở thu chi sai quy định tại Hà Nội, Hải Phòng, Hà Tĩnh và Nghệ An đã được phát hiện.",
+      "spos":[
+         664,
+         771
+      ],
+      "entity_1":{
+         "text":"Hải Phòng",
+         "pos":[
+            89,
+            98
+         ]
+      },
+      "entity_2":{
+         "text":"Hà Tĩnh",
+         "pos":[
+            100,
+            107
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":27,
+      "sentence":"Với sự vào cuộc của Thanh tra Bộ GD&ĐT, hàng loạt cơ sở thu chi sai quy định tại Hà Nội, Hải Phòng, Hà Tĩnh và Nghệ An đã được phát hiện.",
+      "spos":[
+         664,
+         771
+      ],
+      "entity_1":{
+         "text":"Hải Phòng",
+         "pos":[
+            89,
+            98
+         ]
+      },
+      "entity_2":{
+         "text":"Nghệ An",
+         "pos":[
+            111,
+            118
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":28,
+      "sentence":"Với sự vào cuộc của Thanh tra Bộ GD&ĐT, hàng loạt cơ sở thu chi sai quy định tại Hà Nội, Hải Phòng, Hà Tĩnh và Nghệ An đã được phát hiện.",
+      "spos":[
+         664,
+         771
+      ],
+      "entity_1":{
+         "text":"Hà Tĩnh",
+         "pos":[
+            100,
+            107
+         ]
+      },
+      "entity_2":{
+         "text":"Nghệ An",
+         "pos":[
+            111,
+            118
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":29,
+      "sentence":"Văn phòng Chính phủ cũng phát đi công văn hỏa tốc gửi Bộ GD&ĐT và các UBND tỉnh, thành, nêu yêu cầu của Phó thủ tướng Vũ Đức Đam về việc chấn chỉnh tình trạng lạm thu đầu năm học.",
+      "spos":[
+         772,
+         991
+      ],
+      "entity_1":{
+         "text":"Văn phòng Chính phủ",
+         "pos":[
+            0,
+            19
+         ]
+      },
+      "entity_2":{
+         "text":"Bộ GD&ĐT",
+         "pos":[
+            54,
+            62
+         ]
+      },
+      "label":"PART_WHOLE"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":30,
+      "sentence":"Văn phòng Chính phủ cũng phát đi công văn hỏa tốc gửi Bộ GD&ĐT và các UBND tỉnh, thành, nêu yêu cầu của Phó thủ tướng Vũ Đức Đam về việc chấn chỉnh tình trạng lạm thu đầu năm học.",
+      "spos":[
+         772,
+         991
+      ],
+      "entity_1":{
+         "text":"Văn phòng Chính phủ",
+         "pos":[
+            0,
+            19
+         ]
+      },
+      "entity_2":{
+         "text":"Vũ Đức Đam",
+         "pos":[
+            118,
+            128
+         ]
+      },
+      "label":"OTHERS"
+   }
+
+   ,
+   {
+      "doc_id":"23351647",
+      "sent_id":31,
+      "sentence":"Văn phòng Chính phủ cũng phát đi công văn hỏa tốc gửi Bộ GD&ĐT và các UBND tỉnh, thành, nêu yêu cầu của Phó thủ tướng Vũ Đức Đam về việc chấn chỉnh tình trạng lạm thu đầu năm học.",
+      "spos":[
+         772,
+         991
+      ],
+      "entity_1":{
+         "text":"Bộ GD&ĐT",
+         "pos":[
+            54,
+            62
+         ]
+      },
+      "entity_2":{
+         "text":"Vũ Đức Đam",
+         "pos":[
+            118,
+            128
+         ]
+      },
+      "label":"OTHERS"
+   }   ,
+   {
+      "doc_id":"23351647",
+      "sent_id":32,
+      "sentence":"Phó thủ tướng Vũ Đức Đam cũng yêu cầu Bộ GD&ĐT và UBND các tỉnh, thành tăng cường công tác thanh tra, kiểm tra và xử lý nghiêm các cơ sở, người đứng đầu cơ sở giáo dục vi phạm.",
+      "spos":[
+         1011,
+         1188
+      ],
+      "entity_1":{
+         "text":"Vũ Đức Đam",
+         "pos":[
+            14,
+            24]
+
+      },
+      "entity_2":{
+         "text":"Bộ GD&ĐT",
+         "pos":[
+            38,
+            46
+         ]
+      },
+      "label":"OTHERS"
+   }
+   ,
+   {
+      "doc_id":"23351647",
+      "sent_id":31,
+      "sentence":"Theo ông Trần Tú Khánh, Vụ trưởng Vụ Kế hoạch - Tài chính, Bộ GD&ĐT, để khắc phục tình trạng lạm thu ở một số trường hiện nay, người đứng đầu cơ sở giáo dục phải quán triệt và nghiêm túc thực hiện.",
+      "spos":[
+         1377,
+         1575
+      ],
+      "entity_1":{
+         "text":"Trần Tú Khánh",
+         "pos":[
+            9,
+            22]
+
+      },
+      "entity_2":{
+         "text":"Vụ Kế hoạch - Tài chính",
+         "pos":[
+            34,
+            57
+         ]
+      },
+      "label":"AFFILIATION"
+   }
+   ,
+   {
+      "doc_id":"23351647",
+      "sent_id":32,
+      "sentence":"Theo ông Trần Tú Khánh, Vụ trưởng Vụ Kế hoạch - Tài chính, Bộ GD&ĐT, để khắc phục tình trạng lạm thu ở một số trường hiện nay, người đứng đầu cơ sở giáo dục phải quán triệt và nghiêm túc thực hiện.",
+      "spos":[
+         1377,
+         1575
+      ],
+      "entity_1":{
+         "text":"Trần Tú Khánh",
+         "pos":[
+            9,
+            22]
+
+      },
+      "entity_2":{
+         "text":"Bộ GD&ĐT",
+         "pos":[
+            59,
+            67
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":33,
+      "sentence":"Theo ông Trần Tú Khánh, Vụ trưởng Vụ Kế hoạch - Tài chính, Bộ GD&ĐT, để khắc phục tình trạng lạm thu ở một số trường hiện nay, người đứng đầu cơ sở giáo dục phải quán triệt và nghiêm túc thực hiện.",
+      "spos":[
+         1377,
+         1575
+      ],
+      "entity_1":{
+         "text":"Vụ Kế hoạch - Tài chính",
+         "pos":[
+            34,
+            57
+         ]
+
+      },
+      "entity_2":{
+         "text":"Bộ GD&ĐT",
+         "pos":[
+            59,
+            67
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":34,
+      "sentence":"Thực tế, trường Mầm non Hợp Tiến Mỹ Đức, Hà Nội đã phải trả lại số tiền thu sai của phụ huynh trong năm học 2016-2017 gồm các khoản “tự nguyện”, xã hội hóa, tổng số tiền là 520,7 triệu đồng.",
+      "spos":[
+         1832,
+         2023
+      ],
+      "entity_1":{
+         "text":"trường Mầm non Hợp Tiến",
+         "pos":[
+            9,
+            32
+         ]
+
+      },
+      "entity_2":{
+         "text":"Mỹ Đức",
+         "pos":[
+            33,
+            39
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":35,
+      "sentence":"Thực tế, trường Mầm non Hợp Tiến Mỹ Đức, Hà Nội đã phải trả lại số tiền thu sai của phụ huynh trong năm học 2016-2017 gồm các khoản “tự nguyện”, xã hội hóa, tổng số tiền là 520,7 triệu đồng.",
+      "spos":[
+         1832,
+         2023
+      ],
+      "entity_1":{
+         "text":"trường Mầm non Hợp Tiến",
+         "pos":[
+            9,
+            32
+         ]
+
+      },
+      "entity_2":{
+         "text":"Hà Nội",
+         "pos":[
+            41,
+            47
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":36,
+      "sentence":"Thực tế, trường Mầm non Hợp Tiến Mỹ Đức, Hà Nội đã phải trả lại số tiền thu sai của phụ huynh trong năm học 2016-2017 gồm các khoản “tự nguyện”, xã hội hóa, tổng số tiền là 520,7 triệu đồng.",
+      "spos":[
+         1832,
+         2023
+      ],
+      "entity_1":{
+         "text":"Mỹ Đức",
+         "pos":[
+            33,
+            39
+         ]
+
+      },
+      "entity_2":{
+         "text":"Hà Nội",
+         "pos":[
+            41,
+            47
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":37,
+      "sentence":"Một trường khác ở Đông Anh, Hà Nội, là Tiểu học Uy Nỗ cũng vừa bị phụ huynh phản ứng lạm thu.",
+      "spos":[
+         2024,
+         2217
+      ],
+      "entity_1":{
+         "text":"Đông Anh",
+         "pos":[
+            18,
+            26
+         ]
+
+      },
+      "entity_2":{
+         "text":"Hà Nội",
+         "pos":[
+            28,
+            34
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":38,
+      "sentence":"Một trường khác ở Đông Anh, Hà Nội, là Tiểu học Uy Nỗ cũng vừa bị phụ huynh phản ứng lạm thu.",
+      "spos":[
+         2024,
+         2217
+      ],
+      "entity_1":{
+         "text":"Đông Anh",
+         "pos":[
+            18,
+            26
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Tiểu học",
+         "pos":[
+            39,
+            47
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":39,
+      "sentence":"Một trường khác ở Đông Anh, Hà Nội, là Tiểu học Uy Nỗ cũng vừa bị phụ huynh phản ứng lạm thu.",
+      "spos":[
+         2024,
+         2217
+      ],
+      "entity_1":{
+         "text":"Đông Anh",
+         "pos":[
+            18,
+            26
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Uy Nỗ",
+         "pos":[
+            48,
+            53
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":40,
+      "sentence":"Một trường khác ở Đông Anh, Hà Nội, là Tiểu học Uy Nỗ cũng vừa bị phụ huynh phản ứng lạm thu.",
+      "spos":[
+         2024,
+         2217
+      ],
+      "entity_1":{
+         "text":"Hà Nội",
+         "pos":[
+            28,
+            34
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Tiểu học",
+         "pos":[
+            39,
+            47
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":41,
+      "sentence":"Một trường khác ở Đông Anh, Hà Nội, là Tiểu học Uy Nỗ cũng vừa bị phụ huynh phản ứng lạm thu.",
+      "spos":[
+         2024,
+         2217
+      ],
+      "entity_1":{
+         "text":"Hà Nội",
+         "pos":[
+            28,
+            34
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Uy Nỗ",
+         "pos":[
+            48,
+            53
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":42,
+      "sentence":"Một trường khác ở Đông Anh, Hà Nội, là Tiểu học Uy Nỗ cũng vừa bị phụ huynh phản ứng lạm thu.",
+      "spos":[
+         2024,
+         2217
+      ],
+      "entity_1":{
+         "text":"Tiểu học",
+         "pos":[
+            39,
+            47
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Uy Nỗ",
+         "pos":[
+            48,
+            53
+         ]
+      },
+      "label":"LOCATED"
+   }
+
+
+
+
+   ,
+   {
+      "doc_id":"23351647",
+      "sent_id":43,
+      "sentence":"Theo TS Vũ Thu Hương (giảng viên ĐH Sư phạm Hà Nội), ban đại diện cha mẹ học sinh đang bị biến tướng, trở thành “bia đỡ đạn” của lãnh đạo nhà trường khi lạm thu.",
+      "spos":[
+         2404,
+         2565
+      ],
+      "entity_1":{
+         "text":"Vũ Thu Hương",
+         "pos":[
+            8,
+            20
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"ĐH Sư phạm",
+         "pos":[
+            33,
+            43
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":44,
+      "sentence":"Theo TS Vũ Thu Hương (giảng viên ĐH Sư phạm Hà Nội), ban đại diện cha mẹ học sinh đang bị biến tướng, trở thành “bia đỡ đạn” của lãnh đạo nhà trường khi lạm thu.",
+      "spos":[
+         2404,
+         2565
+      ],
+      "entity_1":{
+         "text":"Vũ Thu Hương",
+         "pos":[
+            8,
+            20
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Hà Nội",
+         "pos":[
+            44,
+            50
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":45,
+      "sentence":"Theo TS Vũ Thu Hương (giảng viên ĐH Sư phạm Hà Nội), ban đại diện cha mẹ học sinh đang bị biến tướng, trở thành “bia đỡ đạn” của lãnh đạo nhà trường khi lạm thu.",
+      "spos":[
+         2404,
+         2565
+      ],
+      "entity_1":{
+         "text":"ĐH Sư phạm",
+         "pos":[
+            33,
+            43
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Hà Nội",
+         "pos":[
+            44,
+            50
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":46,
+      "sentence":"Tuy nhiên, có quan điểm khác, TS Nguyễn Tùng Lâm - Hiệu trưởng trường ĐH Đinh Tiên Hoàng Hà Nội), cho rằng hội cha mẹ học sinh thu sai thì cần chấn chỉnh, không nên không làm được thì bỏ.",
+      "spos":[
+         3528,
+         3725
+      ],
+      "entity_1":{
+         "text":"Nguyễn Tùng Lâm",
+         "pos":[
+            33,
+            48
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"trường ĐH",
+         "pos":[
+            63,
+            72
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":47,
+      "sentence":"Tuy nhiên, có quan điểm khác, TS Nguyễn Tùng Lâm - Hiệu trưởng trường ĐH Đinh Tiên Hoàng Hà Nội), cho rằng hội cha mẹ học sinh thu sai thì cần chấn chỉnh, không nên không làm được thì bỏ.",
+      "spos":[
+         3528,
+         3725
+      ],
+      "entity_1":{
+         "text":"Nguyễn Tùng Lâm",
+         "pos":[
+            33,
+            48
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Đinh Tiên Hoàng",
+         "pos":[
+            73,
+            88
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":48,
+      "sentence":"Tuy nhiên, có quan điểm khác, TS Nguyễn Tùng Lâm - Hiệu trưởng trường ĐH Đinh Tiên Hoàng Hà Nội), cho rằng hội cha mẹ học sinh thu sai thì cần chấn chỉnh, không nên không làm được thì bỏ.",
+      "spos":[
+         3528,
+         3725
+      ],
+      "entity_1":{
+         "text":"Nguyễn Tùng Lâm",
+         "pos":[
+            33,
+            48
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Hà Nội",
+         "pos":[
+            89,
+            95
+         ]
+      },
+      "label":"OTHERS"
+   }
+   ,
+   {
+      "doc_id":"23351647",
+      "sent_id":49,
+      "sentence":"Tuy nhiên, có quan điểm khác, TS Nguyễn Tùng Lâm - Hiệu trưởng trường ĐH Đinh Tiên Hoàng Hà Nội), cho rằng hội cha mẹ học sinh thu sai thì cần chấn chỉnh, không nên không làm được thì bỏ.",
+      "spos":[
+         3528,
+         3725
+      ],
+      "entity_1":{
+         "text":"trường ĐH",
+         "pos":[
+            63,
+            72
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Đinh Tiên Hoàng",
+         "pos":[
+            73,
+            88
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":50,
+      "sentence":"Tuy nhiên, có quan điểm khác, TS Nguyễn Tùng Lâm - Hiệu trưởng trường ĐH Đinh Tiên Hoàng Hà Nội), cho rằng hội cha mẹ học sinh thu sai thì cần chấn chỉnh, không nên không làm được thì bỏ.",
+      "spos":[
+         3528,
+         3725
+      ],
+      "entity_1":{
+         "text":"trường ĐH",
+         "pos":[
+            63,
+            72
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Hà Nội",
+         "pos":[
+            89,
+            95
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351647",
+      "sent_id":51,
+      "sentence":"Tuy nhiên, có quan điểm khác, TS Nguyễn Tùng Lâm - Hiệu trưởng trường ĐH Đinh Tiên Hoàng Hà Nội), cho rằng hội cha mẹ học sinh thu sai thì cần chấn chỉnh, không nên không làm được thì bỏ.",
+      "spos":[
+         3528,
+         3725
+      ],
+      "entity_1":{
+         "text":"Đinh Tiên Hoàng",
+         "pos":[
+            73,
+            88
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Hà Nội",
+         "pos":[
+            89,
+            95
+         ]
+      },
+      "label":"OTHERS"
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+   ,
+   {
+      "doc_id":"23351841",
+      "sent_id":52,
+      "sentence":"Cộng đồng mạng nhiều ngày qua truyền tay nhau hình ảnh bút phê với lời lẽ mạnh mẽ của anh Võ Quốc Bình có con đang theo học tại trường Tiểu học Hòa Bình (Q.1, TP.HCM) về việc phản đối khoản thu làm sàn gỗ cho lớp của con. Nam PH sau đó còn viết đơn kiến nghị gửi lên Văn phòng Chính phủ đề nghị giải tán ban PH, như một sự phản ứng gay gắt trước hoạt động sai mục đích của ban PH.",
+      "spos":[
+         314,
+         696
+      ],
+      "entity_1":{
+         "text":"Võ Quốc Bình",
+         "pos":[
+            90,
+            102
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"trường Tiểu học Hòa Bình",
+         "pos":[
+            128,
+            152
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351841",
+      "sent_id":53,
+      "sentence":"Cộng đồng mạng nhiều ngày qua truyền tay nhau hình ảnh bút phê với lời lẽ mạnh mẽ của anh Võ Quốc Bình có con đang theo học tại trường Tiểu học Hòa Bình (Q.1, TP.HCM) về việc phản đối khoản thu làm sàn gỗ cho lớp của con. Nam PH sau đó còn viết đơn kiến nghị gửi lên Văn phòng Chính phủ đề nghị giải tán ban PH, như một sự phản ứng gay gắt trước hoạt động sai mục đích của ban PH.",
+      "spos":[
+         314,
+         696
+      ],
+      "entity_1":{
+         "text":"Võ Quốc Bình",
+         "pos":[
+            90,
+            102
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Q.1",
+         "pos":[
+            154,
+            157
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351841",
+      "sent_id":54,
+      "sentence":"Cộng đồng mạng nhiều ngày qua truyền tay nhau hình ảnh bút phê với lời lẽ mạnh mẽ của anh Võ Quốc Bình có con đang theo học tại trường Tiểu học Hòa Bình (Q.1, TP.HCM) về việc phản đối khoản thu làm sàn gỗ cho lớp của con. Nam PH sau đó còn viết đơn kiến nghị gửi lên Văn phòng Chính phủ đề nghị giải tán ban PH, như một sự phản ứng gay gắt trước hoạt động sai mục đích của ban PH.",
+      "spos":[
+         314,
+         696
+      ],
+      "entity_1":{
+         "text":"Võ Quốc Bình",
+         "pos":[
+            90,
+            102
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"TP.HCM",
+         "pos":[
+            159,
+            165
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351841",
+      "sent_id":55,
+      "sentence":"Cộng đồng mạng nhiều ngày qua truyền tay nhau hình ảnh bút phê với lời lẽ mạnh mẽ của anh Võ Quốc Bình có con đang theo học tại trường Tiểu học Hòa Bình (Q.1, TP.HCM) về việc phản đối khoản thu làm sàn gỗ cho lớp của con. Nam PH sau đó còn viết đơn kiến nghị gửi lên Văn phòng Chính phủ đề nghị giải tán ban PH, như một sự phản ứng gay gắt trước hoạt động sai mục đích của ban PH.",
+      "spos":[
+         314,
+         696
+      ],
+      "entity_1":{
+         "text":"Võ Quốc Bình",
+         "pos":[
+            90,
+            102
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Văn phòng Chính phủ",
+         "pos":[
+            267,
+            286
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351841",
+      "sent_id":56,
+      "sentence":"Cộng đồng mạng nhiều ngày qua truyền tay nhau hình ảnh bút phê với lời lẽ mạnh mẽ của anh Võ Quốc Bình có con đang theo học tại trường Tiểu học Hòa Bình (Q.1, TP.HCM) về việc phản đối khoản thu làm sàn gỗ cho lớp của con. Nam PH sau đó còn viết đơn kiến nghị gửi lên Văn phòng Chính phủ đề nghị giải tán ban PH, như một sự phản ứng gay gắt trước hoạt động sai mục đích của ban PH.",
+      "spos":[
+         314,
+         696
+      ],
+      "entity_1":{
+         "text":"trường Tiểu học Hòa Bình",
+         "pos":[
+            128,
+            152
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Q.1",
+         "pos":[
+            154,
+            157
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23351841",
+      "sent_id":57,
+      "sentence":"Cộng đồng mạng nhiều ngày qua truyền tay nhau hình ảnh bút phê với lời lẽ mạnh mẽ của anh Võ Quốc Bình có con đang theo học tại trường Tiểu học Hòa Bình (Q.1, TP.HCM) về việc phản đối khoản thu làm sàn gỗ cho lớp của con. Nam PH sau đó còn viết đơn kiến nghị gửi lên Văn phòng Chính phủ đề nghị giải tán ban PH, như một sự phản ứng gay gắt trước hoạt động sai mục đích của ban PH.",
+      "spos":[
+         314,
+         696
+      ],
+      "entity_1":{
+         "text":"trường Tiểu học Hòa Bình",
+         "pos":[
+            128,
+            152
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"TP.HCM",
+         "pos":[
+            159,
+            165
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351841",
+      "sent_id":58,
+      "sentence":"Cộng đồng mạng nhiều ngày qua truyền tay nhau hình ảnh bút phê với lời lẽ mạnh mẽ của anh Võ Quốc Bình có con đang theo học tại trường Tiểu học Hòa Bình (Q.1, TP.HCM) về việc phản đối khoản thu làm sàn gỗ cho lớp của con. Nam PH sau đó còn viết đơn kiến nghị gửi lên Văn phòng Chính phủ đề nghị giải tán ban PH, như một sự phản ứng gay gắt trước hoạt động sai mục đích của ban PH.",
+      "spos":[
+         314,
+         696
+      ],
+      "entity_1":{
+         "text":"trường Tiểu học Hòa Bình",
+         "pos":[
+            128,
+            152
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Văn phòng Chính phủ",
+         "pos":[
+            267,
+            286
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351841",
+      "sent_id":59,
+      "sentence":"Cộng đồng mạng nhiều ngày qua truyền tay nhau hình ảnh bút phê với lời lẽ mạnh mẽ của anh Võ Quốc Bình có con đang theo học tại trường Tiểu học Hòa Bình (Q.1, TP.HCM) về việc phản đối khoản thu làm sàn gỗ cho lớp của con. Nam PH sau đó còn viết đơn kiến nghị gửi lên Văn phòng Chính phủ đề nghị giải tán ban PH, như một sự phản ứng gay gắt trước hoạt động sai mục đích của ban PH.",
+      "spos":[
+         314,
+         696
+      ],
+      "entity_1":{
+         "text":"Q.1",
+         "pos":[
+            154,
+            157
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"TP.HCM",
+         "pos":[
+            159,
+            165
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23351841",
+      "sent_id":60,
+      "sentence":"Cộng đồng mạng nhiều ngày qua truyền tay nhau hình ảnh bút phê với lời lẽ mạnh mẽ của anh Võ Quốc Bình có con đang theo học tại trường Tiểu học Hòa Bình (Q.1, TP.HCM) về việc phản đối khoản thu làm sàn gỗ cho lớp của con. Nam PH sau đó còn viết đơn kiến nghị gửi lên Văn phòng Chính phủ đề nghị giải tán ban PH, như một sự phản ứng gay gắt trước hoạt động sai mục đích của ban PH.",
+      "spos":[
+         314,
+         696
+      ],
+      "entity_1":{
+         "text":"Q.1",
+         "pos":[
+            154,
+            157
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Văn phòng Chính phủ",
+         "pos":[
+            267,
+            286
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351841",
+      "sent_id":61,
+      "sentence":"Cộng đồng mạng nhiều ngày qua truyền tay nhau hình ảnh bút phê với lời lẽ mạnh mẽ của anh Võ Quốc Bình có con đang theo học tại trường Tiểu học Hòa Bình (Q.1, TP.HCM) về việc phản đối khoản thu làm sàn gỗ cho lớp của con. Nam PH sau đó còn viết đơn kiến nghị gửi lên Văn phòng Chính phủ đề nghị giải tán ban PH, như một sự phản ứng gay gắt trước hoạt động sai mục đích của ban PH.",
+      "spos":[
+         314,
+         696
+      ],
+      "entity_1":{
+         "text":"TP.HCM",
+         "pos":[
+            159,
+            165
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Văn phòng Chính phủ",
+         "pos":[
+            267,
+            286
+         ]
+      },
+      "label":"OTHERS"
+   }
+
+
+
+   ,
+   {
+      "doc_id":"23351841",
+      "sent_id":62,
+      "sentence":"Trao đổi với Báo Phụ nữ Việt Nam sáng 22/9, GS Đào Trọng Thi- nguyên Chủ nhiệm Ủy ban Văn hóa, giáo dục, thanh niên, thiếu niên và nhi đồng của Quốc hội - cho rằng, ý kiến trên có phần chưa thận trọng.",
+      "spos":[
+         902,
+         1104
+      ],
+      "entity_1":{
+         "text":"Báo Phụ nữ",
+         "pos":[
+            13,
+            23
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Việt Nam",
+         "pos":[
+            24,
+            32
+         ]
+      },
+      "label":"PART_WHOLE"
+   },
+   {
+      "doc_id":"23351841",
+      "sent_id":63,
+      "sentence":"Trao đổi với Báo Phụ nữ Việt Nam sáng 22/9, GS Đào Trọng Thi- nguyên Chủ nhiệm Ủy ban Văn hóa, giáo dục, thanh niên, thiếu niên và nhi đồng của Quốc hội - cho rằng, ý kiến trên có phần chưa thận trọng.",
+      "spos":[
+         902,
+         1104
+      ],
+      "entity_1":{
+         "text":"Báo Phụ nữ",
+         "pos":[
+            13,
+            23
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Đào Trọng Thi",
+         "pos":[
+            47,
+            60
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351841",
+      "sent_id":64,
+      "sentence":"Trao đổi với Báo Phụ nữ Việt Nam sáng 22/9, GS Đào Trọng Thi- nguyên Chủ nhiệm Ủy ban Văn hóa, giáo dục, thanh niên, thiếu niên và nhi đồng của Quốc hội - cho rằng, ý kiến trên có phần chưa thận trọng.",
+      "spos":[
+         902,
+         1104
+      ],
+      "entity_1":{
+         "text":"Báo Phụ nữ",
+         "pos":[
+            13,
+            23
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Ủy ban Văn hóa, giáo dục, thanh niên, thiếu niên và nhi đồng",
+         "pos":[
+            79,
+            139
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351841",
+      "sent_id":65,
+      "sentence":"Trao đổi với Báo Phụ nữ Việt Nam sáng 22/9, GS Đào Trọng Thi- nguyên Chủ nhiệm Ủy ban Văn hóa, giáo dục, thanh niên, thiếu niên và nhi đồng của Quốc hội - cho rằng, ý kiến trên có phần chưa thận trọng.",
+      "spos":[
+         902,
+         1104
+      ],
+      "entity_1":{
+         "text":"Báo Phụ nữ",
+         "pos":[
+            13,
+            23
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Quốc hội",
+         "pos":[
+            144,
+            152
+         ]
+      },
+      "label":"OTHERS"
+   }
+   ,
+   {
+      "doc_id":"23351841",
+      "sent_id":66,
+      "sentence":"Trao đổi với Báo Phụ nữ Việt Nam sáng 22/9, GS Đào Trọng Thi- nguyên Chủ nhiệm Ủy ban Văn hóa, giáo dục, thanh niên, thiếu niên và nhi đồng của Quốc hội - cho rằng, ý kiến trên có phần chưa thận trọng.",
+      "spos":[
+         902,
+         1104
+      ],
+      "entity_1":{
+         "text":"Đào Trọng Thi",
+         "pos":[
+            47,
+            60
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Ủy ban Văn hóa, giáo dục, thanh niên, thiếu niên và nhi đồng",
+         "pos":[
+            79,
+            139
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23351841",
+      "sent_id":67,
+      "sentence":"Trao đổi với Báo Phụ nữ Việt Nam sáng 22/9, GS Đào Trọng Thi- nguyên Chủ nhiệm Ủy ban Văn hóa, giáo dục, thanh niên, thiếu niên và nhi đồng của Quốc hội - cho rằng, ý kiến trên có phần chưa thận trọng.",
+      "spos":[
+         902,
+         1104
+      ],
+      "entity_1":{
+         "text":"Đào Trọng Thi",
+         "pos":[
+            47,
+            60
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Quốc hội",
+         "pos":[
+            144,
+            152
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351841",
+      "sent_id":68,
+      "sentence":"Trao đổi với Báo Phụ nữ Việt Nam sáng 22/9, GS Đào Trọng Thi- nguyên Chủ nhiệm Ủy ban Văn hóa, giáo dục, thanh niên, thiếu niên và nhi đồng của Quốc hội - cho rằng, ý kiến trên có phần chưa thận trọng.",
+      "spos":[
+         902,
+         1104
+      ],
+      "entity_1":{
+         "text":"Ủy ban Văn hóa, giáo dục, thanh niên, thiếu niên và nhi đồng",
+         "pos":[
+            79,
+            139
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Quốc hội",
+         "pos":[
+            144,
+            152
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23351841",
+      "sent_id":69,
+      "sentence":"Còn theo TS Nguyễn Tùng Lâm- Chủ tịch Hội Tâm lý GD Hà Nội - dẹp ban PH hay không cũng không thể giải quyết được gốc rễ vấn đề.",
+      "spos":[
+         3108,
+         3235
+      ],
+      "entity_1":{
+         "text":"Nguyễn Tùng Lâm",
+         "pos":[
+            12,
+            27
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Hội Tâm lý GD",
+         "pos":[
+            38,
+            51
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23351841",
+      "sent_id":70,
+      "sentence":"Còn theo TS Nguyễn Tùng Lâm- Chủ tịch Hội Tâm lý GD Hà Nội - dẹp ban PH hay không cũng không thể giải quyết được gốc rễ vấn đề.",
+      "spos":[
+         3108,
+         3235
+      ],
+      "entity_1":{
+         "text":"Nguyễn Tùng Lâm",
+         "pos":[
+            12,
+            27
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Hà Nội",
+         "pos":[
+            52,
+            58
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351841",
+      "sent_id":72,
+      "sentence":"Còn theo TS Nguyễn Tùng Lâm- Chủ tịch Hội Tâm lý GD Hà Nội - dẹp ban PH hay không cũng không thể giải quyết được gốc rễ vấn đề.",
+      "spos":[
+         3108,
+         3235
+      ],
+      "entity_1":{
+         "text":"Hội Tâm lý GD",
+         "pos":[
+            38,
+            51
+         ]  
+
+      },
+      "entity_2":{ 
+         "text":"Hà Nội",
+         "pos":[
+            52,
+            58
+         ]
+      },
+      "label":"LOCATED"
+   }
+   ,
+   {
+      "doc_id":"23351841",
+      "sent_id":72,
+      "sentence":"Trao đổi với báo chí sáng 22/9, Thứ trưởng Bộ GD&ĐT Trần Thị Nghĩa cho rằng, hiện nay một số nơi phụ huynh chưa làm đúng quy định mà Bộ GD&ĐT đã ban hành ở Thông tư số 55/2011/TT-BGDĐT ngày 22/11/2011",
+      "spos":[
+         4815,
+         5016
+      ],
+      "entity_1":{
+         "text":"Bộ GD&ĐT",
+         "pos":[
+            43,
+            51
+         ]  
+
+      },
+      "entity_2":{ 
+         "text":"Trần Thị Nghĩa",
+         "pos":[
+            52,
+            66
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23351841",
+      "sent_id":73,
+      "sentence":"Trao đổi với báo chí sáng 22/9, Thứ trưởng Bộ GD&ĐT Trần Thị Nghĩa cho rằng, hiện nay một số nơi phụ huynh chưa làm đúng quy định mà Bộ GD&ĐT đã ban hành ở Thông tư số 55/2011/TT-BGDĐT ngày 22/11/2011",
+      "spos":[
+         4815,
+         5016
+      ],
+      "entity_1":{
+         "text":"Trần Thị Nghĩa",
+         "pos":[
+            52,
+            66
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Bộ GD&ĐT",
+         "pos":[
+            133,
+            141
+         ]
+      },
+      "label":"OTHERS"
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   ,
+   {
+      "doc_id":"23351979",
+      "sent_id":74,
+      "sentence":"Gia đình Đại tướng võ Nguyên Giáp trao quà cho Trường Tiểu học Số 1 Quảng Phú.",
+      "spos":[
+         266,
+         344
+      ],
+      "entity_1":{
+         "text":"võ Nguyên Giáp",
+         "pos":[
+            19,
+            33
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Trường Tiểu học Số 1",
+         "pos":[
+            47,
+            67
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23351979",
+      "sent_id":75,
+      "sentence":"Gia đình Đại tướng võ Nguyên Giáp trao quà cho Trường Tiểu học Số 1 Quảng Phú.",
+      "spos":[
+         266,
+         344
+      ],
+      "entity_1":{
+         "text":"võ Nguyên Giáp",
+         "pos":[
+            19,
+            33
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Quảng Phú",
+         "pos":[
+            68,
+            77
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351979",
+      "sent_id":76,
+      "sentence":"Gia đình Đại tướng võ Nguyên Giáp trao quà cho Trường Tiểu học Số 1 Quảng Phú.",
+      "spos":[
+         266,
+         344
+      ],
+      "entity_1":{
+         "text":"Trường Tiểu học Số 1",
+         "pos":[
+            47,
+            67
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Quảng Phú",
+         "pos":[
+            68,
+            77
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23351979",
+      "sent_id":77,
+      "sentence":"Ngày 22/9, đại diện gia đình Đại tướng Võ Nguyên Giáp đã phối hợp với Đồn Biên phòng Roòn – Bộ đội Biên phòng tỉnh Quảng Bình - thăm hỏi và trao tặng 10 bộ máy tính cùng một số vật phẩm cần thiết cho Trường Tiểu học Số 1 Quảng Phú và Trường THCS Quảng Phú, huyện Quảng Trạch (Quảng Bình).",
+      "spos":[
+         345,
+         533
+      ],
+      "entity_1":{
+         "text":"Võ Nguyên Giáp",
+         "pos":[
+            39,
+            53
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Đồn Biên phòng",
+         "pos":[
+            70,
+            84
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23351979",
+      "sent_id":78,
+      "sentence":"Ngày 22/9, đại diện gia đình Đại tướng Võ Nguyên Giáp đã phối hợp với Đồn Biên phòng Roòn – Bộ đội Biên phòng tỉnh Quảng Bình - thăm hỏi và trao tặng 10 bộ máy tính cùng một số vật phẩm cần thiết cho Trường Tiểu học Số 1 Quảng Phú và Trường THCS Quảng Phú, huyện Quảng Trạch (Quảng Bình).",
+      "spos":[
+         345,
+         533
+      ],
+      "entity_1":{
+         "text":"Võ Nguyên Giáp",
+         "pos":[
+            39,
+            53
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Roòn",
+         "pos":[
+            85,
+            89
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351979",
+      "sent_id":79,
+      "sentence":"Ngày 22/9, đại diện gia đình Đại tướng Võ Nguyên Giáp đã phối hợp với Đồn Biên phòng Roòn – Bộ đội Biên phòng tỉnh Quảng Bình - thăm hỏi và trao tặng 10 bộ máy tính cùng một số vật phẩm cần thiết cho Trường Tiểu học Số 1 Quảng Phú và Trường THCS Quảng Phú, huyện Quảng Trạch (Quảng Bình).",
+      "spos":[
+         345,
+         533
+      ],
+      "entity_1":{
+         "text":"Võ Nguyên Giáp",
+         "pos":[
+            39,
+            53
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Bộ đội Biên phòng",
+         "pos":[
+            92,
+            109
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351979",
+      "sent_id":80,
+      "sentence":"Ngày 22/9, đại diện gia đình Đại tướng Võ Nguyên Giáp đã phối hợp với Đồn Biên phòng Roòn – Bộ đội Biên phòng tỉnh Quảng Bình - thăm hỏi và trao tặng 10 bộ máy tính cùng một số vật phẩm cần thiết cho Trường Tiểu học Số 1 Quảng Phú và Trường THCS Quảng Phú, huyện Quảng Trạch (Quảng Bình).",
+      "spos":[
+         345,
+         533
+      ],
+      "entity_1":{
+         "text":"Võ Nguyên Giáp",
+         "pos":[
+            39,
+            53
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"tỉnh Quảng Bình",
+         "pos":[
+            110,
+            125
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351979",
+      "sent_id":81,
+      "sentence":"Ngày 22/9, đại diện gia đình Đại tướng Võ Nguyên Giáp đã phối hợp với Đồn Biên phòng Roòn – Bộ đội Biên phòng tỉnh Quảng Bình - thăm hỏi và trao tặng 10 bộ máy tính cùng một số vật phẩm cần thiết cho Trường Tiểu học Số 1 Quảng Phú và Trường THCS Quảng Phú, huyện Quảng Trạch (Quảng Bình).",
+      "spos":[
+         345,
+         533
+      ],
+      "entity_1":{
+         "text":"Võ Nguyên Giáp",
+         "pos":[
+            39,
+            53
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Trường Tiểu học Số 1",
+         "pos":[
+            200,
+            220
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351979",
+      "sent_id":82,
+      "sentence":"Ngày 22/9, đại diện gia đình Đại tướng Võ Nguyên Giáp đã phối hợp với Đồn Biên phòng Roòn – Bộ đội Biên phòng tỉnh Quảng Bình - thăm hỏi và trao tặng 10 bộ máy tính cùng một số vật phẩm cần thiết cho Trường Tiểu học Số 1 Quảng Phú và Trường THCS Quảng Phú, huyện Quảng Trạch (Quảng Bình).",
+      "spos":[
+         345,
+         533
+      ],
+      "entity_1":{
+         "text":"Võ Nguyên Giáp",
+         "pos":[
+            39,
+            53
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Quảng Phú",
+         "pos":[
+            221,
+            230
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351979",
+      "sent_id":83,
+      "sentence":"Ngày 22/9, đại diện gia đình Đại tướng Võ Nguyên Giáp đã phối hợp với Đồn Biên phòng Roòn – Bộ đội Biên phòng tỉnh Quảng Bình - thăm hỏi và trao tặng 10 bộ máy tính cùng một số vật phẩm cần thiết cho Trường Tiểu học Số 1 Quảng Phú và Trường THCS Quảng Phú, huyện Quảng Trạch (Quảng Bình).",
+      "spos":[
+         345,
+         533
+      ],
+      "entity_1":{
+         "text":"Đồn Biên phòng",
+         "pos":[
+            70,
+            84
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Roòn",
+         "pos":[
+            85,
+            89
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23351979",
+      "sent_id":84,
+      "sentence":"Ngày 22/9, đại diện gia đình Đại tướng Võ Nguyên Giáp đã phối hợp với Đồn Biên phòng Roòn – Bộ đội Biên phòng tỉnh Quảng Bình - thăm hỏi và trao tặng 10 bộ máy tính cùng một số vật phẩm cần thiết cho Trường Tiểu học Số 1 Quảng Phú và Trường THCS Quảng Phú, huyện Quảng Trạch (Quảng Bình).",
+      "spos":[
+         345,
+         533
+      ],
+      "entity_1":{
+         "text":"Đồn Biên phòng",
+         "pos":[
+            70,
+            84
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Bộ đội Biên phòng",
+         "pos":[
+            92,
+            109
+         ]
+      },
+      "label":"PART_WHOLE"
+   },
+   {
+      "doc_id":"23351979",
+      "sent_id":85,
+      "sentence":"Ngày 22/9, đại diện gia đình Đại tướng Võ Nguyên Giáp đã phối hợp với Đồn Biên phòng Roòn – Bộ đội Biên phòng tỉnh Quảng Bình - thăm hỏi và trao tặng 10 bộ máy tính cùng một số vật phẩm cần thiết cho Trường Tiểu học Số 1 Quảng Phú và Trường THCS Quảng Phú, huyện Quảng Trạch (Quảng Bình).",
+      "spos":[
+         345,
+         533
+      ],
+      "entity_1":{
+         "text":"Đồn Biên phòng",
+         "pos":[
+            70,
+            84
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"tỉnh Quảng Bình",
+         "pos":[
+            110,
+            125
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351979",
+      "sent_id":86,
+      "sentence":"Ngày 22/9, đại diện gia đình Đại tướng Võ Nguyên Giáp đã phối hợp với Đồn Biên phòng Roòn – Bộ đội Biên phòng tỉnh Quảng Bình - thăm hỏi và trao tặng 10 bộ máy tính cùng một số vật phẩm cần thiết cho Trường Tiểu học Số 1 Quảng Phú và Trường THCS Quảng Phú, huyện Quảng Trạch (Quảng Bình).",
+      "spos":[
+         345,
+         533
+      ],
+      "entity_1":{
+         "text":"Bộ đội Biên phòng",
+         "pos":[
+            92,
+            109
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"tỉnh Quảng Bình",
+         "pos":[
+            110,
+            125
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23351979",
+      "sent_id":87,
+      "sentence":"Ngày 22/9, đại diện gia đình Đại tướng Võ Nguyên Giáp đã phối hợp với Đồn Biên phòng Roòn – Bộ đội Biên phòng tỉnh Quảng Bình - thăm hỏi và trao tặng 10 bộ máy tính cùng một số vật phẩm cần thiết cho Trường Tiểu học Số 1 Quảng Phú và Trường THCS Quảng Phú, huyện Quảng Trạch (Quảng Bình).",
+      "spos":[
+         345,
+         533
+      ],
+      "entity_1":{
+         "text":"Bộ đội Biên phòng",
+         "pos":[
+            92,
+            109
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Trường Tiểu học Số 1",
+         "pos":[
+            200,
+            220
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351979",
+      "sent_id":88,
+      "sentence":"Ngày 22/9, đại diện gia đình Đại tướng Võ Nguyên Giáp đã phối hợp với Đồn Biên phòng Roòn – Bộ đội Biên phòng tỉnh Quảng Bình - thăm hỏi và trao tặng 10 bộ máy tính cùng một số vật phẩm cần thiết cho Trường Tiểu học Số 1 Quảng Phú và Trường THCS Quảng Phú, huyện Quảng Trạch (Quảng Bình).",
+      "spos":[
+         345,
+         533
+      ],
+      "entity_1":{
+         "text":"Trường Tiểu học Số 1",
+         "pos":[
+            200,
+            220
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Quảng Phú",
+         "pos":[
+            221,
+            230
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23351979",
+      "sent_id":89,
+      "sentence":"Ngày 22/9, đại diện gia đình Đại tướng Võ Nguyên Giáp đã phối hợp với Đồn Biên phòng Roòn – Bộ đội Biên phòng tỉnh Quảng Bình - thăm hỏi và trao tặng 10 bộ máy tính cùng một số vật phẩm cần thiết cho Trường Tiểu học Số 1 Quảng Phú và Trường THCS Quảng Phú, huyện Quảng Trạch (Quảng Bình).",
+      "spos":[
+         345,
+         533
+      ],
+      "entity_1":{
+         "text":"Trường Tiểu học Số 1",
+         "pos":[
+            200,
+            220
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Trường THCS",
+         "pos":[
+            234,
+            245
+         ]
+      },
+      "label":"PART_WHOLE"
+   }
+   ,
+   {
+      "doc_id":"23351979",
+      "sent_id":90,
+      "sentence":"Ngày 22/9, đại diện gia đình Đại tướng Võ Nguyên Giáp đã phối hợp với Đồn Biên phòng Roòn – Bộ đội Biên phòng tỉnh Quảng Bình - thăm hỏi và trao tặng 10 bộ máy tính cùng một số vật phẩm cần thiết cho Trường Tiểu học Số 1 Quảng Phú và Trường THCS Quảng Phú, huyện Quảng Trạch (Quảng Bình).",
+      "spos":[
+         345,
+         533
+      ],
+      "entity_1":{
+         "text":"Trường Tiểu học Số 1",
+         "pos":[
+            200,
+            220
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Quảng Phú",
+         "pos":[
+            246,
+            255
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23351979",
+      "sent_id":91,
+      "sentence":"Ngày 22/9, đại diện gia đình Đại tướng Võ Nguyên Giáp đã phối hợp với Đồn Biên phòng Roòn – Bộ đội Biên phòng tỉnh Quảng Bình - thăm hỏi và trao tặng 10 bộ máy tính cùng một số vật phẩm cần thiết cho Trường Tiểu học Số 1 Quảng Phú và Trường THCS Quảng Phú, huyện Quảng Trạch (Quảng Bình).",
+      "spos":[
+         345,
+         533
+      ],
+      "entity_1":{
+         "text":"Trường THCS",
+         "pos":[
+            234,
+            245
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Quảng Phú",
+         "pos":[
+            246,
+            255
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23351979",
+      "sent_id":92,
+      "sentence":"Ngày 22/9, đại diện gia đình Đại tướng Võ Nguyên Giáp đã phối hợp với Đồn Biên phòng Roòn – Bộ đội Biên phòng tỉnh Quảng Bình - thăm hỏi và trao tặng 10 bộ máy tính cùng một số vật phẩm cần thiết cho Trường Tiểu học Số 1 Quảng Phú và Trường THCS Quảng Phú, huyện Quảng Trạch (Quảng Bình).",
+      "spos":[
+         345,
+         533
+      ],
+      "entity_1":{
+         "text":"Quảng Phú",
+         "pos":[
+            246,
+            255
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"huyện Quảng Trạch",
+         "pos":[
+            257,
+            274
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23351979",
+      "sent_id":93,
+      "sentence":"Ngày 22/9, đại diện gia đình Đại tướng Võ Nguyên Giáp đã phối hợp với Đồn Biên phòng Roòn – Bộ đội Biên phòng tỉnh Quảng Bình - thăm hỏi và trao tặng 10 bộ máy tính cùng một số vật phẩm cần thiết cho Trường Tiểu học Số 1 Quảng Phú và Trường THCS Quảng Phú, huyện Quảng Trạch (Quảng Bình).",
+      "spos":[
+         345,
+         533
+      ],
+      "entity_1":{
+         "text":"huyện Quảng Trạch",
+         "pos":[
+            257,
+            274
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Quảng Bình",
+         "pos":[
+            276,
+            286
+         ]
+      },
+      "label":"LOCATED"
+   }
+   ,
+   {
+      "doc_id":"23351979",
+      "sent_id":94,
+      "sentence":"Sau quá trình khảo sát thiệt hại của các trường học trên địa bàn tỉnh Quảng Bình sau bão số 10, gia đình Đại tướng nhận thấy Trường Tiểu học Số 1 Quảng Phú và Trường THCS Quảng Phú là 2 trường bị thiệt hại nặng nề nhất khi nằm ở vị trí tâm bão đi qua; công tác dạy và học trở lại sau bão gặp muôn vàn khó khăn; các phòng học của 2 trường này đều bị bão tàn phá hư hỏng, dụng cụ dạy học, các thiết bị điện tử đều bị hư hại và ẩm ướt.",
+      "spos":[
+         634,
+         1066
+      ],
+      "entity_1":{
+         "text":"tỉnh Quảng Bình",
+         "pos":[
+            65,
+            80
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Trường Tiểu học Số 1",
+         "pos":[
+            125,
+            145
+         ]
+      },
+      "label":"OTHERS"
+   }
+   ,
+   {
+      "doc_id":"23351979",
+      "sent_id":95,
+      "sentence":"Sau quá trình khảo sát thiệt hại của các trường học trên địa bàn tỉnh Quảng Bình sau bão số 10, gia đình Đại tướng nhận thấy Trường Tiểu học Số 1 Quảng Phú và Trường THCS Quảng Phú là 2 trường bị thiệt hại nặng nề nhất khi nằm ở vị trí tâm bão đi qua; công tác dạy và học trở lại sau bão gặp muôn vàn khó khăn; các phòng học của 2 trường này đều bị bão tàn phá hư hỏng, dụng cụ dạy học, các thiết bị điện tử đều bị hư hại và ẩm ướt.",
+      "spos":[
+         634,
+         1066
+      ],
+      "entity_1":{
+         "text":"tỉnh Quảng Bình",
+         "pos":[
+            65,
+            80
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Quảng Phú",
+         "pos":[
+            171,
+            180
+         ]
+      },
+      "label":"OTHERS"
+   }
+   ,
+   {
+      "doc_id":"23351979",
+      "sent_id":96,
+      "sentence":"Sau quá trình khảo sát thiệt hại của các trường học trên địa bàn tỉnh Quảng Bình sau bão số 10, gia đình Đại tướng nhận thấy Trường Tiểu học Số 1 Quảng Phú và Trường THCS Quảng Phú là 2 trường bị thiệt hại nặng nề nhất khi nằm ở vị trí tâm bão đi qua; công tác dạy và học trở lại sau bão gặp muôn vàn khó khăn; các phòng học của 2 trường này đều bị bão tàn phá hư hỏng, dụng cụ dạy học, các thiết bị điện tử đều bị hư hại và ẩm ướt.",
+      "spos":[
+         634,
+         1066
+      ],
+      "entity_1":{
+         "text":"Trường Tiểu học Số 1",
+         "pos":[
+            125,
+            145
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Quảng Phú",
+         "pos":[
+            171,
+            180
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23351979",
+      "sent_id":97,
+      "sentence":"Sau quá trình khảo sát thiệt hại của các trường học trên địa bàn tỉnh Quảng Bình sau bão số 10, gia đình Đại tướng nhận thấy Trường Tiểu học Số 1 Quảng Phú và Trường THCS Quảng Phú là 2 trường bị thiệt hại nặng nề nhất khi nằm ở vị trí tâm bão đi qua; công tác dạy và học trở lại sau bão gặp muôn vàn khó khăn; các phòng học của 2 trường này đều bị bão tàn phá hư hỏng, dụng cụ dạy học, các thiết bị điện tử đều bị hư hại và ẩm ướt.",
+      "spos":[
+         634,
+         1066
+      ],
+      "entity_1":{
+         "text":"Trường Tiểu học Số 1",
+         "pos":[
+            125,
+            145
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Trường THCS",
+         "pos":[
+            159,
+            170
+         ]
+      },
+      "label":"PART_WHOLE"
+   },
+   {
+      "doc_id":"23351979",
+      "sent_id":98,
+      "sentence":"Sau quá trình khảo sát thiệt hại của các trường học trên địa bàn tỉnh Quảng Bình sau bão số 10, gia đình Đại tướng nhận thấy Trường Tiểu học Số 1 Quảng Phú và Trường THCS Quảng Phú là 2 trường bị thiệt hại nặng nề nhất khi nằm ở vị trí tâm bão đi qua; công tác dạy và học trở lại sau bão gặp muôn vàn khó khăn; các phòng học của 2 trường này đều bị bão tàn phá hư hỏng, dụng cụ dạy học, các thiết bị điện tử đều bị hư hại và ẩm ướt.",
+      "spos":[
+         634,
+         1066
+      ],
+      "entity_1":{
+         "text":"Trường THCS",
+         "pos":[
+            159,
+            170
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Quảng Phú",
+         "pos":[
+            171,
+            180
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23351979",
+      "sent_id":99,
+      "sentence":"Trưởng phòng PC67 Công an TP.HCM nói gì về CSGT nhận mãi lộ?",
+      "spos":[
+         0,
+         60
+      ],
+      "entity_1":{
+         "text":"phòng PC67",
+         "pos":[
+            7,
+            17
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Công an",
+         "pos":[
+            18,
+            25
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23351979",
+      "sent_id":100,
+      "sentence":"Trưởng phòng PC67 Công an TP.HCM nói gì về CSGT nhận mãi lộ?",
+      "spos":[
+         0,
+         60
+      ],
+      "entity_1":{
+         "text":"Công an",
+         "pos":[
+            18,
+            25
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"TP.HCM",
+         "pos":[
+            26,
+            32
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352260",
+      "sent_id":101,
+      "sentence":"Chiều 22/9, Trung tá Huỳnh Trung Phong, Trưởng phòng CSGT Đường bộ - Đường sắt Công an TP.HCM gặp gỡ báo chí trả lời những nội dung liên quan đến 3 chiến sĩ CSGT đội Tân Sơn Nhất nhận mãi lộ...",
+      "spos":[
+         61,
+         253
+      ],
+      "entity_1":{
+         "text":"Huỳnh Trung Phong",
+         "pos":[
+            21,
+            38
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"CSGT Đường bộ - Đường sắt",
+         "pos":[
+            53,
+            78
+         ]
+      },
+      "label":"AFFILIATION"
+   }
+   ,
+   {
+      "doc_id":"23352260",
+      "sent_id":102,
+      "sentence":"Chiều 22/9, Trung tá Huỳnh Trung Phong, Trưởng phòng CSGT Đường bộ - Đường sắt Công an TP.HCM gặp gỡ báo chí trả lời những nội dung liên quan đến 3 chiến sĩ CSGT đội Tân Sơn Nhất nhận mãi lộ...",
+      "spos":[
+         61,
+         253
+      ],
+      "entity_1":{
+         "text":"Huỳnh Trung Phong",
+         "pos":[
+            21,
+            38
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Công an",
+         "pos":[
+            79,
+            86
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352260",
+      "sent_id":103,
+      "sentence":"Chiều 22/9, Trung tá Huỳnh Trung Phong, Trưởng phòng CSGT Đường bộ - Đường sắt Công an TP.HCM gặp gỡ báo chí trả lời những nội dung liên quan đến 3 chiến sĩ CSGT đội Tân Sơn Nhất nhận mãi lộ...",
+      "spos":[
+         61,
+         253
+      ],
+      "entity_1":{
+         "text":"Huỳnh Trung Phong",
+         "pos":[
+            21,
+            38
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"TP.HCM",
+         "pos":[
+            87,
+            93
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352260",
+      "sent_id":104,
+      "sentence":"Chiều 22/9, Trung tá Huỳnh Trung Phong, Trưởng phòng CSGT Đường bộ - Đường sắt Công an TP.HCM gặp gỡ báo chí trả lời những nội dung liên quan đến 3 chiến sĩ CSGT đội Tân Sơn Nhất nhận mãi lộ...",
+      "spos":[
+         61,
+         253
+      ],
+      "entity_1":{
+         "text":"Huỳnh Trung Phong",
+         "pos":[
+            21,
+            38
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Tân Sơn Nhất",
+         "pos":[
+            166,
+            178
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352260",
+      "sent_id":105,
+      "sentence":"Chiều 22/9, Trung tá Huỳnh Trung Phong, Trưởng phòng CSGT Đường bộ - Đường sắt Công an TP.HCM gặp gỡ báo chí trả lời những nội dung liên quan đến 3 chiến sĩ CSGT đội Tân Sơn Nhất nhận mãi lộ...",
+      "spos":[
+         61,
+         253
+      ],
+      "entity_1":{
+         "text":"CSGT Đường bộ - Đường sắt",
+         "pos":[
+            53,
+            78
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Công an",
+         "pos":[
+            79,
+            86
+         ]
+      },
+      "label":"PART_WHOLE"
+   },
+   {
+      "doc_id":"23352260",
+      "sent_id":106,
+      "sentence":"Chiều 22/9, Trung tá Huỳnh Trung Phong, Trưởng phòng CSGT Đường bộ - Đường sắt Công an TP.HCM gặp gỡ báo chí trả lời những nội dung liên quan đến 3 chiến sĩ CSGT đội Tân Sơn Nhất nhận mãi lộ...",
+      "spos":[
+         61,
+         253
+      ],
+      "entity_1":{
+         "text":"CSGT Đường bộ - Đường sắt",
+         "pos":[
+            53,
+            78
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"TP.HCM",
+         "pos":[
+            87,
+            93
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352260",
+      "sent_id":107,
+      "sentence":"Chiều 22/9, Trung tá Huỳnh Trung Phong, Trưởng phòng CSGT Đường bộ - Đường sắt Công an TP.HCM gặp gỡ báo chí trả lời những nội dung liên quan đến 3 chiến sĩ CSGT đội Tân Sơn Nhất nhận mãi lộ...",
+      "spos":[
+         61,
+         253
+      ],
+      "entity_1":{
+         "text":"CSGT Đường bộ - Đường sắt",
+         "pos":[
+            53,
+            78
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Tân Sơn Nhất",
+         "pos":[
+            166,
+            178
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352260",
+      "sent_id":108,
+      "sentence":"Chiều 22/9, Trung tá Huỳnh Trung Phong, Trưởng phòng CSGT Đường bộ - Đường sắt Công an TP.HCM gặp gỡ báo chí trả lời những nội dung liên quan đến 3 chiến sĩ CSGT đội Tân Sơn Nhất nhận mãi lộ...",
+      "spos":[
+         61,
+         253
+      ],
+      "entity_1":{
+         "text":"Công an",
+         "pos":[
+            79,
+            86
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"TP.HCM",
+         "pos":[
+            87,
+            93
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352260",
+      "sent_id":109,
+      "sentence":"Chiều 22/9, Trung tá Huỳnh Trung Phong, Trưởng phòng CSGT Đường bộ - Đường sắt Công an TP.HCM gặp gỡ báo chí trả lời những nội dung liên quan đến 3 chiến sĩ CSGT đội Tân Sơn Nhất nhận mãi lộ...",
+      "spos":[
+         61,
+         253
+      ],
+      "entity_1":{
+         "text":"Công an",
+         "pos":[
+            79,
+            86
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Tân Sơn Nhất",
+         "pos":[
+            166,
+            178
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352260",
+      "sent_id":110,
+      "sentence":"Chiều 22/9, Trung tá Huỳnh Trung Phong, Trưởng phòng CSGT Đường bộ - Đường sắt Công an TP.HCM gặp gỡ báo chí trả lời những nội dung liên quan đến 3 chiến sĩ CSGT đội Tân Sơn Nhất nhận mãi lộ...",
+      "spos":[
+         61,
+         253
+      ],
+      "entity_1":{
+         "text":"TP.HCM",
+         "pos":[
+            87,
+            93
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Tân Sơn Nhất",
+         "pos":[
+            166,
+            178
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23352260",
+      "sent_id":111,
+      "sentence":"Trung tá Phong khẳng định, ngay sau khi bài viết của Tuổi Trẻ phản ánh, PC67 đã lập tổ xác minh, điều tra đảm bảo tính khách quan. Qua đó, PC67 xác định 3 chiến sĩ liên quan đến bài báo nêu thuộc đội CSGT Tân Sơn Nhất. Qua làm việc, cả 3 chiến sĩ thừa nhận sự việc đúng như bài báo nêu. Ngay sau đó, PC 67 đã có quyết định tạm đình chỉ công tác cả 3 chiến sĩ để làm rõ và báo cáo nhanh cho Ban giám đốc Công an TP.HCM. Trung tá Phong khẳng định: Các chiến sĩ trên sai đến đâu sẽ xử lý nghiêm đến đó, không bao che bất cứ chiến sĩ nào vi phạm...",
+      "spos":[
+         254,
+         797
+      ],
+      "entity_1":{
+         "text":"Phong",
+         "pos":[
+            9,
+            14
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Tuổi Trẻ",
+         "pos":[
+            53,
+            61
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352260",
+      "sent_id":112,
+      "sentence":"Trung tá Phong khẳng định, ngay sau khi bài viết của Tuổi Trẻ phản ánh, PC67 đã lập tổ xác minh, điều tra đảm bảo tính khách quan. Qua đó, PC67 xác định 3 chiến sĩ liên quan đến bài báo nêu thuộc đội CSGT Tân Sơn Nhất. Qua làm việc, cả 3 chiến sĩ thừa nhận sự việc đúng như bài báo nêu. Ngay sau đó, PC 67 đã có quyết định tạm đình chỉ công tác cả 3 chiến sĩ để làm rõ và báo cáo nhanh cho Ban giám đốc Công an TP.HCM. Trung tá Phong khẳng định: Các chiến sĩ trên sai đến đâu sẽ xử lý nghiêm đến đó, không bao che bất cứ chiến sĩ nào vi phạm...",
+      "spos":[
+         254,
+         797
+      ],
+      "entity_1":{
+         "text":"Phong",
+         "pos":[
+            9,
+            14
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"PC67",
+         "pos":[
+            72,
+            76
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352260",
+      "sent_id":113,
+      "sentence":"Trung tá Phong khẳng định, ngay sau khi bài viết của Tuổi Trẻ phản ánh, PC67 đã lập tổ xác minh, điều tra đảm bảo tính khách quan. Qua đó, PC67 xác định 3 chiến sĩ liên quan đến bài báo nêu thuộc đội CSGT Tân Sơn Nhất. Qua làm việc, cả 3 chiến sĩ thừa nhận sự việc đúng như bài báo nêu. Ngay sau đó, PC 67 đã có quyết định tạm đình chỉ công tác cả 3 chiến sĩ để làm rõ và báo cáo nhanh cho Ban giám đốc Công an TP.HCM. Trung tá Phong khẳng định: Các chiến sĩ trên sai đến đâu sẽ xử lý nghiêm đến đó, không bao che bất cứ chiến sĩ nào vi phạm...",
+      "spos":[
+         254,
+         797
+      ],
+      "entity_1":{
+         "text":"Phong",
+         "pos":[
+            9,
+            14
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Tân Sơn Nhất",
+         "pos":[
+            205,
+            217
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352260",
+      "sent_id":114,
+      "sentence":"Trung tá Phong khẳng định, ngay sau khi bài viết của Tuổi Trẻ phản ánh, PC67 đã lập tổ xác minh, điều tra đảm bảo tính khách quan. Qua đó, PC67 xác định 3 chiến sĩ liên quan đến bài báo nêu thuộc đội CSGT Tân Sơn Nhất. Qua làm việc, cả 3 chiến sĩ thừa nhận sự việc đúng như bài báo nêu. Ngay sau đó, PC 67 đã có quyết định tạm đình chỉ công tác cả 3 chiến sĩ để làm rõ và báo cáo nhanh cho Ban giám đốc Công an TP.HCM. Trung tá Phong khẳng định: Các chiến sĩ trên sai đến đâu sẽ xử lý nghiêm đến đó, không bao che bất cứ chiến sĩ nào vi phạm...",
+      "spos":[
+         254,
+         797
+      ],
+      "entity_1":{
+         "text":"Phong",
+         "pos":[
+            9,
+            14
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Công an",
+         "pos":[
+            403,
+            410
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352677",
+      "sent_id":115,
+      "sentence":"Chiều 22.9, tiến sĩ Trần Nam Dũng, giảng viên Trường ĐH KHTN TP.HCM, Trưởng Ban tổ chức IGO Việt Nam, cho biết cuộc thi này được tổ chức theo cách thức của APMO, tức là mỗi nước sẽ tự tổ chức, tự chấm và nộp điểm của 4 bài cao nhất ở mỗi cấp độ. Ban tổ chức sẽ duyệt lại và trao huân chương.",
+      "spos":[
+         339,
+         529
+      ],
+      "entity_1":{
+         "text":"Trần Nam Dũng",
+         "pos":[
+            20,
+            33
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Trường ĐH KHTN",
+         "pos":[
+            46,
+            60
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23352677",
+      "sent_id":116,
+      "sentence":"Chiều 22.9, tiến sĩ Trần Nam Dũng, giảng viên Trường ĐH KHTN TP.HCM, Trưởng Ban tổ chức IGO Việt Nam, cho biết cuộc thi này được tổ chức theo cách thức của APMO, tức là mỗi nước sẽ tự tổ chức, tự chấm và nộp điểm của 4 bài cao nhất ở mỗi cấp độ. Ban tổ chức sẽ duyệt lại và trao huân chương.",
+      "spos":[
+         339,
+         529
+      ],
+      "entity_1":{
+         "text":"Trần Nam Dũng",
+         "pos":[
+            20,
+            33
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"TP.HCM",
+         "pos":[
+            61,
+            67
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352677",
+      "sent_id":117,
+      "sentence":"Chiều 22.9, tiến sĩ Trần Nam Dũng, giảng viên Trường ĐH KHTN TP.HCM, Trưởng Ban tổ chức IGO Việt Nam, cho biết cuộc thi này được tổ chức theo cách thức của APMO, tức là mỗi nước sẽ tự tổ chức, tự chấm và nộp điểm của 4 bài cao nhất ở mỗi cấp độ. Ban tổ chức sẽ duyệt lại và trao huân chương.",
+      "spos":[
+         339,
+         529
+      ],
+      "entity_1":{
+         "text":"Trần Nam Dũng",
+         "pos":[
+            20,
+            33
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Việt Nam",
+         "pos":[
+            92,
+            100
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352677",
+      "sent_id":118,
+      "sentence":"Chiều 22.9, tiến sĩ Trần Nam Dũng, giảng viên Trường ĐH KHTN TP.HCM, Trưởng Ban tổ chức IGO Việt Nam, cho biết cuộc thi này được tổ chức theo cách thức của APMO, tức là mỗi nước sẽ tự tổ chức, tự chấm và nộp điểm của 4 bài cao nhất ở mỗi cấp độ. Ban tổ chức sẽ duyệt lại và trao huân chương.",
+      "spos":[
+         339,
+         529
+      ],
+      "entity_1":{
+         "text":"Trường ĐH KHTN",
+         "pos":[
+            46,
+            60
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"TP.HCM",
+         "pos":[
+            61,
+            67
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352677",
+      "sent_id":119,
+      "sentence":"Chiều 22.9, tiến sĩ Trần Nam Dũng, giảng viên Trường ĐH KHTN TP.HCM, Trưởng Ban tổ chức IGO Việt Nam, cho biết cuộc thi này được tổ chức theo cách thức của APMO, tức là mỗi nước sẽ tự tổ chức, tự chấm và nộp điểm của 4 bài cao nhất ở mỗi cấp độ. Ban tổ chức sẽ duyệt lại và trao huân chương.",
+      "spos":[
+         339,
+         529
+      ],
+      "entity_1":{
+         "text":"Trường ĐH KHTN",
+         "pos":[
+            46,
+            60
+         ]
+
+      },
+      "entity_2":{ 
+         "text":"Việt Nam",
+         "pos":[
+            92,
+            100
+         ]
+      },
+      "label":"LOCATED"
+   },
+   
+   {
+      "doc_id":"23352296",
+      "sent_id":120,
+      "sentence":"Chiều 22-9, tại Hà Nội, Nhà Xuất bản Phụ nữ đã tổ chức buổi ra mắt cuốn sách Dạy con tự học với sự góp mặt của đông đảo độc giả quan tâm đến việc tìm lời giải cho các câu hỏi: Làm thế nào để con tự giác học tập? Làm thế nào để con tự tin, tự lập, trách nhiệm? Làm thế nào để con say mê học tập và phát triển bản thân suốt cuộc đời?...",
+      "spos":[
+         35,
+         367
+      ],
+      "entity_1":{
+         "text":"Hà Nội",
+         "pos":[
+            16,
+            22
+         ]
+      },
+      "entity_2":{ 
+         "text":"Nhà Xuất bản Phụ nữ",
+         "pos":[
+            24,
+            43
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23352296",
+      "sent_id":121,
+      "sentence":"Tại buổi ra mắt sách, tác giả Trần Thị Kim Thành đã cùng giao lưu, chia sẻ kiến thức dạy con với các độc giả. Sinh năm 1982, hiện là chuyên gia tâm lý trị liệu, tác giả Kim Thành đã viết cuốn Dạy con tự học để dành tặng trước tiên cho các con Quang Khánh, Minh Đức, Minh Lâm của mình.",
+      "spos":[
+         368,
+         651
+      ],
+      "entity_1":{
+         "text":"Trần Thị Kim Thành",
+         "pos":[
+            30,
+            48
+         ]
+      },
+      "entity_2":{ 
+         "text":"Kim Thành",
+         "pos":[
+            169,
+            178
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352296",
+      "sent_id":122,
+      "sentence":"Tại buổi ra mắt sách, tác giả Trần Thị Kim Thành đã cùng giao lưu, chia sẻ kiến thức dạy con với các độc giả. Sinh năm 1982, hiện là chuyên gia tâm lý trị liệu, tác giả Kim Thành đã viết cuốn Dạy con tự học để dành tặng trước tiên cho các con Quang Khánh, Minh Đức, Minh Lâm của mình.",
+      "spos":[
+         368,
+         651
+      ],
+      "entity_1":{
+         "text":"Trần Thị Kim Thành",
+         "pos":[
+            30,
+            48
+         ]
+      },
+      "entity_2":{ 
+         "text":"Quang Khánh",
+         "pos":[
+            243,
+            254
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352296",
+      "sent_id":123,
+      "sentence":"Tại buổi ra mắt sách, tác giả Trần Thị Kim Thành đã cùng giao lưu, chia sẻ kiến thức dạy con với các độc giả. Sinh năm 1982, hiện là chuyên gia tâm lý trị liệu, tác giả Kim Thành đã viết cuốn Dạy con tự học để dành tặng trước tiên cho các con Quang Khánh, Minh Đức, Minh Lâm của mình.",
+      "spos":[
+         368,
+         651
+      ],
+      "entity_1":{
+         "text":"Trần Thị Kim Thành",
+         "pos":[
+            30,
+            48
+         ]
+      },
+      "entity_2":{ 
+         "text":"Minh Đức",
+         "pos":[
+            256,
+            264
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352296",
+      "sent_id":124,
+      "sentence":"Tại buổi ra mắt sách, tác giả Trần Thị Kim Thành đã cùng giao lưu, chia sẻ kiến thức dạy con với các độc giả. Sinh năm 1982, hiện là chuyên gia tâm lý trị liệu, tác giả Kim Thành đã viết cuốn Dạy con tự học để dành tặng trước tiên cho các con Quang Khánh, Minh Đức, Minh Lâm của mình.",
+      "spos":[
+         368,
+         651
+      ],
+      "entity_1":{
+         "text":"Trần Thị Kim Thành",
+         "pos":[
+            30,
+            48
+         ]
+      },
+      "entity_2":{ 
+         "text":"Minh Lâm",
+         "pos":[
+            266,
+            274
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352296",
+      "sent_id":125,
+      "sentence":"Tại buổi ra mắt sách, tác giả Trần Thị Kim Thành đã cùng giao lưu, chia sẻ kiến thức dạy con với các độc giả. Sinh năm 1982, hiện là chuyên gia tâm lý trị liệu, tác giả Kim Thành đã viết cuốn Dạy con tự học để dành tặng trước tiên cho các con Quang Khánh, Minh Đức, Minh Lâm của mình.",
+      "spos":[
+         368,
+         651
+      ],
+      "entity_1":{
+         "text":"Kim Thành",
+         "pos":[
+            169,
+            178
+         ]
+      },
+      "entity_2":{ 
+         "text":"Quang Khánh",
+         "pos":[
+            243,
+            254
+         ]
+      },
+      "label":"PERSONAL_SOCIAL"
+   },
+   {
+      "doc_id":"23352296",
+      "sent_id":126,
+      "sentence":"Tại buổi ra mắt sách, tác giả Trần Thị Kim Thành đã cùng giao lưu, chia sẻ kiến thức dạy con với các độc giả. Sinh năm 1982, hiện là chuyên gia tâm lý trị liệu, tác giả Kim Thành đã viết cuốn Dạy con tự học để dành tặng trước tiên cho các con Quang Khánh, Minh Đức, Minh Lâm của mình.",
+      "spos":[
+         368,
+         651
+      ],
+      "entity_1":{
+         "text":"Kim Thành",
+         "pos":[
+            169,
+            178
+         ]
+      },
+      "entity_2":{ 
+         "text":"Minh Đức",
+         "pos":[
+            256,
+            264
+         ]
+      },
+      "label":"PERSONAL_SOCIAL"
+   },
+   {
+      "doc_id":"23352296",
+      "sent_id":127,
+      "sentence":"Tại buổi ra mắt sách, tác giả Trần Thị Kim Thành đã cùng giao lưu, chia sẻ kiến thức dạy con với các độc giả. Sinh năm 1982, hiện là chuyên gia tâm lý trị liệu, tác giả Kim Thành đã viết cuốn Dạy con tự học để dành tặng trước tiên cho các con Quang Khánh, Minh Đức, Minh Lâm của mình.",
+      "spos":[
+         368,
+         651
+      ],
+      "entity_1":{
+         "text":"Kim Thành",
+         "pos":[
+            169,
+            178
+         ]
+      },
+      "entity_2":{ 
+         "text":"Minh Lâm",
+         "pos":[
+            266,
+            274
+         ]
+      },
+      "label":"PERSONAL_SOCIAL"
+   },
+   {
+      "doc_id":"23352296",
+      "sent_id":128,
+      "sentence":"Tại buổi ra mắt sách, tác giả Trần Thị Kim Thành đã cùng giao lưu, chia sẻ kiến thức dạy con với các độc giả. Sinh năm 1982, hiện là chuyên gia tâm lý trị liệu, tác giả Kim Thành đã viết cuốn Dạy con tự học để dành tặng trước tiên cho các con Quang Khánh, Minh Đức, Minh Lâm của mình.",
+      "spos":[
+         368,
+         651
+      ],
+      "entity_1":{
+         "text":"Quang Khánh",
+         "pos":[
+            243,
+            254
+         ]
+      },
+      "entity_2":{ 
+         "text":"Minh Đức",
+         "pos":[
+            256,
+            264
+         ]
+      },
+      "label":"PERSONAL_SOCIAL"
+   },
+   {
+      "doc_id":"23352296",
+      "sent_id":129,
+      "sentence":"Tại buổi ra mắt sách, tác giả Trần Thị Kim Thành đã cùng giao lưu, chia sẻ kiến thức dạy con với các độc giả. Sinh năm 1982, hiện là chuyên gia tâm lý trị liệu, tác giả Kim Thành đã viết cuốn Dạy con tự học để dành tặng trước tiên cho các con Quang Khánh, Minh Đức, Minh Lâm của mình.",
+      "spos":[
+         368,
+         651
+      ],
+      "entity_1":{
+         "text":"Quang Khánh",
+         "pos":[
+            243,
+            254
+         ]
+      },
+      "entity_2":{ 
+         "text":"Minh Lâm",
+         "pos":[
+            266,
+            274
+         ]
+      },
+      "label":"PERSONAL_SOCIAL"
+   },
+   {
+      "doc_id":"23352296",
+      "sent_id":130,
+      "sentence":"Tại buổi ra mắt sách, tác giả Trần Thị Kim Thành đã cùng giao lưu, chia sẻ kiến thức dạy con với các độc giả. Sinh năm 1982, hiện là chuyên gia tâm lý trị liệu, tác giả Kim Thành đã viết cuốn Dạy con tự học để dành tặng trước tiên cho các con Quang Khánh, Minh Đức, Minh Lâm của mình.",
+      "spos":[
+         368,
+         651
+      ],
+      "entity_1":{
+         "text":"Minh Đức",
+         "pos":[
+            256,
+            264
+         ]
+      },
+      "entity_2":{ 
+         "text":"Minh Lâm",
+         "pos":[
+            266,
+            274
+         ]
+      },
+      "label":"PERSONAL_SOCIAL"
+   },
+   {
+      "doc_id":"23352370",
+      "sent_id":131,
+      "sentence":"Sở Giáo dục và Đào tạo tỉnh Lào Cai yêu cầu các trường học có học sinh ăn, ở nội trú, bán trú trong toàn tỉnh rà soát điều kiện vệ sinh an toàn thực phẩm.",
+      "spos":[
+         84,
+         238
+      ],
+      "entity_1":{
+         "text":"Sở Giáo dục và Đào tạo",
+         "pos":[
+            0,
+            22
+         ]
+      },
+      "entity_2":{ 
+         "text":"tỉnh Lào Cai",
+         "pos":[
+            23,
+            35
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352370",
+      "sent_id":132,
+      "sentence":"Các em học sinh được điều trị tại Bệnh viện đa khoa huyện Sapa.",
+      "spos":[
+         239,
+         301
+      ],
+      "entity_1":{
+         "text":"Bệnh viện đa khoa",
+         "pos":[
+            34,
+            51
+         ]
+      },
+      "entity_2":{ 
+         "text":"huyện Sapa",
+         "pos":[
+            52,
+            62
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352370",
+      "sent_id":133,
+      "sentence":"Liên quan đến vụ 73 học sinh nghi ngộ độc thực phẩm sau bữa ăn tối ngày 20/9 tại Trường Phổ thông Dân tộc bán trú Tiểu học và Trung học cơ sở Hầu Thào (Sa Pa, Lào Cai), ngày 22/9, Sở Giáo dục và Đào tạo tỉnh Lào Cai đã có công văn yêu cầu các trường học có học sinh ăn, ở nội trú, bán trú trong toàn tỉnh tăng cường kỷ cương, nền nếp quản lý học sinh, rà soát các điều kiện bảo đảm an toàn, đặc biệt chú trọng đến công tác bảo đảm an toàn vệ sinh thực phẩm trong trường học, tránh những vụ việc đáng tiếc xảy ra.",
+      "spos":[
+         302,
+         512
+      ],
+      "entity_1":{
+         "text":"Trường Phổ thông Dân tộc bán trú Tiểu học và Trung học cơ sở",
+         "pos":[
+            81,
+            141
+         ]
+      },
+      "entity_2":{ 
+         "text":"Hầu Thào",
+         "pos":[
+            142,
+            150
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352370",
+      "sent_id":134,
+      "sentence":"Liên quan đến vụ 73 học sinh nghi ngộ độc thực phẩm sau bữa ăn tối ngày 20/9 tại Trường Phổ thông Dân tộc bán trú Tiểu học và Trung học cơ sở Hầu Thào (Sa Pa, Lào Cai), ngày 22/9, Sở Giáo dục và Đào tạo tỉnh Lào Cai đã có công văn yêu cầu các trường học có học sinh ăn, ở nội trú, bán trú trong toàn tỉnh tăng cường kỷ cương, nền nếp quản lý học sinh, rà soát các điều kiện bảo đảm an toàn, đặc biệt chú trọng đến công tác bảo đảm an toàn vệ sinh thực phẩm trong trường học, tránh những vụ việc đáng tiếc xảy ra.",
+      "spos":[
+         302,
+         512
+      ],
+      "entity_1":{
+         "text":"Trường Phổ thông Dân tộc bán trú Tiểu học và Trung học cơ sở",
+         "pos":[
+            81,
+            141
+         ]
+      },
+      "entity_2":{ 
+         "text":"Sa Pa",
+         "pos":[
+            152,
+            157
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352370",
+      "sent_id":135,
+      "sentence":"Như tin đã đưa, ngày 20/9, sau bữa ăn tối tại trường Phổ thông Dân tộc bán trú Tiểu học và Trung học cơ sở Hầu Thào, 73 học sinh của trường có dấu hiệu ngộ độc thực phẩm với biểu hiện đau đầu, đau bụng, buồn nôn...",
+      "spos":[
+         814,
+         1027
+      ],
+      "entity_1":{
+         "text":"trường Phổ thông Dân tộc bán trú Tiểu học và Trung học cơ sở",
+         "pos":[
+            46,
+            106
+         ]
+      },
+      "entity_2":{ 
+         "text":"Hầu Thào",
+         "pos":[
+            107,
+            115
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352370",
+      "sent_id":136,
+      "sentence":"Hiệu trưởng nhà trường đã báo cáo ngay với UBND xã, Phòng Giáo dục và Đào tạo Sa Pa, đề nghị Trạm Y tế xã bố trí cán bộ y tế đến trường để hỗ trợ thăm khám và điều trị. Đồng thời thuê xe ô tô để đưa những học sinh có biểu hiện nặng hơn đến Bệnh viện Đa khoa huyện Sa Pa.",
+      "spos":[
+         1028,
+         1297
+      ],
+      "entity_1":{
+         "text":"Phòng Giáo dục và Đào tạo",
+         "pos":[
+            52,
+            77
+         ]
+      },
+      "entity_2":{ 
+         "text":"Sa Pa",
+         "pos":[
+            78,
+            83
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352370",
+      "sent_id":137,
+      "sentence":"Hiệu trưởng nhà trường đã báo cáo ngay với UBND xã, Phòng Giáo dục và Đào tạo Sa Pa, đề nghị Trạm Y tế xã bố trí cán bộ y tế đến trường để hỗ trợ thăm khám và điều trị. Đồng thời thuê xe ô tô để đưa những học sinh có biểu hiện nặng hơn đến Bệnh viện Đa khoa huyện Sa Pa.",
+      "spos":[
+         1028,
+         1297
+      ],
+      "entity_1":{
+         "text":"Phòng Giáo dục và Đào tạo",
+         "pos":[
+            52,
+            77
+         ]
+      },
+      "entity_2":{ 
+         "text":"Bệnh viện Đa khoa",
+         "pos":[
+            240,
+            257
+         ]
+      },
+      "label":"PART_WHOLE"
+   },
+   {
+      "doc_id":"23352370",
+      "sent_id":138,
+      "sentence":"Hiệu trưởng nhà trường đã báo cáo ngay với UBND xã, Phòng Giáo dục và Đào tạo Sa Pa, đề nghị Trạm Y tế xã bố trí cán bộ y tế đến trường để hỗ trợ thăm khám và điều trị. Đồng thời thuê xe ô tô để đưa những học sinh có biểu hiện nặng hơn đến Bệnh viện Đa khoa huyện Sa Pa.",
+      "spos":[
+         1028,
+         1297
+      ],
+      "entity_1":{
+         "text":"Phòng Giáo dục và Đào tạo",
+         "pos":[
+            52,
+            77
+         ]
+      },
+      "entity_2":{ 
+         "text":"huyện Sa Pa",
+         "pos":[
+            258,
+            269
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352370",
+      "sent_id":139,
+      "sentence":"Hiệu trưởng nhà trường đã báo cáo ngay với UBND xã, Phòng Giáo dục và Đào tạo Sa Pa, đề nghị Trạm Y tế xã bố trí cán bộ y tế đến trường để hỗ trợ thăm khám và điều trị. Đồng thời thuê xe ô tô để đưa những học sinh có biểu hiện nặng hơn đến Bệnh viện Đa khoa huyện Sa Pa.",
+      "spos":[
+         1028,
+         1297
+      ],
+      "entity_1":{
+         "text":"Bệnh viện Đa khoa",
+         "pos":[
+            240,
+            257
+         ]
+      },
+      "entity_2":{ 
+         "text":"huyện Sa Pa",
+         "pos":[
+            258,
+            269
+         ]
+      },
+      "label":"LOCATED"
+   }   ,
+   {
+      "doc_id":"23352370",
+      "sent_id":140,
+      "sentence":"Sở Giáo dục và Đào tạo tỉnh Lào Cai đã chỉ đạo Phòng Giáo dục huyện Sa Pa tích cực phối hợp với Bệnh viện Đa khoa huyện theo dõi và điều trị cho học sinh; phối hợp với Trung tâm Y tế huyện, Trạm y tế xã tiếp tục theo dõi số học sinh đã xuất viện trở về trường; đồng thời tích cực phối hợp với lực lượng chức năng, cung cấp mẫu lưu thức ăn và các thông tin liên quan phục vụ cho việc kiểm tra, xác minh làm rõ nguyên nhân dẫn đến sự việc.",
+      "spos":[
+         1298,
+         1903
+      ],
+      "entity_1":{
+         "text":"Sở Giáo dục và Đào tạo",
+         "pos":[
+            0,
+            22
+         ]
+      },
+      "entity_2":{ 
+         "text":"tỉnh Lào Cai",
+         "pos":[
+            23,
+            35
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352370",
+      "sent_id":141,
+      "sentence":"Sở Giáo dục và Đào tạo tỉnh Lào Cai đã chỉ đạo Phòng Giáo dục huyện Sa Pa tích cực phối hợp với Bệnh viện Đa khoa huyện theo dõi và điều trị cho học sinh; phối hợp với Trung tâm Y tế huyện, Trạm y tế xã tiếp tục theo dõi số học sinh đã xuất viện trở về trường; đồng thời tích cực phối hợp với lực lượng chức năng, cung cấp mẫu lưu thức ăn và các thông tin liên quan phục vụ cho việc kiểm tra, xác minh làm rõ nguyên nhân dẫn đến sự việc.",
+      "spos":[
+         1298,
+         1903
+      ],
+      "entity_1":{
+         "text":"Sở Giáo dục và Đào tạo",
+         "pos":[
+            0,
+            22
+         ]
+      },
+      "entity_2":{ 
+         "text":"Phòng Giáo dục",
+         "pos":[
+            47,
+            61
+         ]
+      },
+      "label":"PART_WHOLE"
+   },
+   {
+      "doc_id":"23352370",
+      "sent_id":142,
+      "sentence":"Sở Giáo dục và Đào tạo tỉnh Lào Cai đã chỉ đạo Phòng Giáo dục huyện Sa Pa tích cực phối hợp với Bệnh viện Đa khoa huyện theo dõi và điều trị cho học sinh; phối hợp với Trung tâm Y tế huyện, Trạm y tế xã tiếp tục theo dõi số học sinh đã xuất viện trở về trường; đồng thời tích cực phối hợp với lực lượng chức năng, cung cấp mẫu lưu thức ăn và các thông tin liên quan phục vụ cho việc kiểm tra, xác minh làm rõ nguyên nhân dẫn đến sự việc.",
+      "spos":[
+         1298,
+         1903
+      ],
+      "entity_1":{
+         "text":"Sở Giáo dục và Đào tạo",
+         "pos":[
+            0,
+            22
+         ]
+      },
+      "entity_2":{ 
+         "text":"huyện Sa Pa",
+         "pos":[
+            62,
+            73
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352370",
+      "sent_id":142,
+      "sentence":"Sở Giáo dục và Đào tạo tỉnh Lào Cai đã chỉ đạo Phòng Giáo dục huyện Sa Pa tích cực phối hợp với Bệnh viện Đa khoa huyện theo dõi và điều trị cho học sinh; phối hợp với Trung tâm Y tế huyện, Trạm y tế xã tiếp tục theo dõi số học sinh đã xuất viện trở về trường; đồng thời tích cực phối hợp với lực lượng chức năng, cung cấp mẫu lưu thức ăn và các thông tin liên quan phục vụ cho việc kiểm tra, xác minh làm rõ nguyên nhân dẫn đến sự việc.",
+      "spos":[
+         1298,
+         1903
+      ],
+      "entity_1":{
+         "text":"Sở Giáo dục và Đào tạo",
+         "pos":[
+            0,
+            22
+         ]
+      },
+      "entity_2":{ 
+         "text":"Bệnh viện Đa khoa",
+         "pos":[
+            96,
+            113
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23352370",
+      "sent_id":144,
+      "sentence":"Sở Giáo dục và Đào tạo tỉnh Lào Cai đã chỉ đạo Phòng Giáo dục huyện Sa Pa tích cực phối hợp với Bệnh viện Đa khoa huyện theo dõi và điều trị cho học sinh; phối hợp với Trung tâm Y tế huyện, Trạm y tế xã tiếp tục theo dõi số học sinh đã xuất viện trở về trường; đồng thời tích cực phối hợp với lực lượng chức năng, cung cấp mẫu lưu thức ăn và các thông tin liên quan phục vụ cho việc kiểm tra, xác minh làm rõ nguyên nhân dẫn đến sự việc.",
+      "spos":[
+         1298,
+         1903
+      ],
+      "entity_1":{
+         "text":"Phòng Giáo dục",
+         "pos":[
+            47,
+            61
+         ]
+      },
+      "entity_2":{ 
+         "text":"huyện Sa Pa",
+         "pos":[
+            62,
+            73
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352370",
+      "sent_id":145,
+      "sentence":"Sở Giáo dục và Đào tạo tỉnh Lào Cai đã chỉ đạo Phòng Giáo dục huyện Sa Pa tích cực phối hợp với Bệnh viện Đa khoa huyện theo dõi và điều trị cho học sinh; phối hợp với Trung tâm Y tế huyện, Trạm y tế xã tiếp tục theo dõi số học sinh đã xuất viện trở về trường; đồng thời tích cực phối hợp với lực lượng chức năng, cung cấp mẫu lưu thức ăn và các thông tin liên quan phục vụ cho việc kiểm tra, xác minh làm rõ nguyên nhân dẫn đến sự việc.",
+      "spos":[
+         1298,
+         1903
+      ],
+      "entity_1":{
+         "text":"Phòng Giáo dục",
+         "pos":[
+            47,
+            61
+         ]
+      },
+      "entity_2":{ 
+         "text":"Bệnh viện Đa khoa",
+         "pos":[
+            96,
+            113
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23352370",
+      "sent_id":146,
+      "sentence":"Bà Dương Bích Nguyệt, Phó Giám đốc Sở Giáo dục và Đào tạo tỉnh Lào Cai cho biết, hiện 73 học sinh sau khi xuất viện, trở về ở bán trú tại trường, sức khỏe đã ổn định và tiếp tục tham gia học tập bình thường. Các hoạt động giáo dục của nhà trường tiếp tục được diễn ra theo đúng kế hoạch thời gian năm học.",
+      "spos":[
+         1904,
+         2208
+      ],
+      "entity_1":{
+         "text":"Dương Bích Nguyệt",
+         "pos":[
+            3,
+            20
+         ]
+      },
+      "entity_2":{ 
+         "text":"Phó Giám đốc",
+         "pos":[
+            22,
+            34
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23352370",
+      "sent_id":147,
+      "sentence":"Bà Dương Bích Nguyệt, Phó Giám đốc Sở Giáo dục và Đào tạo tỉnh Lào Cai cho biết, hiện 73 học sinh sau khi xuất viện, trở về ở bán trú tại trường, sức khỏe đã ổn định và tiếp tục tham gia học tập bình thường. Các hoạt động giáo dục của nhà trường tiếp tục được diễn ra theo đúng kế hoạch thời gian năm học.",
+      "spos":[
+         1904,
+         2208
+      ],
+      "entity_1":{
+         "text":"Dương Bích Nguyệt",
+         "pos":[
+            3,
+            20
+         ]
+      },
+      "entity_2":{ 
+         "text":"Sở Giáo dục và Đào tạo",
+         "pos":[
+            35,
+            57
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23352370",
+      "sent_id":148,
+      "sentence":"Bà Dương Bích Nguyệt, Phó Giám đốc Sở Giáo dục và Đào tạo tỉnh Lào Cai cho biết, hiện 73 học sinh sau khi xuất viện, trở về ở bán trú tại trường, sức khỏe đã ổn định và tiếp tục tham gia học tập bình thường. Các hoạt động giáo dục của nhà trường tiếp tục được diễn ra theo đúng kế hoạch thời gian năm học.",
+      "spos":[
+         1904,
+         2208
+      ],
+      "entity_1":{
+         "text":"Dương Bích Nguyệt",
+         "pos":[
+            3,
+            20
+         ]
+      },
+      "entity_2":{ 
+         "text":"tỉnh Lào Cai",
+         "pos":[
+            58,
+            70
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23352370",
+      "sent_id":149,
+      "sentence":"Gần đây nhất, ngày 14/9, Trạm Y tế xã Bản Già (huyện Bắc Hà) cũng đã tiếp nhận 7 bệnh nhân là học sinh Trường Phổ thông Dân tộc bán trú tiểu học xã Bản Già do ăn nhầm hóa chất thông đường cống CTE. Do nhầm gói bột hóa chất thông đường cống với gói bột canh, nên 7 học sinh này đã chia nhau ăn. Sau khi ăn xong, các em thấy đau rát họng nên vội nhả ra và báo cáo cô giáo.",
+      "spos":[
+         2209,
+         2578
+      ],
+      "entity_1":{
+         "text":"Trạm Y tế",
+         "pos":[
+            25,
+            34
+         ]
+      },
+      "entity_2":{ 
+         "text":"xã Bản Già",
+         "pos":[
+            35,
+            45
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352370",
+      "sent_id":150,
+      "sentence":"Gần đây nhất, ngày 14/9, Trạm Y tế xã Bản Già (huyện Bắc Hà) cũng đã tiếp nhận 7 bệnh nhân là học sinh Trường Phổ thông Dân tộc bán trú tiểu học xã Bản Già do ăn nhầm hóa chất thông đường cống CTE. Do nhầm gói bột hóa chất thông đường cống với gói bột canh, nên 7 học sinh này đã chia nhau ăn. Sau khi ăn xong, các em thấy đau rát họng nên vội nhả ra và báo cáo cô giáo.",
+      "spos":[
+         2209,
+         2578
+      ],
+      "entity_1":{
+         "text":"Trạm Y tế",
+         "pos":[
+            25,
+            34
+         ]
+      },
+      "entity_2":{ 
+         "text":"huyện Bắc Hà",
+         "pos":[
+            47,
+            59
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352370",
+      "sent_id":151,
+      "sentence":"Gần đây nhất, ngày 14/9, Trạm Y tế xã Bản Già (huyện Bắc Hà) cũng đã tiếp nhận 7 bệnh nhân là học sinh Trường Phổ thông Dân tộc bán trú tiểu học xã Bản Già do ăn nhầm hóa chất thông đường cống CTE. Do nhầm gói bột hóa chất thông đường cống với gói bột canh, nên 7 học sinh này đã chia nhau ăn. Sau khi ăn xong, các em thấy đau rát họng nên vội nhả ra và báo cáo cô giáo.",
+      "spos":[
+         2209,
+         2578
+      ],
+      "entity_1":{
+         "text":"Trạm Y tế",
+         "pos":[
+            25,
+            34
+         ]
+      },
+      "entity_2":{ 
+         "text":"Trường Phổ thông Dân tộc bán trú tiểu học",
+         "pos":[
+            103,
+            144
+         ]
+      },
+      "label":"PART_WHOLE"
+   },
+   {
+      "doc_id":"23352370",
+      "sent_id":152,
+      "sentence":"Gần đây nhất, ngày 14/9, Trạm Y tế xã Bản Già (huyện Bắc Hà) cũng đã tiếp nhận 7 bệnh nhân là học sinh Trường Phổ thông Dân tộc bán trú tiểu học xã Bản Già do ăn nhầm hóa chất thông đường cống CTE. Do nhầm gói bột hóa chất thông đường cống với gói bột canh, nên 7 học sinh này đã chia nhau ăn. Sau khi ăn xong, các em thấy đau rát họng nên vội nhả ra và báo cáo cô giáo.",
+      "spos":[
+         2209,
+         2578
+      ],
+      "entity_1":{
+         "text":"Trạm Y tế",
+         "pos":[
+            25,
+            34
+         ]
+      },
+      "entity_2":{ 
+         "text":"xã Bản Già",
+         "pos":[
+            145,
+            155
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352370",
+      "sent_id":152,
+      "sentence":"Gần đây nhất, ngày 14/9, Trạm Y tế xã Bản Già (huyện Bắc Hà) cũng đã tiếp nhận 7 bệnh nhân là học sinh Trường Phổ thông Dân tộc bán trú tiểu học xã Bản Già do ăn nhầm hóa chất thông đường cống CTE. Do nhầm gói bột hóa chất thông đường cống với gói bột canh, nên 7 học sinh này đã chia nhau ăn. Sau khi ăn xong, các em thấy đau rát họng nên vội nhả ra và báo cáo cô giáo.",
+      "spos":[
+         2209,
+         2578
+      ],
+      "entity_1":{
+         "text":"xã Bản Già",
+         "pos":[
+            35,
+            45
+         ]
+      },
+      "entity_2":{ 
+         "text":"huyện Bắc Hà",
+         "pos":[
+            47,
+            59
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352370",
+      "sent_id":154,
+      "sentence":"Gần đây nhất, ngày 14/9, Trạm Y tế xã Bản Già (huyện Bắc Hà) cũng đã tiếp nhận 7 bệnh nhân là học sinh Trường Phổ thông Dân tộc bán trú tiểu học xã Bản Già do ăn nhầm hóa chất thông đường cống CTE. Do nhầm gói bột hóa chất thông đường cống với gói bột canh, nên 7 học sinh này đã chia nhau ăn. Sau khi ăn xong, các em thấy đau rát họng nên vội nhả ra và báo cáo cô giáo.",
+      "spos":[
+         2209,
+         2578
+      ],
+      "entity_1":{
+         "text":"xã Bản Già",
+         "pos":[
+            35,
+            45
+         ]
+      },
+      "entity_2":{ 
+         "text":"Trường Phổ thông Dân tộc bán trú tiểu học",
+         "pos":[
+            103,
+            144
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352370",
+      "sent_id":155,
+      "sentence":"Gần đây nhất, ngày 14/9, Trạm Y tế xã Bản Già (huyện Bắc Hà) cũng đã tiếp nhận 7 bệnh nhân là học sinh Trường Phổ thông Dân tộc bán trú tiểu học xã Bản Già do ăn nhầm hóa chất thông đường cống CTE. Do nhầm gói bột hóa chất thông đường cống với gói bột canh, nên 7 học sinh này đã chia nhau ăn. Sau khi ăn xong, các em thấy đau rát họng nên vội nhả ra và báo cáo cô giáo.",
+      "spos":[
+         2209,
+         2578
+      ],
+      "entity_1":{
+         "text":"Trường Phổ thông Dân tộc bán trú tiểu học",
+         "pos":[
+            103,
+            144
+         ]
+      },
+      "entity_2":{ 
+         "text":"xã Bản Già",
+         "pos":[
+            145,
+            155
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352415",
+      "sent_id":156,
+      "sentence":"Ngày 22-9, đại diện gia đình Đại tướng Võ Nguyên Giáp phối hợp với Đồn BP Roòn, BĐBP Quảng Bình tổ chức trao tặng quà cho các trường học bị thiệt hại nặng bởi bão số 10 trên địa bàn huyện Quảng Trạch, tỉnh Quảng Bình.",
+      "spos":[
+         85,
+         301
+      ],
+      "entity_1":{
+         "text":"Võ Nguyên Giáp",
+         "pos":[
+            39,
+            53
+         ]
+      },
+      "entity_2":{ 
+         "text":"Đồn BP",
+         "pos":[
+            67,
+            73
+         ]
+      },
+      "label":"AFFILIATION"
+   } ,
+   {
+      "doc_id":"23352415",
+      "sent_id":157,
+      "sentence":"Ngày 22-9, đại diện gia đình Đại tướng Võ Nguyên Giáp phối hợp với Đồn BP Roòn, BĐBP Quảng Bình tổ chức trao tặng quà cho các trường học bị thiệt hại nặng bởi bão số 10 trên địa bàn huyện Quảng Trạch, tỉnh Quảng Bình.",
+      "spos":[
+         85,
+         301
+      ],
+      "entity_1":{
+         "text":"Võ Nguyên Giáp",
+         "pos":[
+            39,
+            53
+         ]
+      },
+      "entity_2":{ 
+         "text":"Roòn",
+         "pos":[
+            74,
+            78
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352415",
+      "sent_id":158,
+      "sentence":"Ngày 22-9, đại diện gia đình Đại tướng Võ Nguyên Giáp phối hợp với Đồn BP Roòn, BĐBP Quảng Bình tổ chức trao tặng quà cho các trường học bị thiệt hại nặng bởi bão số 10 trên địa bàn huyện Quảng Trạch, tỉnh Quảng Bình.",
+      "spos":[
+         85,
+         301
+      ],
+      "entity_1":{
+         "text":"Võ Nguyên Giáp",
+         "pos":[
+            39,
+            53
+         ]
+      },
+      "entity_2":{ 
+         "text":"BĐBP",
+         "pos":[
+            80,
+            84
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352415",
+      "sent_id":159,
+      "sentence":"Ngày 22-9, đại diện gia đình Đại tướng Võ Nguyên Giáp phối hợp với Đồn BP Roòn, BĐBP Quảng Bình tổ chức trao tặng quà cho các trường học bị thiệt hại nặng bởi bão số 10 trên địa bàn huyện Quảng Trạch, tỉnh Quảng Bình.",
+      "spos":[
+         85,
+         301
+      ],
+      "entity_1":{
+         "text":"Võ Nguyên Giáp",
+         "pos":[
+            39,
+            53
+         ]
+      },
+      "entity_2":{ 
+         "text":"Quảng Bình",
+         "pos":[
+            85,
+            95
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352415",
+      "sent_id":160,
+      "sentence":"Ngày 22-9, đại diện gia đình Đại tướng Võ Nguyên Giáp phối hợp với Đồn BP Roòn, BĐBP Quảng Bình tổ chức trao tặng quà cho các trường học bị thiệt hại nặng bởi bão số 10 trên địa bàn huyện Quảng Trạch, tỉnh Quảng Bình.",
+      "spos":[
+         85,
+         301
+      ],
+      "entity_1":{
+         "text":"Võ Nguyên Giáp",
+         "pos":[
+            39,
+            53
+         ]
+      },
+      "entity_2":{ 
+         "text":"huyện Quảng Trạch",
+         "pos":[
+            182,
+            199
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352415",
+      "sent_id":161,
+      "sentence":"Ngày 22-9, đại diện gia đình Đại tướng Võ Nguyên Giáp phối hợp với Đồn BP Roòn, BĐBP Quảng Bình tổ chức trao tặng quà cho các trường học bị thiệt hại nặng bởi bão số 10 trên địa bàn huyện Quảng Trạch, tỉnh Quảng Bình.",
+      "spos":[
+         85,
+         301
+      ],
+      "entity_1":{
+         "text":"Đồn BP",
+         "pos":[
+            67,
+            73
+         ]
+      },
+      "entity_2":{ 
+         "text":"Roòn",
+         "pos":[
+            74,
+            78
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352415",
+      "sent_id":162,
+      "sentence":"Ngày 22-9, đại diện gia đình Đại tướng Võ Nguyên Giáp phối hợp với Đồn BP Roòn, BĐBP Quảng Bình tổ chức trao tặng quà cho các trường học bị thiệt hại nặng bởi bão số 10 trên địa bàn huyện Quảng Trạch, tỉnh Quảng Bình.",
+      "spos":[
+         85,
+         301
+      ],
+      "entity_1":{
+         "text":"Đồn BP",
+         "pos":[
+            67,
+            73
+         ]
+      },
+      "entity_2":{ 
+         "text":"BĐBP",
+         "pos":[
+            80,
+            84
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23352415",
+      "sent_id":163,
+      "sentence":"Ngày 22-9, đại diện gia đình Đại tướng Võ Nguyên Giáp phối hợp với Đồn BP Roòn, BĐBP Quảng Bình tổ chức trao tặng quà cho các trường học bị thiệt hại nặng bởi bão số 10 trên địa bàn huyện Quảng Trạch, tỉnh Quảng Bình.",
+      "spos":[
+         85,
+         301
+      ],
+      "entity_1":{
+         "text":"Đồn BP",
+         "pos":[
+            67,
+            73
+         ]
+      },
+      "entity_2":{ 
+         "text":"Quảng Bình",
+         "pos":[
+            85,
+            95
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352415",
+      "sent_id":164,
+      "sentence":"Ngày 22-9, đại diện gia đình Đại tướng Võ Nguyên Giáp phối hợp với Đồn BP Roòn, BĐBP Quảng Bình tổ chức trao tặng quà cho các trường học bị thiệt hại nặng bởi bão số 10 trên địa bàn huyện Quảng Trạch, tỉnh Quảng Bình.",
+      "spos":[
+         85,
+         301
+      ],
+      "entity_1":{
+         "text":"Đồn BP",
+         "pos":[
+            67,
+            73
+         ]
+      },
+      "entity_2":{ 
+         "text":"huyện Quảng Trạch",
+         "pos":[
+            182,
+            199
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352415",
+      "sent_id":165,
+      "sentence":"Ngày 22-9, đại diện gia đình Đại tướng Võ Nguyên Giáp phối hợp với Đồn BP Roòn, BĐBP Quảng Bình tổ chức trao tặng quà cho các trường học bị thiệt hại nặng bởi bão số 10 trên địa bàn huyện Quảng Trạch, tỉnh Quảng Bình.",
+      "spos":[
+         85,
+         301
+      ],
+      "entity_1":{
+         "text":"BĐBP",
+         "pos":[
+            80,
+            84
+         ]
+      },
+      "entity_2":{ 
+         "text":"Quảng Bình",
+         "pos":[
+            85,
+            95
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352415",
+      "sent_id":166,
+      "sentence":"Ngày 22-9, đại diện gia đình Đại tướng Võ Nguyên Giáp phối hợp với Đồn BP Roòn, BĐBP Quảng Bình tổ chức trao tặng quà cho các trường học bị thiệt hại nặng bởi bão số 10 trên địa bàn huyện Quảng Trạch, tỉnh Quảng Bình.",
+      "spos":[
+         85,
+         301
+      ],
+      "entity_1":{
+         "text":"BĐBP",
+         "pos":[
+            80,
+            84
+         ]
+      },
+      "entity_2":{ 
+         "text":"huyện Quảng Trạch",
+         "pos":[
+            182,
+            199
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352415",
+      "sent_id":167,
+      "sentence":"Ngày 22-9, đại diện gia đình Đại tướng Võ Nguyên Giáp phối hợp với Đồn BP Roòn, BĐBP Quảng Bình tổ chức trao tặng quà cho các trường học bị thiệt hại nặng bởi bão số 10 trên địa bàn huyện Quảng Trạch, tỉnh Quảng Bình.",
+      "spos":[
+         85,
+         301
+      ],
+      "entity_1":{
+         "text":"huyện Quảng Trạch",
+         "pos":[
+            182,
+            199
+         ]
+      },
+      "entity_2":{ 
+         "text":"tỉnh Quảng Bình",
+         "pos":[
+            201,
+            216
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352415",
+      "sent_id":168,
+      "sentence":"Đại diện gia đình Đại tướng Võ Nguyên Giáp và Đồn BP Roòn tặng quà cho Trường Trung học cơ sở Quảng Phú.",
+      "spos":[
+         302,
+         405
+      ],
+      "entity_1":{
+         "text":"Võ Nguyên Giáp",
+         "pos":[
+            28,
+            42
+         ]
+      },
+      "entity_2":{ 
+         "text":"Đồn BP",
+         "pos":[
+            46,
+            52
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23352415",
+      "sent_id":169,
+      "sentence":"Đại diện gia đình Đại tướng Võ Nguyên Giáp và Đồn BP Roòn tặng quà cho Trường Trung học cơ sở Quảng Phú.",
+      "spos":[
+         302,
+         405
+      ],
+      "entity_1":{
+         "text":"Võ Nguyên Giáp",
+         "pos":[
+            28,
+            42
+         ]
+      },
+      "entity_2":{ 
+         "text":"Roòn",
+         "pos":[
+            53,
+            57
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352415",
+      "sent_id":170,
+      "sentence":"Đại diện gia đình Đại tướng Võ Nguyên Giáp và Đồn BP Roòn tặng quà cho Trường Trung học cơ sở Quảng Phú.",
+      "spos":[
+         302,
+         405
+      ],
+      "entity_1":{
+         "text":"Võ Nguyên Giáp",
+         "pos":[
+            28,
+            42
+         ]
+      },
+      "entity_2":{ 
+         "text":"Trường Trung học cơ sở",
+         "pos":[
+            71,
+            93
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23352415",
+      "sent_id":171,
+      "sentence":"Đại diện gia đình Đại tướng Võ Nguyên Giáp và Đồn BP Roòn tặng quà cho Trường Trung học cơ sở Quảng Phú.",
+      "spos":[
+         302,
+         405
+      ],
+      "entity_1":{
+         "text":"Võ Nguyên Giáp",
+         "pos":[
+            28,
+            42
+         ]
+      },
+      "entity_2":{ 
+         "text":"Quảng Phú",
+         "pos":[
+            94,
+            103
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352415",
+      "sent_id":172,
+      "sentence":"Đại diện gia đình Đại tướng Võ Nguyên Giáp và Đồn BP Roòn tặng quà cho Trường Trung học cơ sở Quảng Phú.",
+      "spos":[
+         302,
+         405
+      ],
+      "entity_1":{
+         "text":"Đồn BP",
+         "pos":[
+            46,
+            52
+         ]
+      },
+      "entity_2":{ 
+         "text":"Roòn",
+         "pos":[
+            53,
+            57
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352415",
+      "sent_id":173,
+      "sentence":"Đại diện gia đình Đại tướng Võ Nguyên Giáp và Đồn BP Roòn tặng quà cho Trường Trung học cơ sở Quảng Phú.",
+      "spos":[
+         302,
+         405
+      ],
+      "entity_1":{
+         "text":"Đồn BP",
+         "pos":[
+            46,
+            52
+         ]
+      },
+      "entity_2":{ 
+         "text":"Trường Trung học cơ sở",
+         "pos":[
+            71,
+            93
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23352415",
+      "sent_id":174,
+      "sentence":"Đại diện gia đình Đại tướng Võ Nguyên Giáp và Đồn BP Roòn tặng quà cho Trường Trung học cơ sở Quảng Phú.",
+      "spos":[
+         302,
+         405
+      ],
+      "entity_1":{
+         "text":"Đồn BP",
+         "pos":[
+            46,
+            52
+         ]
+      },
+      "entity_2":{ 
+         "text":"Quảng Phú",
+         "pos":[
+            94,
+            103
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352415",
+      "sent_id":175,
+      "sentence":"Đại diện gia đình Đại tướng Võ Nguyên Giáp và Đồn BP Roòn tặng quà cho Trường Trung học cơ sở Quảng Phú.",
+      "spos":[
+         302,
+         405
+      ],
+      "entity_1":{
+         "text":"Trường Trung học cơ sở",
+         "pos":[
+            71,
+            93
+         ]
+      },
+      "entity_2":{ 
+         "text":"Quảng Phú",
+         "pos":[
+            94,
+            103
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352415",
+      "sent_id":176,
+      "sentence":"Theo đó, gia đình Đại tướng Võ Nguyên Giáp đã trao tặng Trường Tiểu học số 1 xã Quảng Phú và Trường Trung học cơ sở xã Quảng Phú mỗi trường 5 bộ máy vi tính với tổng giá trị 90 triệu đồng. Đây là hai ngôi trường bị thiệt hại nặng nề nhất trong cơn bão số 10 vừa qua.",
+      "spos":[
+         406,
+         671
+      ],
+      "entity_1":{
+         "text":"Võ Nguyên Giáp",
+         "pos":[
+            28,
+            42
+         ]
+      },
+      "entity_2":{ 
+         "text":"Trường Tiểu học số 1",
+         "pos":[
+            56,
+            76
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23352415",
+      "sent_id":177,
+      "sentence":"Theo đó, gia đình Đại tướng Võ Nguyên Giáp đã trao tặng Trường Tiểu học số 1 xã Quảng Phú và Trường Trung học cơ sở xã Quảng Phú mỗi trường 5 bộ máy vi tính với tổng giá trị 90 triệu đồng. Đây là hai ngôi trường bị thiệt hại nặng nề nhất trong cơn bão số 10 vừa qua.",
+      "spos":[
+         406,
+         671
+      ],
+      "entity_1":{
+         "text":"Võ Nguyên Giáp",
+         "pos":[
+            28,
+            42
+         ]
+      },
+      "entity_2":{ 
+         "text":"xã Quảng Phú",
+         "pos":[
+            77,
+            89
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352415",
+      "sent_id":178,
+      "sentence":"Theo đó, gia đình Đại tướng Võ Nguyên Giáp đã trao tặng Trường Tiểu học số 1 xã Quảng Phú và Trường Trung học cơ sở xã Quảng Phú mỗi trường 5 bộ máy vi tính với tổng giá trị 90 triệu đồng. Đây là hai ngôi trường bị thiệt hại nặng nề nhất trong cơn bão số 10 vừa qua.",
+      "spos":[
+         406,
+         671
+      ],
+      "entity_1":{
+         "text":"Võ Nguyên Giáp",
+         "pos":[
+            28,
+            42
+         ]
+      },
+      "entity_2":{ 
+         "text":"Trường Trung học cơ sở",
+         "pos":[
+            93,
+            115
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23352415",
+      "sent_id":179,
+      "sentence":"Theo đó, gia đình Đại tướng Võ Nguyên Giáp đã trao tặng Trường Tiểu học số 1 xã Quảng Phú và Trường Trung học cơ sở xã Quảng Phú mỗi trường 5 bộ máy vi tính với tổng giá trị 90 triệu đồng. Đây là hai ngôi trường bị thiệt hại nặng nề nhất trong cơn bão số 10 vừa qua.",
+      "spos":[
+         406,
+         671
+      ],
+      "entity_1":{
+         "text":"Võ Nguyên Giáp",
+         "pos":[
+            28,
+            42
+         ]
+      },
+      "entity_2":{ 
+         "text":"xã Quảng Phú",
+         "pos":[
+            116,
+            128
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352415",
+      "sent_id":180,
+      "sentence":"Theo đó, gia đình Đại tướng Võ Nguyên Giáp đã trao tặng Trường Tiểu học số 1 xã Quảng Phú và Trường Trung học cơ sở xã Quảng Phú mỗi trường 5 bộ máy vi tính với tổng giá trị 90 triệu đồng. Đây là hai ngôi trường bị thiệt hại nặng nề nhất trong cơn bão số 10 vừa qua.",
+      "spos":[
+         406,
+         671
+      ],
+      "entity_1":{
+         "text":"Trường Tiểu học số 1",
+         "pos":[
+            56,
+            76
+         ]
+      },
+      "entity_2":{ 
+         "text":"xã Quảng Phú",
+         "pos":[
+            77,
+            89
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352415",
+      "sent_id":181,
+      "sentence":"Theo đó, gia đình Đại tướng Võ Nguyên Giáp đã trao tặng Trường Tiểu học số 1 xã Quảng Phú và Trường Trung học cơ sở xã Quảng Phú mỗi trường 5 bộ máy vi tính với tổng giá trị 90 triệu đồng. Đây là hai ngôi trường bị thiệt hại nặng nề nhất trong cơn bão số 10 vừa qua.",
+      "spos":[
+         406,
+         671
+      ],
+      "entity_1":{
+         "text":"Trường Tiểu học số 1",
+         "pos":[
+            56,
+            76
+         ]
+      },
+      "entity_2":{ 
+         "text":"Trường Trung học cơ sở",
+         "pos":[
+            93,
+            115
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23352415",
+      "sent_id":182,
+      "sentence":"Theo đó, gia đình Đại tướng Võ Nguyên Giáp đã trao tặng Trường Tiểu học số 1 xã Quảng Phú và Trường Trung học cơ sở xã Quảng Phú mỗi trường 5 bộ máy vi tính với tổng giá trị 90 triệu đồng. Đây là hai ngôi trường bị thiệt hại nặng nề nhất trong cơn bão số 10 vừa qua.",
+      "spos":[
+         406,
+         671
+      ],
+      "entity_1":{
+         "text":"Trường Trung học cơ sở",
+         "pos":[
+            93,
+            115
+         ]
+      },
+      "entity_2":{ 
+         "text":"xã Quảng Phú",
+         "pos":[
+            116,
+            128
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352663",
+      "sent_id":183,
+      "sentence":"Sở Giao thông-Vận tải Phú Yên vừa ra quyết định thu hồi 45 giấy phép lái xe nâng hạng do sử dụng bằng tốt nghiệp trung học cơ sở giả.",
+      "spos":[
+         54,
+         186
+      ],
+      "entity_1":{
+         "text":"Sở Giao thông-Vận tải",
+         "pos":[
+            0,
+            21
+         ]
+      },
+      "entity_2":{ 
+         "text":"Phú Yên",
+         "pos":[
+            22,
+            29
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352663",
+      "sent_id":184,
+      "sentence":"Theo quy định, để nâng hạng giấy phép lái xe lên các hạng D, E, các học viên phải có bằng tốt nghiệp Trung học cơ sở hoặc tương đương trở lên. Tuy nhiên, trong hai năm 2015-2016, tại Trường Cao đẳng nghề Phú Yên có đến 45 trường hợp học viên sử dụng bằng giả, không có bằng THCS vẫn được cấp bằng lái D, E.",
+      "spos":[
+         187,
+         492
+      ],
+      "entity_1":{
+         "text":"Trường Cao đẳng nghề",
+         "pos":[
+            183,
+            203
+         ]
+      },
+      "entity_2":{ 
+         "text":"Phú Yên",
+         "pos":[
+            204,
+            211
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352663",
+      "sent_id":185,
+      "sentence":"Ông Nguyễn Phương Đông, Phó Giám đốc Sở Giao thông – Vận tải tỉnh Phú Yên giải thích, quá trình thu nhận hồ sơ, chuyên viên của Sở không có nghiệp vụ để phát hiện bằng giả, Trường Cao đẳng nghề phải có trách nhiệm kiểm tra đầu vào.",
+      "spos":[
+         1330,
+         1560
+      ],
+      "entity_1":{
+         "text":"Nguyễn Phương Đông",
+         "pos":[
+            4,
+            22
+         ]
+      },
+      "entity_2":{ 
+         "text":"Sở Giao thông – Vận tải",
+         "pos":[
+            37,
+            60
+         ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23352663",
+      "sent_id":186,
+      "sentence":"Ông Nguyễn Phương Đông, Phó Giám đốc Sở Giao thông – Vận tải tỉnh Phú Yên giải thích, quá trình thu nhận hồ sơ, chuyên viên của Sở không có nghiệp vụ để phát hiện bằng giả, Trường Cao đẳng nghề phải có trách nhiệm kiểm tra đầu vào.",
+      "spos":[
+         1330,
+         1560
+      ],
+      "entity_1":{
+         "text":"Nguyễn Phương Đông",
+         "pos":[
+            4,
+            22
+         ]
+      },
+      "entity_2":{ 
+         "text":"tỉnh Phú Yên",
+         "pos":[
+            61,
+            73
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352663",
+      "sent_id":187,
+      "sentence":"Ông Nguyễn Phương Đông, Phó Giám đốc Sở Giao thông – Vận tải tỉnh Phú Yên giải thích, quá trình thu nhận hồ sơ, chuyên viên của Sở không có nghiệp vụ để phát hiện bằng giả, Trường Cao đẳng nghề phải có trách nhiệm kiểm tra đầu vào.",
+      "spos":[
+         1330,
+         1560
+      ],
+      "entity_1":{
+         "text":"Nguyễn Phương Đông",
+         "pos":[
+            4,
+            22
+         ]
+      },
+      "entity_2":{ 
+         "text":"Trường Cao đẳng nghề",
+         "pos":[
+            173,
+            193
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352663",
+      "sent_id":188,
+      "sentence":"Ông Nguyễn Phương Đông, Phó Giám đốc Sở Giao thông – Vận tải tỉnh Phú Yên giải thích, quá trình thu nhận hồ sơ, chuyên viên của Sở không có nghiệp vụ để phát hiện bằng giả, Trường Cao đẳng nghề phải có trách nhiệm kiểm tra đầu vào.",
+      "spos":[
+         1330,
+         1560
+      ],
+      "entity_1":{
+         "text":"Sở Giao thông – Vận tải",
+         "pos":[
+            37,
+            60
+         ]
+      },
+      "entity_2":{ 
+         "text":"tỉnh Phú Yên",
+         "pos":[
+            61,
+            73
+         ]
+         
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352677",
+      "sent_id":189,
+      "sentence":"Cũng theo tiến sĩ Trần Nam Dũng, có tổng cộng 180 bài thi được nộp. Ban tổ chức Việt Nam tiến hành chấm một cách công bằng, nghiêm túc và gửi điểm của 16 thí sinh (4 thí sinh điểm cao nhất ở mỗi hạng cân) cho Ban tổ chức Iran.",
+      "spos":[
+         728,
+         954
+      ],
+      "entity_1":{
+         "text":"Trần Nam Dũng",
+         "pos":[
+            18,
+            31
+         ]
+      },
+      "entity_2":{ 
+         "text":"Việt Nam",
+         "pos":[
+            80,
+            88
+         ]
+         
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352677",
+      "sent_id":190,
+      "sentence":"Cũng theo tiến sĩ Trần Nam Dũng, có tổng cộng 180 bài thi được nộp. Ban tổ chức Việt Nam tiến hành chấm một cách công bằng, nghiêm túc và gửi điểm của 16 thí sinh (4 thí sinh điểm cao nhất ở mỗi hạng cân) cho Ban tổ chức Iran.",
+      "spos":[
+         728,
+         954
+      ],
+      "entity_1":{
+         "text":"Trần Nam Dũng",
+         "pos":[
+            18,
+            31
+         ]
+      },
+      "entity_2":{ 
+         "text":"Iran",
+         "pos":[
+            221,
+            225
+         ]
+         
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352677",
+      "sent_id":191,
+      "sentence":"Cũng theo tiến sĩ Trần Nam Dũng, có tổng cộng 180 bài thi được nộp. Ban tổ chức Việt Nam tiến hành chấm một cách công bằng, nghiêm túc và gửi điểm của 16 thí sinh (4 thí sinh điểm cao nhất ở mỗi hạng cân) cho Ban tổ chức Iran.",
+      "spos":[
+         728,
+         954
+      ],
+      "entity_1":{
+         "text":"Việt Nam",
+         "pos":[
+            80,
+            88
+         ]
+      },
+      "entity_2":{ 
+         "text":"Iran",
+         "pos":[
+            221,
+            225
+         ]
+         
+      },
+      "label":"PART_WHOLE"
+   },
+   {
+      "doc_id":"23352677",
+      "sent_id":192,
+      "sentence":"Sau vài ngày tổng hợp, Ban tổ chức Iran đã công bố kết quả cuối cùng vào chiều 22.9. Kết quả, ở hạng nhẹ, Việt Nam đạt 1 HCV, 2 HCB, 1 HCĐ; ở hạng vừa, đạt 2 HCV, 1 HCB, 1 HCĐ. Bên cạnh đó, Việt Nam còn đạt 2 HCV và 2 HCB ở hạng nặng, cùng 1 HCB, 1 HCĐ ở hạng ngoại hạng.",
+      "spos":[
+         955,
+         1225
+      ],
+      "entity_1":{
+         "text":"Iran",
+         "pos":[
+            35,
+            39
+         ]
+      },
+      "entity_2":{ 
+         "text":"Việt Nam",
+         "pos":[
+            106,
+            114
+         ]
+         
+      },
+      "label":"PART_WHOLE"
+   },
+   {
+      "doc_id":"23352677",
+      "sent_id":193,
+      "sentence":"Tiến sĩ Trần Nam Dũng cho biết thêm cuộc thi này không xếp hạng đồng đội nhưng với kết quả này, có thể nói Việt Nam đã lọt vào tốp những đội mạnh nhất của IGO 2017. Điều đặc biệt là trong các thí sinh đạt giải, ngoài những thí sinh đại diện Việt Nam, còn có các thí sinh người Việt trong thành phần các đội tuyển khác như: Lê Anh Dũng (CH Séc, HCB ngoại hạng), Đỗ Việt Cường (Bulgaria, HCĐ hạng vừa).",
+      "spos":[
+         1226,
+         1625
+      ],
+      "entity_1":{
+         "text":"Trần Nam Dũng",
+         "pos":[
+            8,
+            21
+         ]
+      },
+      "entity_2":{ 
+         "text":"Việt Nam",
+         "pos":[
+            107,
+            115
+         ]
+         
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352707",
+      "sent_id":194,
+      "sentence":"LĐLĐ Hà Tĩnh thăm hỏi, trao tiền hỗ trợ gia đình bị thiệt hại nặng do bão số 10",
+      "spos":[
+         0,
+         79
+      ],
+      "entity_1":{
+         "text":"LĐLĐ",
+         "pos":[
+            0,
+            4
+         ]
+      },
+      "entity_2":{ 
+         "text":"Hà Tĩnh",
+         "pos":[
+            5,
+            12
+         ]
+         
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352707",
+      "sent_id":195,
+      "sentence":"Lãnh đạo LĐLĐ Hà Tĩnh vừa thăm hỏi, động viên, trao tiền hỗ trợ cho các đoàn viên có hoàn cảnh khó khăn, nhà cửa hư hỏng nặng do bão số 10 tại huyện Kỳ Anh và thị xã Kỳ Anh (Hà Tĩnh).",
+      "spos":[
+         90,
+         262
+      ],
+      "entity_1":{
+         "text":"LĐLĐ",
+         "pos":[
+            9,
+            13
+         ]
+      },
+      "entity_2":{ 
+         "text":"Hà Tĩnh",
+         "pos":[
+            14,
+            21
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23352707",
+      "sent_id":196,
+      "sentence":"Lãnh đạo LĐLĐ Hà Tĩnh vừa thăm hỏi, động viên, trao tiền hỗ trợ cho các đoàn viên có hoàn cảnh khó khăn, nhà cửa hư hỏng nặng do bão số 10 tại huyện Kỳ Anh và thị xã Kỳ Anh (Hà Tĩnh).",
+      "spos":[
+         90,
+         262
+      ],
+      "entity_1":{
+         "text":"LĐLĐ",
+         "pos":[
+            9,
+            13
+         ]
+      },
+      "entity_2":{ 
+         "text":"huyện Kỳ Anh",
+         "pos":[
+            143,
+            155
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352707",
+      "sent_id":197,
+      "sentence":"Lãnh đạo LĐLĐ Hà Tĩnh vừa thăm hỏi, động viên, trao tiền hỗ trợ cho các đoàn viên có hoàn cảnh khó khăn, nhà cửa hư hỏng nặng do bão số 10 tại huyện Kỳ Anh và thị xã Kỳ Anh (Hà Tĩnh).",
+      "spos":[
+         90,
+         262
+      ],
+      "entity_1":{
+         "text":"LĐLĐ",
+         "pos":[
+            9,
+            13
+         ]
+      },
+      "entity_2":{ 
+         "text":"thị xã Kỳ Anh",
+         "pos":[
+            159,
+            172
+         ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23352707",
+      "sent_id":198,
+      "sentence":"Lãnh đạo LĐLĐ Hà Tĩnh vừa thăm hỏi, động viên, trao tiền hỗ trợ cho các đoàn viên có hoàn cảnh khó khăn, nhà cửa hư hỏng nặng do bão số 10 tại huyện Kỳ Anh và thị xã Kỳ Anh (Hà Tĩnh).",
+      "spos":[
+         90,
+         262
+      ],
+      "entity_1":{
+         "text":"huyện Kỳ Anh",
+         "pos":[
+            143,
+            155
+         ]
+      },
+      "entity_2":{ 
+         "text":"thị xã Kỳ Anh",
+         "pos":[
+            159,
+            172
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":199,
+      "sentence":"Bà Bùi Thị Sinh, Hiệu trưởng Trường Tiểu học Hải Bối, huyện Đông Anh, Hà Nội.",
+      "spos":[
+         344,
+         421
+      ],
+      "entity_1":{
+        "text":"Trường Tiểu học",
+         "pos":[
+            29,
+            44
+         ]
+      },
+      "entity_2":{
+        "text":"huyện Đông Anh",
+         "pos":[
+            54,
+            68
+         ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":200,
+      "sentence":"Bà Bùi Thị Sinh, Hiệu trưởng Trường Tiểu học Hải Bối, huyện Đông Anh, Hà Nội.",
+      "spos":[
+         344,
+         421
+      ],
+      "entity_1":{
+        "text":"Trường Tiểu học",
+         "pos":[
+            29,
+            44
+         ]
+      },
+      "entity_2":{
+        "text":"Hà Nội",
+        "pos":[
+           70,
+           76
+        ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":201,
+      "sentence":"Bà Bùi Thị Sinh, Hiệu trưởng Trường Tiểu học Hải Bối, huyện Đông Anh, Hà Nội.",
+      "spos":[
+         344,
+         421
+      ],
+      "entity_1":{
+        "text":"huyện Đông Anh",
+        "pos":[
+           54,
+           68
+        ]
+      },
+      "entity_2":{
+        "text":"Hà Nội",
+        "pos":[
+           70,
+           76
+        ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":202,
+      "sentence":"Ông Tống Duy Hiến, Phó Chánh thanh tra Bộ GD-ĐT kết quả thanh tra đột xuất về lạm thu ở Hà Nội, Hải Phòng, Nghệ An, Hà Tĩnh cho thấy, các cơ sở giáo dục mà đoàn đến kiểm tra đều đã tổ chức thu nhiều khoản, trong đó có những khoản thu không đúng quy định đặc biệt là các khoản thu thỏa thuận.",
+      "spos":[
+         5190,
+         5480
+      ],
+      "entity_1":{
+        "text":"Tống Duy Hiến",
+        "pos":[
+           4,
+           17
+        ]
+      },
+      "entity_2":{
+        "text":"Bộ GD-ĐT",
+        "pos":[
+           39,
+           47
+        ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":203,
+      "sentence":"Ông Tống Duy Hiến, Phó Chánh thanh tra Bộ GD-ĐT kết quả thanh tra đột xuất về lạm thu ở Hà Nội, Hải Phòng, Nghệ An, Hà Tĩnh cho thấy, các cơ sở giáo dục mà đoàn đến kiểm tra đều đã tổ chức thu nhiều khoản, trong đó có những khoản thu không đúng quy định đặc biệt là các khoản thu thỏa thuận.",
+      "spos":[
+         5190,
+         5480
+      ],
+      "entity_1":{
+        "text":"Tống Duy Hiến",
+        "pos":[
+           4,
+           17
+        ]
+      },
+      "entity_2":{
+        "text":"Hà Nội",
+        "pos":[
+           88,
+           94
+        ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":204,
+      "sentence":"Ông Tống Duy Hiến, Phó Chánh thanh tra Bộ GD-ĐT kết quả thanh tra đột xuất về lạm thu ở Hà Nội, Hải Phòng, Nghệ An, Hà Tĩnh cho thấy, các cơ sở giáo dục mà đoàn đến kiểm tra đều đã tổ chức thu nhiều khoản, trong đó có những khoản thu không đúng quy định đặc biệt là các khoản thu thỏa thuận.",
+      "spos":[
+         5190,
+         5480
+      ],
+      "entity_1":{
+        "text":"Tống Duy Hiến",
+        "pos":[
+           4,
+           17
+        ]
+      },
+      "entity_2":{
+        "text":"Hải Phòng",
+        "pos":[
+           96,
+           105
+        ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":205,
+      "sentence":"Ông Tống Duy Hiến, Phó Chánh thanh tra Bộ GD-ĐT kết quả thanh tra đột xuất về lạm thu ở Hà Nội, Hải Phòng, Nghệ An, Hà Tĩnh cho thấy, các cơ sở giáo dục mà đoàn đến kiểm tra đều đã tổ chức thu nhiều khoản, trong đó có những khoản thu không đúng quy định đặc biệt là các khoản thu thỏa thuận.",
+      "spos":[
+         5190,
+         5480
+      ],
+      "entity_1":{
+        "text":"Tống Duy Hiến",
+        "pos":[
+           4,
+           17
+        ]
+      },
+      "entity_2":{
+        "text":"Nghệ An",
+        "pos":[
+           107,
+           114
+        ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":206,
+      "sentence":"Ông Tống Duy Hiến, Phó Chánh thanh tra Bộ GD-ĐT kết quả thanh tra đột xuất về lạm thu ở Hà Nội, Hải Phòng, Nghệ An, Hà Tĩnh cho thấy, các cơ sở giáo dục mà đoàn đến kiểm tra đều đã tổ chức thu nhiều khoản, trong đó có những khoản thu không đúng quy định đặc biệt là các khoản thu thỏa thuận.",
+      "spos":[
+         5190,
+         5480
+      ],
+      "entity_1":{
+        "text":"Tống Duy Hiến",
+        "pos":[
+           4,
+           17
+        ]
+      },
+      "entity_2":{
+        "text":"Hà Tĩnh",
+        "pos":[
+           116,
+           123
+        ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":207,
+      "sentence":"Ông Tống Duy Hiến, Phó Chánh thanh tra Bộ GD-ĐT kết quả thanh tra đột xuất về lạm thu ở Hà Nội, Hải Phòng, Nghệ An, Hà Tĩnh cho thấy, các cơ sở giáo dục mà đoàn đến kiểm tra đều đã tổ chức thu nhiều khoản, trong đó có những khoản thu không đúng quy định đặc biệt là các khoản thu thỏa thuận.",
+      "spos":[
+         5190,
+         5480
+      ],
+      "entity_1":{
+        "text":"Bộ GD-ĐT",
+        "pos":[
+           39,
+           47
+        ]
+      },
+      "entity_2":{
+        "text":"Hà Nội",
+        "pos":[
+           88,
+           94
+        ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":208,
+      "sentence":"Ông Tống Duy Hiến, Phó Chánh thanh tra Bộ GD-ĐT kết quả thanh tra đột xuất về lạm thu ở Hà Nội, Hải Phòng, Nghệ An, Hà Tĩnh cho thấy, các cơ sở giáo dục mà đoàn đến kiểm tra đều đã tổ chức thu nhiều khoản, trong đó có những khoản thu không đúng quy định đặc biệt là các khoản thu thỏa thuận.",
+      "spos":[
+         5190,
+         5480
+      ],
+      "entity_1":{
+        "text":"Bộ GD-ĐT",
+        "pos":[
+           39,
+           47
+        ]
+      },
+      "entity_2":{
+        "text":"Hải Phòng",
+        "pos":[
+           96,
+           105
+        ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":209,
+      "sentence":"Ông Tống Duy Hiến, Phó Chánh thanh tra Bộ GD-ĐT kết quả thanh tra đột xuất về lạm thu ở Hà Nội, Hải Phòng, Nghệ An, Hà Tĩnh cho thấy, các cơ sở giáo dục mà đoàn đến kiểm tra đều đã tổ chức thu nhiều khoản, trong đó có những khoản thu không đúng quy định đặc biệt là các khoản thu thỏa thuận.",
+      "spos":[
+         5190,
+         5480
+      ],
+      "entity_1":{
+        "text":"Bộ GD-ĐT",
+        "pos":[
+           39,
+           47
+        ]
+      },
+      "entity_2":{
+        "text":"Nghệ An",
+        "pos":[
+           107,
+           114
+        ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":210,
+      "sentence":"Ông Tống Duy Hiến, Phó Chánh thanh tra Bộ GD-ĐT kết quả thanh tra đột xuất về lạm thu ở Hà Nội, Hải Phòng, Nghệ An, Hà Tĩnh cho thấy, các cơ sở giáo dục mà đoàn đến kiểm tra đều đã tổ chức thu nhiều khoản, trong đó có những khoản thu không đúng quy định đặc biệt là các khoản thu thỏa thuận.",
+      "spos":[
+         5190,
+         5480
+      ],
+      "entity_1":{
+        "text":"Bộ GD-ĐT",
+        "pos":[
+           39,
+           47
+        ]
+      },
+      "entity_2":{
+        "text":"Hà Tĩnh",
+        "pos":[
+           116,
+           123
+        ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":211,
+      "sentence":"Ông Tống Duy Hiến, Phó Chánh thanh tra Bộ GD-ĐT kết quả thanh tra đột xuất về lạm thu ở Hà Nội, Hải Phòng, Nghệ An, Hà Tĩnh cho thấy, các cơ sở giáo dục mà đoàn đến kiểm tra đều đã tổ chức thu nhiều khoản, trong đó có những khoản thu không đúng quy định đặc biệt là các khoản thu thỏa thuận.",
+      "spos":[
+         5190,
+         5480
+      ],
+      "entity_1":{
+        "text":"Hà Nội",
+        "pos":[
+           88,
+           94
+        ]
+      },
+      "entity_2":{
+        "text":"Hải Phòng",
+        "pos":[
+           96,
+           105
+        ]
+      },
+      "label":"PART_WHOLE"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":212,
+      "sentence":"Ông Tống Duy Hiến, Phó Chánh thanh tra Bộ GD-ĐT kết quả thanh tra đột xuất về lạm thu ở Hà Nội, Hải Phòng, Nghệ An, Hà Tĩnh cho thấy, các cơ sở giáo dục mà đoàn đến kiểm tra đều đã tổ chức thu nhiều khoản, trong đó có những khoản thu không đúng quy định đặc biệt là các khoản thu thỏa thuận.",
+      "spos":[
+         5190,
+         5480
+      ],
+      "entity_1":{
+        "text":"Hà Nội",
+        "pos":[
+           88,
+           94
+        ]
+      },
+      "entity_2":{
+        "text":"Nghệ An",
+        "pos":[
+           107,
+           114
+        ]
+      },
+      "label":"PART_WHOLE"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":213,
+      "sentence":"Ông Tống Duy Hiến, Phó Chánh thanh tra Bộ GD-ĐT kết quả thanh tra đột xuất về lạm thu ở Hà Nội, Hải Phòng, Nghệ An, Hà Tĩnh cho thấy, các cơ sở giáo dục mà đoàn đến kiểm tra đều đã tổ chức thu nhiều khoản, trong đó có những khoản thu không đúng quy định đặc biệt là các khoản thu thỏa thuận.",
+      "spos":[
+         5190,
+         5480
+      ],
+      "entity_1":{
+        "text":"Hà Nội",
+        "pos":[
+           88,
+           94
+        ]
+      },
+      "entity_2":{
+        "text":"Hà Tĩnh",
+        "pos":[
+           116,
+           123
+        ]
+      },
+      "label":"PART_WHOLE"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":214,
+      "sentence":"Ông Tống Duy Hiến, Phó Chánh thanh tra Bộ GD-ĐT kết quả thanh tra đột xuất về lạm thu ở Hà Nội, Hải Phòng, Nghệ An, Hà Tĩnh cho thấy, các cơ sở giáo dục mà đoàn đến kiểm tra đều đã tổ chức thu nhiều khoản, trong đó có những khoản thu không đúng quy định đặc biệt là các khoản thu thỏa thuận.",
+      "spos":[
+         5190,
+         5480
+      ],
+      "entity_1":{
+        "text":"Hải Phòng",
+        "pos":[
+           96,
+           105
+        ]
+      },
+      "entity_2":{
+        "text":"Nghệ An",
+        "pos":[
+           107,
+           114
+        ]
+      },
+      "label":"PART_WHOLE"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":215,
+      "sentence":"Ông Tống Duy Hiến, Phó Chánh thanh tra Bộ GD-ĐT kết quả thanh tra đột xuất về lạm thu ở Hà Nội, Hải Phòng, Nghệ An, Hà Tĩnh cho thấy, các cơ sở giáo dục mà đoàn đến kiểm tra đều đã tổ chức thu nhiều khoản, trong đó có những khoản thu không đúng quy định đặc biệt là các khoản thu thỏa thuận.",
+      "spos":[
+         5190,
+         5480
+      ],
+      "entity_1":{
+        "text":"Hải Phòng",
+        "pos":[
+           96,
+           105
+        ]
+      },
+      "entity_2":{
+        "text":"Hà Tĩnh",
+        "pos":[
+           116,
+           123
+        ]
+      },
+      "label":"PART_WHOLE"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":216,
+      "sentence":"Ông Tống Duy Hiến, Phó Chánh thanh tra Bộ GD-ĐT kết quả thanh tra đột xuất về lạm thu ở Hà Nội, Hải Phòng, Nghệ An, Hà Tĩnh cho thấy, các cơ sở giáo dục mà đoàn đến kiểm tra đều đã tổ chức thu nhiều khoản, trong đó có những khoản thu không đúng quy định đặc biệt là các khoản thu thỏa thuận.",
+      "spos":[
+         5190,
+         5480
+      ],
+      "entity_1":{
+        "text":"Nghệ An",
+        "pos":[
+           107,
+           114
+        ]
+      },
+      "entity_2":{
+        "text":"Hà Tĩnh",
+        "pos":[
+           116,
+           123
+        ]
+      },
+      "label":"PART_WHOLE"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":217,
+      "sentence":"Đặc biệt có địa phương chủ tịch UBND xã phê duyệt mức thu và các khoản thu tự nguyện là không đúng quy định như Chủ tịch UBND xã Minh Tân huyện Thủy Nguyên, Hải Phòng và Chủ tịch UBND phường Thạch Quý, thành phố Hà Tĩnh - ông Hiến nói.",
+      "spos":[
+         6110,
+         6344
+      ],
+      "entity_1":{
+        "text":"UBND",
+        "pos":[
+           121,
+           125
+        ]
+      },
+      "entity_2":{
+        "text":"xã Minh Tân",
+        "pos":[
+           126,
+           137
+        ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":218,
+      "sentence":"Đặc biệt có địa phương chủ tịch UBND xã phê duyệt mức thu và các khoản thu tự nguyện là không đúng quy định như Chủ tịch UBND xã Minh Tân huyện Thủy Nguyên, Hải Phòng và Chủ tịch UBND phường Thạch Quý, thành phố Hà Tĩnh - ông Hiến nói.",
+      "spos":[
+         6110,
+         6344
+      ],
+      "entity_1":{
+        "text":"UBND",
+        "pos":[
+           121,
+           125
+        ]
+      },
+      "entity_2":{
+        "text":"huyện Thủy Nguyên",
+        "pos":[
+           138,
+           155
+        ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":219,
+      "sentence":"Đặc biệt có địa phương chủ tịch UBND xã phê duyệt mức thu và các khoản thu tự nguyện là không đúng quy định như Chủ tịch UBND xã Minh Tân huyện Thủy Nguyên, Hải Phòng và Chủ tịch UBND phường Thạch Quý, thành phố Hà Tĩnh - ông Hiến nói.",
+      "spos":[
+         6110,
+         6344
+      ],
+      "entity_1":{
+        "text":"UBND",
+        "pos":[
+           121,
+           125
+        ]
+      },
+      "entity_2":{
+        "text":"Hải Phòng",
+        "pos":[
+           157,
+           166
+        ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":220,
+      "sentence":"Đặc biệt có địa phương chủ tịch UBND xã phê duyệt mức thu và các khoản thu tự nguyện là không đúng quy định như Chủ tịch UBND xã Minh Tân huyện Thủy Nguyên, Hải Phòng và Chủ tịch UBND phường Thạch Quý, thành phố Hà Tĩnh - ông Hiến nói.",
+      "spos":[
+         6110,
+         6344
+      ],
+      "entity_1":{
+        "text":"huyện Thủy Nguyên",
+        "pos":[
+           138,
+           155
+        ]
+      },
+      "entity_2":{
+        "text":"Hải Phòng",
+        "pos":[
+           157,
+           166
+        ]
+      },
+      "label":"PART_WHOLE"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":221,
+      "sentence":"Đặc biệt có địa phương chủ tịch UBND xã phê duyệt mức thu và các khoản thu tự nguyện là không đúng quy định như Chủ tịch UBND xã Minh Tân huyện Thủy Nguyên, Hải Phòng và Chủ tịch UBND phường Thạch Quý, thành phố Hà Tĩnh - ông Hiến nói.",
+      "spos":[
+         6110,
+         6344
+      ],
+      "entity_1":{
+        "text":"UBND",
+        "pos":[
+           179,
+           183
+        ]
+      },
+      "entity_2":{
+        "text":"phường Thạch Quý",
+        "pos":[
+           184,
+           200
+        ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":222,
+      "sentence":"Đặc biệt có địa phương chủ tịch UBND xã phê duyệt mức thu và các khoản thu tự nguyện là không đúng quy định như Chủ tịch UBND xã Minh Tân huyện Thủy Nguyên, Hải Phòng và Chủ tịch UBND phường Thạch Quý, thành phố Hà Tĩnh - ông Hiến nói.",
+      "spos":[
+         6110,
+         6344
+      ],
+      "entity_1":{
+        "text":"UBND",
+        "pos":[
+           179,
+           183
+        ]
+      },
+      "entity_2":{
+        "text":"thành phố Hà Tĩnh",
+        "pos":[
+           202,
+           219
+        ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353218",
+      "sent_id":223,
+      "sentence":"Đặc biệt có địa phương chủ tịch UBND xã phê duyệt mức thu và các khoản thu tự nguyện là không đúng quy định như Chủ tịch UBND xã Minh Tân huyện Thủy Nguyên, Hải Phòng và Chủ tịch UBND phường Thạch Quý, thành phố Hà Tĩnh - ông Hiến nói.",
+      "spos":[
+         6110,
+         6344
+      ],
+      "entity_1":{
+        "text":"phường Thạch Quý",
+        "pos":[
+           184,
+           200
+        ]
+      },
+      "entity_2":{
+        "text":"thành phố Hà Tĩnh",
+        "pos":[
+           202,
+           219
+        ]
+      },
+      "label":"PART_WHOLE"
+   },
+   {
+      "doc_id":"23353387",
+      "sent_id":224,
+      "sentence":"Không đáp ứng đủ tiêu chuẩn, hàng loạt cán bộ huyện miền núi Tây Trà (Quảng Ngãi) vẫn được bổ nhiệm trưởng, phó phòng.",
+      "spos":[
+         57,
+         174
+      ],
+      "entity_1":{
+        "text":"Tây Trà",
+        "pos":[
+           61,
+           68
+        ]
+      },
+      "entity_2":{
+        "text":"Quảng Ngãi",
+        "pos":[
+           70,
+           80
+        ]
+      },
+      "label":"PART_WHOLE"
+   },
+   {
+      "doc_id":"23353387",
+      "sent_id":225,
+      "sentence":"Ngày 22/9, ông Phạm Xuân Vinh - Bí thư huyện Tây Trà (Quảng Ngãi) cho biết, Thường vụ Huyện ủy đã làm việc với Đại học Nội vụ cơ sở miền Trung và xin tỉnh mở lớp bồi dưỡng cho các cán bộ bổ nhiệm chưa đạt chuẩn.",
+      "spos":[
+         175,
+         211
+      ],
+      "entity_1":{
+        "text":"Phạm Xuân Vinh",
+        "pos":[
+           15,
+           29
+        ]
+      },
+      "entity_2":{
+        "text":"Bí thư",
+        "pos":[
+           32,
+           38
+        ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23353387",
+      "sent_id":226,
+      "sentence":"Ngày 22/9, ông Phạm Xuân Vinh - Bí thư huyện Tây Trà (Quảng Ngãi) cho biết, Thường vụ Huyện ủy đã làm việc với Đại học Nội vụ cơ sở miền Trung và xin tỉnh mở lớp bồi dưỡng cho các cán bộ bổ nhiệm chưa đạt chuẩn.",
+      "spos":[
+         175,
+         211
+      ],
+      "entity_1":{
+        "text":"Phạm Xuân Vinh",
+        "pos":[
+           15,
+           29
+        ]
+      },
+      "entity_2":{
+        "text":"huyện Tây Trà",
+        "pos":[
+           39,
+           52
+        ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353387",
+      "sent_id":227,
+      "sentence":"Ngày 22/9, ông Phạm Xuân Vinh - Bí thư huyện Tây Trà (Quảng Ngãi) cho biết, Thường vụ Huyện ủy đã làm việc với Đại học Nội vụ cơ sở miền Trung và xin tỉnh mở lớp bồi dưỡng cho các cán bộ bổ nhiệm chưa đạt chuẩn.",
+      "spos":[
+         175,
+         211
+      ],
+      "entity_1":{
+        "text":"Phạm Xuân Vinh",
+        "pos":[
+           15,
+           29
+        ]
+      },
+      "entity_2":{
+        "text":"Đại học Nội vụ",
+        "pos":[
+           111,
+           125
+        ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23353387",
+      "sent_id":228,
+      "sentence":"Ngày 22/9, ông Phạm Xuân Vinh - Bí thư huyện Tây Trà (Quảng Ngãi) cho biết, Thường vụ Huyện ủy đã làm việc với Đại học Nội vụ cơ sở miền Trung và xin tỉnh mở lớp bồi dưỡng cho các cán bộ bổ nhiệm chưa đạt chuẩn.",
+      "spos":[
+         175,
+         211
+      ],
+      "entity_1":{
+        "text":"Phạm Xuân Vinh",
+        "pos":[
+           15,
+           29
+        ]
+      },
+      "entity_2":{
+        "text":"miền Trung",
+        "pos":[
+           132,
+           142
+        ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23353387",
+      "sent_id":229,
+      "sentence":"Ngày 22/9, ông Phạm Xuân Vinh - Bí thư huyện Tây Trà (Quảng Ngãi) cho biết, Thường vụ Huyện ủy đã làm việc với Đại học Nội vụ cơ sở miền Trung và xin tỉnh mở lớp bồi dưỡng cho các cán bộ bổ nhiệm chưa đạt chuẩn.",
+      "spos":[
+         175,
+         211
+      ],
+      "entity_1":{
+        "text":"Đại học Nội vụ",
+        "pos":[
+           111,
+           125
+        ]
+      },
+      "entity_2":{
+        "text":"miền Trung",
+        "pos":[
+           132,
+           142
+        ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353553",
+      "sent_id":230,
+      "sentence":"Trường tiểu học Hoàng Hoa Thám (Ba Đình, Hà Nội) Giòi xuất hiện trong bữa cơm trưa tại trường của học sinh?",
+      "spos":[
+         0,
+         107
+      ],
+      "entity_1":{
+        "text":"Trường tiểu học",
+        "pos":[
+           0,
+           15
+        ]
+      },
+      "entity_2":{
+        "text":"Hoàng Hoa Thám",
+        "pos":[
+           16,
+           30
+        ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353553",
+      "sent_id":231,
+      "sentence":"Trường tiểu học Hoàng Hoa Thám (Ba Đình, Hà Nội) Giòi xuất hiện trong bữa cơm trưa tại trường của học sinh?",
+      "spos":[
+         0,
+         107
+      ],
+      "entity_1":{
+        "text":"Trường tiểu học",
+        "pos":[
+           0,
+           15
+        ]
+      },
+      "entity_2":{
+        "text":"Ba Đình",
+        "pos":[
+           32,
+           39
+        ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353553",
+      "sent_id":232,
+      "sentence":"Trường tiểu học Hoàng Hoa Thám (Ba Đình, Hà Nội) Giòi xuất hiện trong bữa cơm trưa tại trường của học sinh?",
+      "spos":[
+         0,
+         107
+      ],
+      "entity_1":{
+        "text":"Trường tiểu học",
+        "pos":[
+           0,
+           15
+        ]
+      },
+      "entity_2":{
+        "text":"Hà Nội",
+        "pos":[
+           41,
+           47
+        ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353553",
+      "sent_id":233,
+      "sentence":"Trường tiểu học Hoàng Hoa Thám (Ba Đình, Hà Nội) Giòi xuất hiện trong bữa cơm trưa tại trường của học sinh?",
+      "spos":[
+         0,
+         107
+      ],
+      "entity_1":{
+        "text":"Ba Đình",
+        "pos":[
+           32,
+           39
+        ]
+      },
+      "entity_2":{
+        "text":"Hà Nội",
+        "pos":[
+           41,
+           47
+        ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353553",
+      "sent_id":234,
+      "sentence":"Đường dây nóng Báo Sức khỏe Cộng đồng nhận được phản ánh của một số phụ huynh có con em đang học tại lớp 3D trường Tiểu học Hoàng Hoa Thám (Ba Đình, Hà Nội) về việc trong suất cơm trưa nấu tại trường để cho các cháu học sinh ăn xuất hiện nhiều con giòi ngoe nguẩy.",
+      "spos":[
+         108,
+         371
+      ],
+      "entity_1":{
+        "text":"Báo Sức khỏe Cộng đồng",
+        "pos":[
+           15,
+           37
+        ]
+      },
+      "entity_2":{
+        "text":"lớp 3D",
+        "pos":[
+           101,
+           107
+        ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23353553",
+      "sent_id":235,
+      "sentence":"Đường dây nóng Báo Sức khỏe Cộng đồng nhận được phản ánh của một số phụ huynh có con em đang học tại lớp 3D trường Tiểu học Hoàng Hoa Thám (Ba Đình, Hà Nội) về việc trong suất cơm trưa nấu tại trường để cho các cháu học sinh ăn xuất hiện nhiều con giòi ngoe nguẩy.",
+      "spos":[
+         108,
+         371
+      ],
+      "entity_1":{
+        "text":"Báo Sức khỏe Cộng đồng",
+        "pos":[
+           15,
+           37
+        ]
+      },
+      "entity_2":{
+        "text":"trường Tiểu học",
+        "pos":[
+           108,
+           123
+        ]
+      },
+      "label":"PART_WHOLE"
+   },
+   {
+      "doc_id":"23353553",
+      "sent_id":236,
+      "sentence":"Đường dây nóng Báo Sức khỏe Cộng đồng nhận được phản ánh của một số phụ huynh có con em đang học tại lớp 3D trường Tiểu học Hoàng Hoa Thám (Ba Đình, Hà Nội) về việc trong suất cơm trưa nấu tại trường để cho các cháu học sinh ăn xuất hiện nhiều con giòi ngoe nguẩy.",
+      "spos":[
+         108,
+         371
+      ],
+      "entity_1":{
+        "text":"Báo Sức khỏe Cộng đồng",
+        "pos":[
+           15,
+           37
+        ]
+      },
+      "entity_2":{
+        "text":"Hoàng Hoa Thám",
+        "pos":[
+           124,
+           138
+        ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353553",
+      "sent_id":237,
+      "sentence":"Đường dây nóng Báo Sức khỏe Cộng đồng nhận được phản ánh của một số phụ huynh có con em đang học tại lớp 3D trường Tiểu học Hoàng Hoa Thám (Ba Đình, Hà Nội) về việc trong suất cơm trưa nấu tại trường để cho các cháu học sinh ăn xuất hiện nhiều con giòi ngoe nguẩy.",
+      "spos":[
+         108,
+         371
+      ],
+      "entity_1":{
+        "text":"lớp 3D",
+        "pos":[
+           101,
+           107
+        ]
+      },
+      "entity_2":{
+        "text":"trường Tiểu học",
+        "pos":[
+           108,
+           123
+        ]
+      },
+      "label":"PART_WHOLE"
+   },
+   {
+      "doc_id":"23353553",
+      "sent_id":238,
+      "sentence":"Đường dây nóng Báo Sức khỏe Cộng đồng nhận được phản ánh của một số phụ huynh có con em đang học tại lớp 3D trường Tiểu học Hoàng Hoa Thám (Ba Đình, Hà Nội) về việc trong suất cơm trưa nấu tại trường để cho các cháu học sinh ăn xuất hiện nhiều con giòi ngoe nguẩy.",
+      "spos":[
+         108,
+         371
+      ],
+      "entity_1":{
+        "text":"lớp 3D",
+        "pos":[
+           101,
+           107
+        ]
+      },
+      "entity_2":{
+        "text":"Hoàng Hoa Thám",
+        "pos":[
+           124,
+           138
+        ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353553",
+      "sent_id":239,
+      "sentence":"Đường dây nóng Báo Sức khỏe Cộng đồng nhận được phản ánh của một số phụ huynh có con em đang học tại lớp 3D trường Tiểu học Hoàng Hoa Thám (Ba Đình, Hà Nội) về việc trong suất cơm trưa nấu tại trường để cho các cháu học sinh ăn xuất hiện nhiều con giòi ngoe nguẩy.",
+      "spos":[
+         108,
+         371
+      ],
+      "entity_1":{
+        "text":"trường Tiểu học",
+        "pos":[
+           108,
+           123
+        ]
+      },
+      "entity_2":{
+        "text":"Hoàng Hoa Thám",
+        "pos":[
+           124,
+           138
+        ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353553",
+      "sent_id":240,
+      "sentence":"Theo sự hướng dẫn của bảo vệ trường Hoàng Hoa Thám, PV đã liên hệ công tác tại Phòng Giáo dục Đào tạo Quận Ba Đình. Tuy nhiên, sau khi trình bày vấn đề, PV cũng bị từ chối kết nối tới làm việc tới Trường Tiểu học Hoàng Hoa Thám.",
+      "spos":[
+         1706,
+         1933
+      ],
+      "entity_1":{
+        "text":"trường Hoàng Hoa Thám",
+        "pos":[
+           29,
+           50
+        ]
+      },
+      "entity_2":{
+        "text":"Phòng Giáo dục Đào tạo",
+        "pos":[
+           79,
+           101
+        ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23353553",
+      "sent_id":241,
+      "sentence":"Theo sự hướng dẫn của bảo vệ trường Hoàng Hoa Thám, PV đã liên hệ công tác tại Phòng Giáo dục Đào tạo Quận Ba Đình. Tuy nhiên, sau khi trình bày vấn đề, PV cũng bị từ chối kết nối tới làm việc tới Trường Tiểu học Hoàng Hoa Thám.",
+      "spos":[
+         1706,
+         1933
+      ],
+      "entity_1":{
+        "text":"Phòng Giáo dục Đào tạo",
+        "pos":[
+           79,
+           101
+        ]
+      },
+      "entity_2":{
+        "text":"Quận Ba Đình",
+        "pos":[
+           102,
+           114
+        ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353760",
+      "sent_id":242,
+      "sentence":"Theo giáo viên chủ nhiệm từ lúc đi thực tập tại thành phố Uông Bí về, nữ sinh Vũ Thị Diên có những tâm lý bất thường, bỏ thi tốt nghiệp không rõ lý do",
+      "spos":[
+         82,
+         150
+      ],
+      "entity_1":{
+        "text":"thành phố Uông Bí",
+        "pos":[
+           48,
+           65
+        ]
+      },
+      "entity_2":{
+        "text":"Vũ Thị Diên",
+        "pos":[
+           78,
+           89
+        ]
+      },
+      "label":"OTHERS"
+   },
+   {
+      "doc_id":"23353760",
+      "sent_id":243,
+      "sentence":"Liên quan đến nữ sinh Vũ Thị Diên - sinh viên lớp Kỹ thuật y học K5, Đại học Y dược Hải Phòng mất tích, ngày 22/9, giáo viên chủ nhiệm lớp đã có những chia sẻ về Diên trong quá trình học tập tại trường.",
+      "spos":[
+         232,
+         433
+      ],
+      "entity_1":{
+        "text":"Vũ Thị Diên",
+        "pos":[
+           22,
+           33
+        ]
+      },
+      "entity_2":{
+        "text":"lớp Kỹ thuật y học K5",
+        "pos":[
+           46,
+           67
+        ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23353760",
+      "sent_id":244,
+      "sentence":"Liên quan đến nữ sinh Vũ Thị Diên - sinh viên lớp Kỹ thuật y học K5, Đại học Y dược Hải Phòng mất tích, ngày 22/9, giáo viên chủ nhiệm lớp đã có những chia sẻ về Diên trong quá trình học tập tại trường.",
+      "spos":[
+         232,
+         433
+      ],
+      "entity_1":{
+        "text":"Vũ Thị Diên",
+        "pos":[
+           22,
+           33
+        ]
+      },
+      "entity_2":{
+        "text":"Đại học Y dược",
+        "pos":[
+           69,
+           83
+        ]
+      },
+      "label":"AFFILIATION"
+   },
+   {
+      "doc_id":"23353760",
+      "sent_id":245,
+      "sentence":"Liên quan đến nữ sinh Vũ Thị Diên - sinh viên lớp Kỹ thuật y học K5, Đại học Y dược Hải Phòng mất tích, ngày 22/9, giáo viên chủ nhiệm lớp đã có những chia sẻ về Diên trong quá trình học tập tại trường.",
+      "spos":[
+         232,
+         433
+      ],
+      "entity_1":{
+        "text":"Vũ Thị Diên",
+        "pos":[
+           22,
+           33
+        ]
+      },
+      "entity_2":{
+        "text":"Hải Phòng",
+        "pos":[
+           84,
+           93
+        ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353760",
+      "sent_id":246,
+      "sentence":"Liên quan đến nữ sinh Vũ Thị Diên - sinh viên lớp Kỹ thuật y học K5, Đại học Y dược Hải Phòng mất tích, ngày 22/9, giáo viên chủ nhiệm lớp đã có những chia sẻ về Diên trong quá trình học tập tại trường.",
+      "spos":[
+         232,
+         433
+      ],
+      "entity_1":{
+        "text":"lớp Kỹ thuật y học K5",
+        "pos":[
+           46,
+           67
+        ]
+      },
+      "entity_2":{
+        "text":"Đại học Y dược",
+        "pos":[
+           69,
+           83
+        ]
+      },
+      "label":"PART_WHOLE"
+   },
+   {
+      "doc_id":"23353760",
+      "sent_id":247,
+      "sentence":"Liên quan đến nữ sinh Vũ Thị Diên - sinh viên lớp Kỹ thuật y học K5, Đại học Y dược Hải Phòng mất tích, ngày 22/9, giáo viên chủ nhiệm lớp đã có những chia sẻ về Diên trong quá trình học tập tại trường.",
+      "spos":[
+         232,
+         433
+      ],
+      "entity_1":{
+        "text":"lớp Kỹ thuật y học K5",
+        "pos":[
+           46,
+           67
+        ]
+      },
+      "entity_2":{
+        "text":"Hải Phòng",
+        "pos":[
+           84,
+           93
+        ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353760",
+      "sent_id":248,
+      "sentence":"Liên quan đến nữ sinh Vũ Thị Diên - sinh viên lớp Kỹ thuật y học K5, Đại học Y dược Hải Phòng mất tích, ngày 22/9, giáo viên chủ nhiệm lớp đã có những chia sẻ về Diên trong quá trình học tập tại trường.",
+      "spos":[
+         232,
+         433
+      ],
+      "entity_1":{
+        "text":"Đại học Y dược",
+        "pos":[
+           69,
+           83
+        ]
+      },
+      "entity_2":{
+        "text":"Hải Phòng",
+        "pos":[
+           84,
+           93
+        ]
+      },
+      "label":"LOCATED"
+   },
+   {
+      "doc_id":"23353760",
+      "sent_id":249,
+      "sentence":"Theo bà Vũ Thị Hường – Giáo viên Chủ nhiệm lớp Kỹ thuật y học K5, từ sau đợt đi thực tập tại thành phố Uông Bí (Quảng Ninh) tháng 4/2017 về, dường như Diên không quan tâm đến việc ôn thi, mà có những biểu hiện bất thường về tâm lý.",
+      "spos":[
+         434,
+         644
+      ],
+      "entity_1":{
+        "text":"Vũ Thị Hường",
+        "pos":[
+           8,
+           20
+        ]
+      },
+      "entity_2":{
+        "text":"Giáo viên Chủ nhiệm",
+        "pos":[
+           23,
+           42
+        ]
+      },
+      "label":"AFFILIATION"
+   }
+  
+]
